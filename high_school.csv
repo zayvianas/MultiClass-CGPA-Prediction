@@ -1,0 +1,2370 @@
+Gender,ParentEdu,ParentMaritalStatus,ExtraCurricular,IsFirstChild,Siblings,Transportation,AvgReadingScore,AvgWritingScore,traveltime,studytime,internet,freetime,absences,CGPA
+female,bachelor's degree,married,regularly,yes,3,school_bus,71,74,2,2,no,3,6,C
+female,some college,married,sometimes,yes,0,,90,88,1,2,yes,3,4,D
+female,master's degree,single,sometimes,yes,4,school_bus,93,91,1,2,yes,3,10,B
+male,associate's degree,married,never,no,1,,56,42,1,3,yes,2,2,F
+male,some college,married,sometimes,yes,0,school_bus,78,75,1,2,no,3,4,C
+female,associate's degree,married,regularly,yes,1,school_bus,84,79,1,2,yes,4,10,C
+female,some college,widowed,never,no,1,private,93,89,1,2,yes,4,0,B
+male,some college,married,sometimes,yes,1,private,43,39,2,2,no,1,6,F
+male,high school,single,sometimes,no,3,private,64,68,1,2,yes,2,0,D
+female,high school,married,regularly,yes,,private,59,50,1,2,yes,5,0,F
+male,associate's degree,,sometimes,yes,1,private,54,52,1,2,yes,3,0,F
+male,associate's degree,divorced,sometimes,yes,1,school_bus,52,43,3,3,yes,2,4,F
+female,high school,married,regularly,no,1,private,82,74,1,1,yes,3,2,D
+male,some college,single,sometimes,yes,1,private,73,71,2,2,yes,4,2,B
+female,master's degree,divorced,sometimes,yes,2,private,53,58,1,3,yes,5,0,F
+female,some high school,married,sometimes,yes,0,private,75,78,1,1,yes,4,4,D
+male,high school,married,sometimes,yes,0,school_bus,89,86,1,3,yes,2,6,B
+female,some high school,divorced,sometimes,yes,1,school_bus,32,28,3,2,no,3,4,F
+male,master's degree,single,sometimes,no,1,private,42,47,1,1,yes,5,16,F
+female,associate's degree,married,never,yes,3,private,56,58,1,1,yes,1,4,F
+male,high school,married,sometimes,yes,5,school_bus,69,63,1,2,yes,4,0,D
+female,some college,married,sometimes,no,2,school_bus,75,70,1,1,yes,4,0,D
+male,,married,never,yes,5,,53,51,1,2,yes,5,2,F
+female,some high school,divorced,never,no,3,,71,71,2,2,yes,4,0,D
+male,,married,sometimes,yes,2,school_bus,71,80,1,3,yes,3,2,C
+male,master's degree,married,regularly,yes,1,school_bus,76,76,1,1,yes,2,14,C
+male,some college,married,sometimes,yes,5,school_bus,53,53,1,1,yes,2,2,D
+female,bachelor's degree,married,sometimes,yes,4,school_bus,70,76,1,1,yes,2,4,D
+male,high school,married,sometimes,no,1,private,70,65,1,2,yes,3,4,C
+female,some college,single,sometimes,yes,0,private,72,72,1,2,yes,4,16,D
+female,some college,single,sometimes,yes,5,,65,61,1,2,yes,4,0,D
+female,master's degree,divorced,sometimes,yes,1,school_bus,73,66,2,2,yes,3,0,F
+male,some college,married,sometimes,no,2,private,42,38,1,2,yes,5,0,F
+male,some college,divorced,sometimes,yes,0,school_bus,87,82,1,2,yes,3,0,A
+male,associate's degree,single,sometimes,no,,school_bus,81,79,1,1,yes,4,0,B
+female,associate's degree,married,regularly,no,2,private,82,85,2,1,no,5,0,C
+female,some high school,married,regularly,yes,1,private,64,60,1,3,yes,4,2,F
+female,associate's degree,married,regularly,no,1,school_bus,91,90,2,3,yes,4,7,C
+male,associate's degree,single,regularly,yes,5,school_bus,56,58,1,3,yes,3,2,F
+male,associate's degree,married,never,yes,0,school_bus,60,52,1,1,no,3,8,F
+female,associate's degree,divorced,regularly,no,1,,74,69,2,2,yes,3,25,F
+male,some college,married,regularly,yes,3,school_bus,65,67,1,1,yes,4,8,D
+female,associate's degree,married,sometimes,yes,5,school_bus,55,52,1,2,yes,3,2,F
+male,associate's degree,single,sometimes,yes,3,school_bus,53,55,1,1,yes,4,0,D
+female,high school,married,regularly,yes,,private,72,77,2,2,yes,3,14,D
+male,high school,married,sometimes,,3,,84,82,1,2,yes,2,8,B
+male,some college,married,,no,3,school_bus,55,48,1,2,yes,3,12,F
+male,associate's degree,married,regularly,no,2,private,68,68,1,4,yes,2,4,C
+male,some college,divorced,regularly,yes,3,school_bus,45,43,1,2,no,3,2,F
+male,high school,single,sometimes,yes,2,school_bus,78,75,1,2,yes,4,2,B
+female,some high school,married,regularly,yes,,private,86,90,3,2,yes,3,2,C
+female,high school,divorced,sometimes,yes,2,private,41,43,1,2,yes,3,2,F
+female,associate's degree,married,sometimes,yes,3,school_bus,86,87,2,1,no,5,6,B
+male,associate's degree,single,sometimes,no,2,private,55,49,1,1,yes,3,0,F
+male,,married,regularly,no,1,private,60,60,1,1,yes,3,6,D
+female,some high school,single,regularly,yes,3,school_bus,17,10,1,2,yes,3,8,F
+male,some high school,married,sometimes,yes,,school_bus,39,34,1,2,yes,3,0,F
+male,associate's degree,married,sometimes,yes,5,private,61,55,1,2,no,2,4,D
+female,some high school,married,sometimes,yes,0,school_bus,58,59,1,2,yes,3,2,F
+male,some high school,married,never,yes,1,private,62,58,1,2,yes,2,2,D
+male,some high school,married,sometimes,yes,4,school_bus,37,37,1,2,no,4,6,F
+female,some college,married,regularly,no,3,school_bus,73,75,4,1,yes,5,6,D
+male,associate's degree,divorced,regularly,no,3,school_bus,58,57,1,2,yes,4,4,D
+female,associate's degree,single,sometimes,yes,3,school_bus,64,57,1,3,yes,4,2,F
+male,some college,divorced,sometimes,yes,3,private,55,64,1,2,yes,4,0,D
+female,associate's degree,single,regularly,yes,1,private,51,49,3,2,yes,4,2,F
+male,some high school,divorced,never,yes,3,school_bus,56,54,1,4,yes,3,4,F
+male,some high school,married,sometimes,yes,2,private,48,40,1,4,yes,3,4,F
+male,associate's degree,divorced,sometimes,no,,school_bus,41,38,2,2,yes,1,2,F
+male,some high school,,sometimes,no,5,school_bus,25,21,2,4,yes,4,12,F
+male,,,regularly,yes,,,79,83,2,4,yes,3,0,B
+female,some high school,divorced,sometimes,yes,2,school_bus,75,73,1,4,yes,3,0,D
+female,master's degree,divorced,never,yes,1,school_bus,68,68,1,2,yes,3,2,D
+female,associate's degree,married,regularly,yes,0,private,50,52,1,1,no,3,2,F
+male,high school,married,sometimes,yes,0,private,45,45,1,2,yes,3,54,F
+male,some college,married,sometimes,no,,school_bus,47,54,1,2,yes,3,6,F
+male,associate's degree,married,regularly,yes,0,private,64,64,2,4,yes,4,8,C
+male,high school,married,never,,3,private,38,33,1,4,yes,2,0,F
+female,some college,divorced,sometimes,yes,0,private,80,82,2,1,yes,5,2,C
+female,some college,married,sometimes,yes,,school_bus,81,86,1,2,yes,4,12,C
+female,associate's degree,single,sometimes,yes,0,private,71,74,1,1,yes,2,2,C
+female,some college,divorced,regularly,yes,3,school_bus,69,67,1,3,yes,3,4,F
+female,some high school,single,sometimes,yes,,private,87,83,1,2,yes,4,10,C
+male,high school,divorced,regularly,no,4,,34,36,2,2,yes,3,4,F
+male,high school,divorced,sometimes,no,1,,77,69,1,2,yes,3,2,D
+male,associate's degree,married,regularly,no,3,private,46,52,2,2,yes,4,6,F
+female,some college,married,regularly,yes,4,private,87,94,1,2,no,3,4,B
+male,some high school,married,regularly,yes,5,school_bus,65,61,1,3,yes,3,4,D
+female,some college,married,never,yes,0,school_bus,69,66,2,2,yes,4,12,F
+female,some college,single,regularly,yes,2,,69,64,1,2,no,1,18,D
+female,bachelor's degree,married,regularly,yes,3,school_bus,66,62,1,3,yes,3,0,D
+male,some college,married,sometimes,no,7,school_bus,67,67,1,1,yes,5,4,C
+male,bachelor's degree,single,sometimes,no,1,private,74,74,1,2,no,3,4,D
+female,associate's degree,married,regularly,yes,3,school_bus,92,91,2,2,yes,3,0,B
+male,high school,married,regularly,no,3,school_bus,44,48,1,4,yes,3,6,D
+male,some college,married,regularly,yes,1,school_bus,88,94,2,4,yes,1,2,A
+female,some college,married,sometimes,yes,0,school_bus,67,72,2,1,yes,3,2,F
+female,master's degree,married,sometimes,no,3,private,100,100,1,2,no,3,2,B
+male,,single,sometimes,yes,0,school_bus,63,64,1,1,yes,3,6,D
+female,associate's degree,married,sometimes,yes,2,school_bus,76,70,1,3,yes,3,0,F
+female,some high school,single,regularly,no,3,school_bus,64,73,1,1,yes,5,14,C
+female,associate's degree,single,sometimes,yes,4,school_bus,90,99,1,3,yes,4,0,C
+male,high school,single,regularly,no,6,,55,50,1,1,yes,3,4,D
+male,associate's degree,married,sometimes,yes,0,school_bus,53,47,2,2,yes,3,26,F
+female,some college,married,never,yes,1,school_bus,56,51,1,2,yes,4,0,F
+female,bachelor's degree,married,regularly,yes,3,school_bus,99,100,1,4,no,3,10,A
+male,high school,married,sometimes,yes,4,private,77,74,1,4,yes,1,8,B
+female,bachelor's degree,single,never,no,1,school_bus,83,79,1,3,yes,3,2,C
+female,bachelor's degree,married,never,no,2,private,80,77,4,4,yes,3,6,C
+female,some high school,single,regularly,yes,0,private,64,63,1,3,yes,4,4,F
+female,some college,divorced,sometimes,no,3,school_bus,69,65,1,1,yes,5,6,F
+female,bachelor's degree,married,never,yes,1,school_bus,90,86,1,3,yes,1,0,C
+male,associate's degree,married,sometimes,yes,3,school_bus,87,90,1,2,yes,1,6,B
+female,some college,single,regularly,yes,1,,94,95,1,1,yes,5,10,A
+male,high school,married,sometimes,no,3,private,57,56,1,2,yes,4,8,D
+male,some college,single,regularly,no,3,school_bus,79,73,1,2,yes,4,2,B
+female,high school,single,never,yes,2,school_bus,94,85,2,2,no,4,2,B
+male,,married,,no,3,private,68,67,2,1,yes,4,0,C
+male,some college,married,regularly,no,3,school_bus,76,74,3,2,yes,2,20,D
+male,master's degree,single,never,yes,2,private,81,72,1,1,yes,4,6,C
+female,bachelor's degree,,regularly,yes,0,school_bus,49,52,1,2,yes,2,2,F
+male,master's degree,single,sometimes,no,1,school_bus,84,82,1,4,yes,5,6,B
+male,some high school,single,regularly,yes,1,private,36,40,2,2,yes,2,2,F
+male,some college,married,regularly,yes,2,school_bus,75,71,1,1,yes,4,18,B
+female,some college,married,never,no,6,,78,80,1,2,yes,4,0,C
+male,bachelor's degree,married,sometimes,yes,1,private,80,76,1,1,yes,5,0,C
+male,bachelor's degree,married,sometimes,yes,1,,54,47,1,2,yes,3,0,F
+male,some high school,divorced,sometimes,yes,1,private,54,41,1,2,no,4,2,F
+male,high school,divorced,sometimes,yes,0,school_bus,54,54,1,1,yes,3,0,D
+female,associate's degree,married,sometimes,yes,1,private,66,67,1,1,yes,5,8,F
+male,some college,married,sometimes,yes,0,private,61,70,2,3,yes,2,0,C
+female,some high school,married,sometimes,no,1,school_bus,72,71,3,1,yes,3,0,C
+female,some college,married,regularly,no,2,private,62,65,1,1,yes,4,12,D
+female,some college,single,regularly,,1,private,54,54,1,1,yes,2,16,F
+male,high school,single,sometimes,no,1,school_bus,43,47,4,2,no,3,0,F
+male,some college,divorced,sometimes,yes,3,private,74,79,1,3,yes,3,0,A
+female,some college,single,regularly,yes,1,school_bus,38,33,3,2,no,4,0,F
+female,bachelor's degree,married,sometimes,yes,1,private,73,79,2,1,yes,3,0,D
+male,associate's degree,married,regularly,no,3,private,100,95,1,2,no,4,0,A
+male,some high school,married,sometimes,no,2,private,67,69,2,1,yes,3,0,D
+female,associate's degree,single,sometimes,yes,2,school_bus,68,64,2,4,yes,2,0,F
+male,bachelor's degree,married,sometimes,no,1,,49,47,2,1,yes,3,8,F
+male,some high school,single,never,no,2,,65,58,1,3,yes,2,2,F
+female,some college,married,regularly,yes,3,school_bus,88,88,1,1,yes,4,2,D
+female,high school,married,regularly,yes,1,school_bus,75,79,1,1,yes,4,0,D
+male,,,sometimes,yes,2,school_bus,59,58,1,2,yes,4,0,F
+female,associate's degree,divorced,regularly,yes,2,private,87,89,1,2,yes,3,0,D
+male,associate's degree,married,regularly,no,3,school_bus,63,66,1,2,yes,3,2,C
+male,associate's degree,single,sometimes,yes,2,private,78,74,1,1,yes,3,0,B
+female,some college,married,sometimes,yes,3,school_bus,88,85,4,1,yes,5,0,C
+male,master's degree,single,never,no,2,school_bus,53,52,1,1,yes,3,0,F
+male,high school,divorced,sometimes,yes,1,school_bus,53,49,1,1,no,4,6,F
+female,master's degree,married,never,yes,3,private,89,86,2,3,yes,2,8,C
+female,bachelor's degree,married,sometimes,yes,0,school_bus,100,100,1,1,yes,5,0,A
+male,high school,single,sometimes,yes,5,private,51,51,1,1,no,2,0,F
+female,master's degree,married,regularly,no,1,private,79,83,1,2,no,4,2,D
+female,high school,married,regularly,yes,2,private,84,79,1,1,no,2,8,C
+male,high school,divorced,regularly,yes,5,school_bus,75,77,3,1,no,2,6,C
+male,some high school,married,sometimes,no,3,school_bus,86,76,3,1,no,2,2,A
+female,some college,single,never,yes,3,school_bus,84,78,1,2,yes,5,4,C
+female,associate's degree,married,sometimes,yes,2,school_bus,67,70,2,1,yes,3,0,D
+female,bachelor's degree,married,sometimes,no,1,school_bus,50,52,2,2,yes,4,6,F
+female,master's degree,divorced,sometimes,yes,1,school_bus,92,89,2,1,no,4,0,B
+female,high school,married,sometimes,no,2,school_bus,53,56,1,1,yes,3,2,F
+female,associate's degree,married,regularly,yes,,school_bus,76,77,4,2,no,3,0,C
+female,master's degree,divorced,regularly,yes,2,school_bus,72,65,2,1,no,5,16,F
+female,some high school,divorced,regularly,yes,0,school_bus,100,100,1,2,yes,3,4,A
+male,master's degree,single,sometimes,yes,2,private,68,75,1,2,yes,2,0,D
+female,some college,single,sometimes,yes,1,private,64,66,1,2,yes,1,0,F
+female,high school,married,sometimes,yes,3,private,50,47,1,2,yes,4,0,F
+female,associate's degree,single,sometimes,no,,private,67,68,3,1,yes,4,0,D
+male,associate's degree,married,never,yes,5,private,65,62,2,2,yes,3,2,D
+male,high school,married,never,yes,1,school_bus,73,62,1,2,yes,4,0,C
+male,some high school,married,sometimes,no,4,private,66,68,1,2,yes,3,0,D
+male,some high school,married,regularly,no,3,school_bus,51,45,2,2,yes,4,4,F
+female,bachelor's degree,single,sometimes,yes,1,school_bus,86,85,2,2,yes,4,4,C
+female,associate's degree,married,sometimes,yes,2,school_bus,65,69,2,2,yes,4,2,D
+male,some college,married,sometimes,no,2,school_bus,81,77,1,2,yes,3,4,C
+female,some high school,single,sometimes,no,3,private,64,66,1,1,yes,3,10,D
+male,some college,married,regularly,yes,4,,62,63,1,2,yes,2,4,C
+female,master's degree,,regularly,yes,1,school_bus,85,87,1,2,yes,4,10,D
+male,associate's degree,married,regularly,no,4,school_bus,54,52,1,2,yes,2,2,D
+male,,married,never,yes,1,school_bus,67,63,1,2,no,4,0,F
+male,high school,married,,no,7,private,56,52,1,2,yes,3,56,F
+female,some college,widowed,regularly,yes,3,,54,57,1,2,yes,2,14,F
+female,bachelor's degree,married,regularly,yes,3,private,80,77,1,2,yes,3,12,B
+female,associate's degree,single,regularly,no,1,private,83,86,1,1,yes,3,2,D
+female,some college,divorced,sometimes,yes,3,school_bus,79,75,1,2,yes,2,0,D
+male,associate's degree,married,sometimes,yes,2,school_bus,77,69,1,2,yes,3,6,D
+female,associate's degree,,regularly,yes,2,school_bus,70,69,1,2,no,1,4,F
+male,some college,single,regularly,yes,1,,40,42,1,2,yes,3,10,F
+male,some high school,married,,yes,,school_bus,69,76,1,2,yes,3,0,C
+male,bachelor's degree,married,regularly,yes,4,school_bus,62,63,2,2,yes,4,12,B
+male,high school,married,regularly,no,2,school_bus,81,77,1,1,yes,3,8,B
+female,some college,married,regularly,yes,1,private,80,76,2,1,yes,3,0,C
+female,some college,single,sometimes,no,2,,61,66,1,2,yes,3,0,F
+male,some high school,widowed,sometimes,yes,3,school_bus,77,77,1,1,yes,2,4,C
+male,some college,married,sometimes,yes,3,school_bus,28,27,3,1,yes,3,8,F
+female,high school,divorced,sometimes,yes,2,school_bus,62,60,2,1,yes,2,24,F
+male,associate's degree,single,regularly,no,1,school_bus,51,57,1,2,yes,5,0,D
+male,high school,married,sometimes,yes,1,private,91,81,1,2,yes,3,2,B
+male,some high school,,regularly,no,2,private,84,76,1,2,no,4,6,B
+female,associate's degree,married,sometimes,yes,3,school_bus,84,86,1,2,no,4,4,B
+female,high school,married,regularly,no,3,,41,39,1,1,yes,3,18,F
+male,high school,married,sometimes,no,2,school_bus,75,68,2,4,yes,3,6,D
+male,some high school,single,never,no,1,,55,54,1,3,yes,4,28,F
+female,high school,widowed,regularly,yes,4,school_bus,69,75,1,2,yes,3,5,F
+male,associate's degree,married,sometimes,yes,0,school_bus,86,74,1,2,yes,3,10,B
+female,some high school,divorced,sometimes,no,3,,65,62,2,1,no,3,6,F
+male,some high school,married,regularly,no,3,school_bus,81,76,2,3,yes,4,6,B
+female,associate's degree,divorced,regularly,,3,school_bus,67,76,1,4,yes,3,10,F
+female,master's degree,married,sometimes,no,,private,55,52,1,2,yes,3,13,F
+female,some college,married,sometimes,yes,5,school_bus,72,71,1,2,yes,3,0,C
+male,high school,single,regularly,yes,0,school_bus,50,55,1,2,yes,4,15,F
+male,,divorced,sometimes,no,4,school_bus,72,64,1,1,no,2,12,D
+female,some college,married,regularly,yes,3,school_bus,97,98,2,2,yes,4,2,A
+male,some college,married,regularly,yes,0,,64,67,1,2,yes,4,22,C
+male,associate's degree,married,regularly,,1,private,43,43,1,2,yes,2,13,F
+female,bachelor's degree,married,sometimes,yes,2,school_bus,86,83,2,1,no,3,3,D
+male,some high school,divorced,sometimes,yes,3,school_bus,88,79,1,3,yes,3,4,A
+male,bachelor's degree,married,sometimes,no,3,school_bus,83,85,2,2,yes,2,2,B
+male,associate's degree,married,regularly,no,1,school_bus,77,80,1,3,no,3,0,B
+male,bachelor's degree,divorced,regularly,no,2,school_bus,65,67,1,2,yes,3,2,D
+female,some high school,married,sometimes,yes,4,school_bus,59,72,2,2,yes,3,0,D
+male,some college,married,regularly,yes,2,private,53,53,1,3,yes,3,0,F
+male,associate's degree,,sometimes,yes,1,private,80,80,1,2,yes,3,16,B
+male,high school,divorced,,yes,1,private,69,67,1,2,yes,3,10,C
+female,bachelor's degree,single,regularly,no,4,private,84,85,1,2,yes,3,2,B
+male,some college,single,regularly,no,2,school_bus,50,43,4,2,yes,3,14,F
+male,some high school,divorced,regularly,yes,1,school_bus,73,69,2,3,yes,2,10,C
+male,associate's degree,married,sometimes,no,3,private,74,69,1,2,yes,2,14,B
+male,associate's degree,married,regularly,no,2,school_bus,77,75,2,2,yes,5,4,A
+female,high school,single,sometimes,yes,1,private,70,68,1,2,yes,5,14,F
+female,high school,married,sometimes,yes,2,private,63,60,1,2,yes,2,2,D
+male,high school,married,sometimes,no,2,school_bus,60,54,2,2,yes,4,18,C
+male,some high school,single,sometimes,yes,2,school_bus,49,49,2,3,yes,3,10,F
+female,some college,married,regularly,,4,school_bus,82,83,1,2,yes,4,4,C
+female,some high school,single,sometimes,yes,3,private,70,70,1,1,yes,5,20,D
+male,master's degree,married,sometimes,no,3,school_bus,80,72,3,2,no,1,2,B
+male,high school,married,sometimes,yes,0,private,52,52,1,2,yes,5,0,F
+female,some college,single,sometimes,no,1,school_bus,73,70,2,2,yes,5,14,D
+female,associate's degree,single,sometimes,no,5,private,71,66,2,2,yes,3,2,D
+male,associate's degree,married,regularly,,1,school_bus,78,78,1,1,yes,4,0,B
+female,some high school,married,sometimes,yes,1,private,80,78,1,1,yes,3,0,D
+male,some college,married,sometimes,no,2,school_bus,79,78,2,3,yes,4,0,C
+female,some high school,married,regularly,no,2,private,50,52,3,1,yes,3,6,F
+female,high school,single,sometimes,yes,1,private,93,90,2,1,yes,2,4,A
+male,high school,married,sometimes,no,2,private,73,68,1,1,yes,4,16,C
+male,some high school,divorced,sometimes,no,1,school_bus,41,40,1,2,yes,3,8,F
+female,bachelor's degree,married,sometimes,no,2,school_bus,73,79,1,1,yes,3,0,D
+female,high school,married,regularly,no,3,school_bus,73,78,2,1,yes,4,0,C
+female,associate's degree,married,regularly,yes,5,school_bus,94,99,3,2,yes,3,6,A
+female,some college,married,sometimes,no,2,school_bus,76,70,1,1,yes,2,4,C
+male,bachelor's degree,married,sometimes,yes,2,school_bus,63,61,2,1,no,3,0,D
+male,some college,single,regularly,yes,1,,48,42,1,1,yes,4,0,F
+female,associate's degree,single,regularly,yes,2,private,53,59,2,1,yes,4,2,F
+female,some college,married,sometimes,no,2,private,70,71,1,4,yes,2,6,D
+male,some college,widowed,,yes,1,school_bus,83,74,1,2,yes,3,12,B
+male,bachelor's degree,married,sometimes,no,3,school_bus,78,73,1,2,yes,2,8,B
+female,some high school,married,sometimes,yes,3,private,90,91,1,4,yes,4,0,B
+female,,single,sometimes,no,4,school_bus,62,73,1,2,yes,1,21,F
+female,some high school,married,sometimes,yes,1,school_bus,86,80,1,2,yes,3,2,D
+male,bachelor's degree,widowed,sometimes,no,2,school_bus,56,57,1,3,no,3,1,C
+male,high school,divorced,sometimes,no,,private,48,46,1,3,no,2,4,F
+female,bachelor's degree,divorced,regularly,no,3,school_bus,80,86,1,3,yes,3,0,C
+female,some college,,never,yes,2,school_bus,76,76,2,2,yes,2,13,D
+female,some high school,married,regularly,yes,0,private,45,46,1,2,yes,4,2,F
+male,associate's degree,married,never,yes,3,school_bus,80,79,2,2,yes,3,8,C
+male,associate's degree,married,regularly,yes,0,private,83,90,1,2,yes,4,10,A
+female,some high school,married,sometimes,no,1,school_bus,87,80,2,2,yes,3,0,D
+male,bachelor's degree,single,sometimes,yes,0,,73,74,1,2,yes,3,15,B
+male,some high school,married,sometimes,yes,1,school_bus,77,78,1,4,yes,5,4,C
+male,associate's degree,married,sometimes,no,2,school_bus,70,68,2,2,no,4,2,C
+male,some high school,married,sometimes,yes,2,private,71,68,1,2,no,5,2,B
+male,some high school,married,never,yes,1,private,59,55,2,2,yes,3,2,D
+female,bachelor's degree,married,sometimes,yes,,school_bus,74,76,2,2,yes,4,6,D
+male,high school,single,regularly,yes,3,school_bus,78,82,2,2,yes,1,75,B
+male,associate's degree,married,never,yes,1,school_bus,61,59,2,1,yes,2,22,D
+male,some high school,widowed,regularly,no,2,school_bus,41,44,1,2,yes,4,15,F
+male,associate's degree,single,regularly,no,1,school_bus,75,69,2,1,yes,2,8,C
+male,,single,regularly,no,2,private,45,50,2,1,yes,5,30,F
+male,associate's degree,married,regularly,no,2,,86,75,1,1,yes,4,19,B
+male,some college,married,never,yes,2,private,75,77,2,4,no,2,1,C
+male,some high school,divorced,regularly,no,4,school_bus,53,52,2,2,yes,4,4,F
+female,associate's degree,single,never,yes,5,school_bus,83,80,1,2,yes,4,4,D
+male,associate's degree,married,regularly,yes,1,school_bus,77,65,1,2,yes,3,2,B
+female,associate's degree,married,regularly,yes,2,school_bus,76,85,1,3,yes,3,5,C
+male,some college,,sometimes,yes,7,private,67,69,1,3,yes,3,6,D
+male,some college,divorced,regularly,yes,5,private,88,83,1,3,yes,2,6,A
+male,some high school,single,regularly,no,2,,52,45,1,2,yes,4,9,F
+female,associate's degree,married,regularly,no,3,private,73,70,1,2,yes,3,11,F
+female,high school,single,regularly,yes,5,,56,52,1,3,yes,2,0,F
+female,associate's degree,married,sometimes,no,2,school_bus,76,80,1,2,yes,4,12,C
+male,bachelor's degree,married,never,yes,3,school_bus,58,54,2,4,no,1,6,D
+male,bachelor's degree,single,sometimes,yes,0,private,61,68,2,3,yes,4,8,D
+female,associate's degree,single,sometimes,yes,2,private,68,70,1,1,yes,4,4,C
+male,high school,married,regularly,no,3,private,66,66,2,2,yes,3,0,C
+female,master's degree,widowed,never,yes,3,private,80,88,2,2,yes,4,10,C
+male,associate's degree,single,sometimes,no,1,school_bus,72,78,1,4,yes,3,0,B
+male,bachelor's degree,married,sometimes,yes,,private,69,67,1,1,yes,4,5,D
+female,associate's degree,single,regularly,no,1,school_bus,64,63,1,2,yes,2,14,F
+female,high school,divorced,sometimes,yes,2,,77,82,2,1,yes,1,0,D
+female,high school,married,never,no,3,private,85,78,2,3,yes,3,0,C
+female,some college,married,regularly,yes,2,private,80,80,1,4,yes,2,0,C
+female,some high school,married,sometimes,yes,5,private,52,51,1,2,yes,4,20,F
+female,high school,divorced,sometimes,no,1,,45,42,1,2,yes,4,8,F
+female,some college,single,sometimes,yes,3,school_bus,90,94,1,1,no,5,0,B
+male,some college,married,sometimes,yes,1,school_bus,61,62,2,1,yes,3,38,D
+male,some college,married,regularly,yes,2,school_bus,23,19,1,2,no,5,0,F
+male,associate's degree,married,sometimes,yes,5,school_bus,75,77,1,2,yes,4,18,B
+female,some high school,married,sometimes,yes,2,school_bus,54,49,1,2,no,2,0,F
+male,high school,single,regularly,yes,,school_bus,59,61,3,2,yes,4,20,C
+male,associate's degree,,sometimes,no,3,private,36,34,1,2,yes,5,3,F
+male,associate's degree,married,never,no,3,school_bus,55,52,2,2,yes,2,22,D
+male,associate's degree,single,sometimes,yes,1,school_bus,78,81,1,3,yes,1,14,A
+female,bachelor's degree,,sometimes,yes,1,,93,95,1,3,yes,1,40,B
+female,some college,married,regularly,yes,2,,69,67,2,2,yes,3,0,D
+male,some high school,married,regularly,no,,private,71,70,1,3,yes,3,9,C
+male,associate's degree,single,regularly,yes,2,,51,44,1,3,yes,3,0,F
+female,some high school,single,sometimes,no,3,school_bus,37,26,1,2,yes,4,2,F
+female,some high school,married,sometimes,yes,3,school_bus,55,60,1,2,yes,2,23,F
+male,high school,married,regularly,yes,1,school_bus,62,54,1,2,no,2,12,D
+female,,married,regularly,yes,0,,74,64,1,3,yes,3,3,D
+female,,single,sometimes,yes,1,school_bus,74,72,1,3,yes,4,1,D
+male,associate's degree,single,sometimes,yes,3,private,70,65,2,3,yes,3,0,D
+male,some college,,regularly,yes,2,school_bus,72,67,1,3,yes,3,3,C
+female,high school,married,sometimes,yes,4,private,80,75,1,1,yes,3,3,C
+male,,married,sometimes,no,2,school_bus,61,57,4,1,yes,4,8,D
+female,bachelor's degree,married,regularly,yes,0,,93,95,1,3,yes,4,7,C
+male,associate's degree,divorced,regularly,yes,2,private,76,79,2,3,yes,3,4,A
+female,bachelor's degree,married,sometimes,yes,0,private,65,69,1,4,yes,5,2,F
+male,some college,married,,no,4,school_bus,57,53,1,3,yes,4,7,D
+female,some college,married,sometimes,no,1,school_bus,76,78,1,2,yes,3,0,D
+female,associate's degree,married,regularly,no,1,private,57,57,1,2,yes,3,0,F
+female,some college,married,never,yes,2,,68,66,2,4,no,4,0,F
+female,bachelor's degree,single,regularly,no,3,school_bus,74,73,1,3,yes,4,16,D
+male,,married,sometimes,no,2,private,61,61,1,3,no,4,12,D
+female,some college,married,sometimes,yes,1,private,65,67,1,2,yes,3,0,F
+female,some college,divorced,sometimes,no,1,private,88,87,1,4,yes,3,7,C
+female,high school,married,never,yes,1,school_bus,61,57,1,2,yes,3,4,F
+male,some high school,single,regularly,yes,3,private,85,79,1,3,yes,3,4,B
+female,some college,single,regularly,no,2,private,58,59,1,2,yes,3,0,F
+female,some high school,single,sometimes,no,3,school_bus,33,31,1,2,yes,3,11,F
+male,some college,divorced,regularly,yes,1,school_bus,60,59,1,2,yes,3,0,D
+male,bachelor's degree,married,regularly,no,2,private,59,62,1,3,yes,3,4,F
+male,high school,married,sometimes,yes,2,,58,53,1,3,yes,4,7,D
+male,bachelor's degree,married,regularly,,3,private,67,63,1,3,yes,3,9,D
+female,some high school,single,sometimes,yes,2,private,64,58,1,3,yes,4,0,F
+female,some high school,single,regularly,yes,5,school_bus,83,84,1,3,yes,4,0,C
+male,some college,married,regularly,yes,3,private,78,72,2,1,yes,5,10,B
+female,some college,single,sometimes,no,4,school_bus,73,70,3,2,yes,4,8,F
+male,some high school,single,sometimes,yes,0,private,75,73,2,2,yes,5,2,C
+female,some college,married,sometimes,yes,1,private,98,97,1,1,yes,3,7,B
+female,bachelor's degree,married,sometimes,yes,0,,71,74,3,1,yes,4,4,D
+female,some high school,single,sometimes,no,2,school_bus,91,83,2,2,yes,5,4,B
+female,master's degree,single,sometimes,yes,,private,95,100,1,2,no,3,0,B
+female,some high school,single,sometimes,no,1,private,84,78,2,2,yes,3,4,C
+male,bachelor's degree,married,regularly,yes,1,private,64,63,2,2,no,2,2,D
+female,associate's degree,single,sometimes,yes,1,school_bus,86,83,2,1,yes,3,4,B
+male,associate's degree,divorced,sometimes,yes,0,private,98,93,2,3,yes,3,0,B
+male,master's degree,married,sometimes,no,2,,82,73,3,2,no,3,0,C
+female,some high school,divorced,regularly,yes,3,private,50,47,2,2,no,4,2,F
+female,some high school,divorced,never,no,5,private,41,40,2,2,yes,3,0,F
+female,some college,divorced,regularly,yes,2,private,77,76,1,2,yes,3,0,D
+female,bachelor's degree,single,sometimes,yes,0,school_bus,71,68,2,2,no,2,0,D
+female,,widowed,regularly,yes,4,school_bus,79,68,2,2,no,3,4,F
+female,high school,single,sometimes,yes,3,private,64,64,2,3,yes,2,0,D
+male,master's degree,married,sometimes,no,1,school_bus,70,75,3,1,yes,2,0,C
+male,some high school,single,regularly,yes,0,private,68,60,2,1,yes,2,0,C
+female,some college,single,sometimes,no,3,private,66,75,3,2,yes,2,10,C
+male,some college,married,sometimes,yes,3,school_bus,68,68,2,2,no,2,4,C
+male,associate's degree,divorced,regularly,yes,4,private,55,58,3,1,yes,3,3,D
+female,some high school,single,sometimes,no,,school_bus,74,77,1,3,no,4,8,D
+female,high school,married,never,no,5,school_bus,65,61,1,1,yes,5,14,F
+male,some high school,single,regularly,yes,0,school_bus,62,57,2,3,yes,4,0,C
+male,some high school,single,never,no,4,private,57,51,4,3,yes,3,2,F
+female,some high school,married,regularly,yes,3,private,54,68,2,3,yes,4,4,D
+male,some college,married,sometimes,no,1,school_bus,43,43,1,2,yes,4,4,F
+female,some college,married,regularly,no,2,school_bus,66,57,1,2,yes,1,0,F
+female,high school,single,sometimes,yes,4,private,99,100,1,2,yes,5,17,B
+female,high school,single,regularly,yes,0,school_bus,59,63,1,2,yes,2,4,F
+female,some high school,married,regularly,yes,,,72,68,2,1,yes,4,5,D
+male,associate's degree,married,regularly,no,3,school_bus,66,65,2,2,yes,4,2,D
+female,associate's degree,married,regularly,yes,3,school_bus,81,78,2,1,no,3,0,B
+female,high school,divorced,sometimes,no,2,school_bus,57,56,2,1,no,4,14,F
+male,associate's degree,widowed,never,no,5,school_bus,83,84,2,3,no,3,2,B
+female,master's degree,,regularly,yes,2,private,73,78,3,1,yes,4,7,C
+male,some college,widowed,regularly,yes,4,school_bus,84,79,1,3,yes,4,0,B
+male,associate's degree,married,sometimes,yes,3,private,66,60,1,2,yes,3,0,C
+female,,married,regularly,yes,3,school_bus,73,80,2,2,no,1,0,F
+male,high school,single,regularly,no,3,private,74,70,1,2,no,5,11,B
+male,bachelor's degree,married,sometimes,yes,3,private,72,66,2,1,yes,4,3,D
+male,associate's degree,married,sometimes,yes,3,,71,65,1,1,no,5,3,C
+male,some college,married,regularly,no,4,private,59,63,3,1,yes,4,0,C
+male,high school,married,sometimes,no,3,private,56,54,1,1,yes,2,5,F
+female,high school,married,regularly,no,2,,57,64,2,2,no,3,6,F
+female,master's degree,divorced,never,yes,0,private,59,68,1,2,yes,3,4,F
+female,some high school,married,sometimes,yes,0,,83,78,1,2,yes,3,10,F
+male,some college,married,,no,2,private,39,34,1,3,yes,2,2,F
+female,some college,single,sometimes,yes,3,school_bus,65,60,1,2,no,3,4,D
+male,bachelor's degree,married,regularly,yes,2,school_bus,84,88,1,2,yes,4,10,B
+male,some high school,single,regularly,yes,0,private,72,66,1,2,yes,4,0,C
+male,some high school,single,sometimes,yes,1,private,59,53,2,2,no,1,6,D
+male,some high school,married,sometimes,no,3,school_bus,63,55,1,2,yes,2,0,C
+male,associate's degree,married,sometimes,,1,private,65,57,1,2,yes,5,0,D
+female,high school,single,sometimes,yes,3,school_bus,72,70,1,2,yes,3,0,D
+male,high school,single,never,yes,4,school_bus,54,52,3,3,yes,2,4,F
+female,some high school,divorced,sometimes,no,,school_bus,58,49,1,1,yes,3,2,F
+male,,married,sometimes,no,1,,66,67,2,2,yes,4,2,C
+male,some college,married,sometimes,no,7,private,48,53,1,3,yes,5,0,F
+male,associate's degree,married,regularly,yes,3,school_bus,69,65,1,1,yes,4,4,C
+male,,divorced,sometimes,yes,1,private,66,73,1,3,yes,2,6,C
+male,high school,single,regularly,yes,0,school_bus,55,51,3,2,no,3,4,D
+male,some high school,married,sometimes,,0,school_bus,88,82,1,1,yes,5,16,B
+female,,single,regularly,no,1,school_bus,82,80,1,1,yes,1,4,D
+female,high school,married,sometimes,yes,2,,81,80,1,2,yes,4,0,C
+female,some high school,married,sometimes,yes,2,school_bus,73,69,1,1,yes,4,0,F
+female,associate's degree,,sometimes,no,1,school_bus,81,74,1,2,yes,5,2,C
+male,some high school,married,sometimes,yes,0,school_bus,82,73,2,2,yes,4,0,C
+female,some high school,divorced,regularly,,3,,75,78,1,3,yes,3,2,D
+male,some college,,regularly,yes,1,school_bus,67,62,1,1,yes,2,14,C
+male,high school,single,regularly,yes,2,school_bus,83,83,1,1,yes,2,2,A
+male,high school,widowed,regularly,yes,4,school_bus,46,43,1,1,yes,2,4,F
+male,associate's degree,single,regularly,yes,,school_bus,74,73,1,2,yes,3,4,B
+female,some college,divorced,sometimes,yes,3,private,85,85,1,2,yes,4,16,D
+female,some college,married,sometimes,,5,school_bus,92,97,1,2,yes,4,0,A
+female,associate's degree,married,regularly,no,1,school_bus,79,77,2,2,yes,3,0,D
+male,some college,married,never,yes,3,private,57,48,1,2,yes,5,0,D
+female,associate's degree,,regularly,yes,3,private,61,63,1,2,yes,3,0,F
+male,bachelor's degree,married,sometimes,yes,0,school_bus,56,47,1,1,yes,4,0,F
+female,bachelor's degree,divorced,sometimes,no,3,school_bus,89,89,2,1,no,5,0,C
+male,associate's degree,single,regularly,yes,1,,54,49,1,3,yes,4,2,F
+female,bachelor's degree,married,regularly,,2,school_bus,100,100,2,3,yes,4,7,A
+male,high school,married,sometimes,no,4,,65,68,1,3,yes,3,2,C
+male,bachelor's degree,married,regularly,no,1,private,57,55,1,1,no,3,8,F
+male,some college,married,sometimes,yes,1,school_bus,54,45,2,2,yes,3,25,F
+female,some college,divorced,never,no,1,private,68,74,1,1,yes,4,8,D
+female,some college,widowed,sometimes,yes,4,school_bus,90,91,1,2,yes,3,2,C
+male,bachelor's degree,divorced,sometimes,yes,,private,58,62,1,1,yes,4,0,C
+female,some college,married,sometimes,no,4,,87,91,2,2,yes,3,14,B
+female,associate's degree,divorced,sometimes,no,1,school_bus,31,38,1,2,yes,2,8,F
+male,high school,married,regularly,no,7,school_bus,69,67,1,2,yes,3,12,C
+female,high school,single,regularly,yes,3,private,89,87,1,4,yes,2,4,C
+male,some college,married,regularly,yes,2,private,75,77,1,2,no,3,2,A
+female,associate's degree,divorced,sometimes,no,1,private,85,90,1,2,yes,4,2,B
+female,high school,married,regularly,yes,0,private,68,74,3,2,yes,3,2,D
+female,associate's degree,married,sometimes,yes,4,school_bus,86,84,1,2,yes,3,2,D
+female,some high school,married,sometimes,no,5,private,66,60,2,1,no,5,6,F
+female,associate's degree,single,sometimes,yes,2,private,90,91,1,1,yes,3,0,A
+female,bachelor's degree,,sometimes,yes,3,,77,84,1,1,yes,3,6,C
+male,bachelor's degree,single,sometimes,yes,2,school_bus,62,66,1,2,yes,3,8,C
+male,,married,sometimes,no,1,school_bus,68,72,1,2,yes,3,0,B
+female,master's degree,single,never,yes,1,private,64,70,1,2,no,2,4,F
+male,associate's degree,single,sometimes,yes,4,school_bus,72,68,1,2,yes,3,2,C
+male,high school,married,sometimes,yes,1,private,71,68,1,2,yes,2,2,C
+female,associate's degree,married,sometimes,yes,3,school_bus,59,56,1,2,no,4,6,F
+male,some college,married,sometimes,yes,2,private,69,62,4,1,yes,5,6,C
+male,high school,divorced,sometimes,yes,2,private,52,46,1,2,yes,4,4,F
+female,associate's degree,single,regularly,no,3,school_bus,51,54,1,3,yes,4,2,F
+male,high school,married,sometimes,no,,school_bus,72,69,1,2,yes,4,0,D
+male,some college,married,sometimes,yes,3,private,47,56,3,2,yes,4,2,D
+female,associate's degree,married,sometimes,,4,school_bus,75,74,1,4,yes,3,4,D
+male,some high school,divorced,regularly,yes,1,school_bus,53,58,1,4,yes,3,4,D
+male,associate's degree,,never,yes,5,school_bus,80,79,2,2,yes,1,2,C
+female,associate's degree,married,regularly,no,1,school_bus,84,76,2,4,yes,4,12,D
+female,associate's degree,divorced,sometimes,,0,,64,70,2,4,yes,3,0,D
+female,some college,married,sometimes,no,1,school_bus,83,90,1,4,yes,3,0,B
+female,bachelor's degree,married,sometimes,yes,6,school_bus,86,88,1,2,yes,3,2,C
+female,high school,divorced,regularly,yes,2,school_bus,63,68,1,1,no,3,2,F
+male,high school,divorced,sometimes,yes,4,private,64,66,1,2,yes,3,54,D
+female,some college,married,regularly,no,3,school_bus,47,52,1,2,yes,3,6,F
+female,some college,,sometimes,no,1,school_bus,78,76,2,4,yes,4,8,F
+male,some college,married,sometimes,yes,3,school_bus,69,70,1,4,yes,2,0,C
+female,master's degree,married,sometimes,yes,2,school_bus,80,84,2,1,yes,5,2,C
+female,associate's degree,married,sometimes,yes,0,private,85,90,1,2,yes,4,12,A
+male,some college,divorced,sometimes,yes,0,school_bus,61,54,1,1,yes,2,2,D
+female,associate's degree,married,regularly,yes,3,school_bus,91,96,1,3,yes,3,4,A
+female,master's degree,single,regularly,yes,1,private,61,57,1,2,yes,4,10,F
+female,some high school,married,sometimes,yes,3,school_bus,80,78,2,2,yes,3,4,C
+male,high school,married,regularly,yes,1,school_bus,71,67,1,2,yes,3,2,C
+male,,single,sometimes,no,3,private,78,77,2,2,yes,4,6,C
+female,bachelor's degree,married,regularly,no,1,private,93,89,1,2,no,3,4,B
+male,some college,married,sometimes,no,3,,71,73,1,3,yes,3,4,C
+male,,,sometimes,yes,2,,49,42,2,2,yes,4,12,D
+male,some high school,married,regularly,no,2,school_bus,48,52,1,2,no,1,18,D
+female,some high school,divorced,regularly,yes,3,private,61,63,1,3,yes,3,0,F
+female,master's degree,single,sometimes,yes,3,school_bus,97,94,1,1,yes,5,4,C
+female,some high school,married,sometimes,no,1,private,87,85,1,2,no,3,4,C
+female,some college,married,sometimes,no,1,private,89,84,2,2,yes,3,0,C
+female,some college,divorced,never,yes,1,school_bus,72,71,1,4,yes,3,6,D
+female,some high school,single,regularly,no,1,school_bus,79,79,2,4,yes,1,2,D
+female,high school,married,sometimes,no,5,school_bus,78,79,2,1,yes,3,2,D
+male,,married,sometimes,no,3,private,49,52,1,2,no,3,2,C
+female,associate's degree,single,sometimes,yes,4,private,86,84,1,1,yes,3,6,A
+male,bachelor's degree,married,sometimes,yes,5,private,58,58,1,3,yes,3,0,C
+male,master's degree,widowed,regularly,yes,2,,61,52,1,1,yes,5,14,F
+male,high school,married,sometimes,no,2,private,52,49,1,3,yes,4,0,F
+male,some college,single,sometimes,yes,3,private,60,60,1,1,yes,3,4,C
+male,some high school,single,sometimes,yes,4,school_bus,60,58,2,2,yes,3,26,F
+female,high school,divorced,sometimes,yes,2,,53,43,1,2,yes,4,0,F
+female,bachelor's degree,single,sometimes,no,2,private,40,46,1,4,no,3,10,F
+female,associate's degree,married,never,no,1,private,72,68,1,4,yes,1,8,D
+female,associate's degree,married,,yes,1,private,67,73,1,3,yes,3,2,D
+female,some high school,married,never,yes,2,private,53,51,4,4,yes,3,6,F
+male,associate's degree,single,sometimes,yes,2,school_bus,60,56,1,3,yes,4,4,D
+female,associate's degree,married,sometimes,no,4,school_bus,88,94,1,1,yes,5,6,C
+male,high school,married,sometimes,no,1,school_bus,70,69,1,3,yes,1,0,C
+female,bachelor's degree,married,sometimes,yes,5,private,83,83,1,2,yes,1,6,D
+male,associate's degree,single,never,no,2,,58,55,1,1,yes,5,10,F
+female,high school,married,never,yes,1,school_bus,65,60,1,2,yes,4,8,F
+male,bachelor's degree,,sometimes,no,2,school_bus,65,69,1,2,yes,4,2,B
+male,associate's degree,married,sometimes,no,3,school_bus,93,87,2,2,no,4,2,A
+male,high school,married,sometimes,no,1,private,69,68,2,1,yes,4,0,C
+male,associate's degree,single,sometimes,no,2,school_bus,80,78,3,2,yes,2,20,C
+female,associate's degree,divorced,regularly,yes,3,private,78,80,1,1,yes,4,6,B
+female,associate's degree,single,regularly,no,2,private,97,93,1,2,yes,2,2,B
+female,,married,sometimes,yes,2,,63,66,1,4,yes,5,6,D
+male,some high school,married,regularly,yes,1,school_bus,84,82,2,2,yes,2,2,B
+female,some high school,married,sometimes,yes,3,school_bus,100,97,1,1,yes,4,18,A
+male,high school,divorced,regularly,yes,2,private,66,64,1,2,yes,4,0,C
+female,high school,married,regularly,no,5,school_bus,66,64,1,1,yes,5,0,D
+male,master's degree,married,sometimes,yes,1,school_bus,72,69,1,2,yes,3,0,C
+male,some high school,,sometimes,yes,0,,74,63,1,2,no,4,2,C
+male,bachelor's degree,married,regularly,no,2,private,91,90,1,1,yes,3,0,B
+female,,married,never,no,3,private,47,48,1,1,yes,5,8,F
+male,some college,married,regularly,no,2,private,62,65,2,3,yes,2,0,C
+male,associate's degree,divorced,regularly,yes,1,private,46,41,3,1,yes,3,0,F
+female,some college,single,regularly,no,,private,40,34,1,1,yes,4,12,F
+male,master's degree,single,regularly,yes,1,school_bus,69,69,1,1,yes,2,16,D
+female,associate's degree,single,sometimes,no,2,school_bus,68,68,4,2,no,3,0,F
+male,some high school,married,sometimes,yes,2,school_bus,66,63,1,3,yes,3,0,C
+female,some college,divorced,sometimes,no,3,school_bus,75,79,3,2,no,4,0,C
+female,some college,single,regularly,yes,3,school_bus,76,77,2,1,yes,3,0,D
+male,bachelor's degree,married,regularly,no,2,school_bus,89,92,1,2,no,4,0,A
+female,some college,divorced,sometimes,yes,1,,80,80,2,1,yes,3,0,D
+male,bachelor's degree,married,sometimes,,1,school_bus,50,45,2,4,yes,2,0,F
+male,associate's degree,divorced,sometimes,no,2,school_bus,42,44,2,1,yes,3,8,F
+female,bachelor's degree,single,never,no,4,private,98,97,1,3,yes,2,2,B
+female,master's degree,married,,yes,2,,72,80,1,1,yes,4,2,D
+male,high school,married,regularly,yes,6,private,47,47,1,1,yes,4,0,D
+male,bachelor's degree,single,regularly,yes,2,private,69,68,1,2,yes,4,0,C
+male,,divorced,regularly,yes,1,private,76,71,1,2,yes,3,0,C
+male,bachelor's degree,married,never,yes,1,school_bus,94,89,1,2,yes,3,2,B
+female,some college,single,sometimes,no,5,private,62,57,1,1,yes,3,0,F
+female,high school,,sometimes,yes,1,school_bus,66,64,4,1,yes,5,0,F
+female,high school,,sometimes,no,1,private,82,72,1,1,yes,3,0,C
+male,associate's degree,married,sometimes,yes,7,school_bus,55,53,1,1,no,4,6,F
+male,some college,married,sometimes,yes,0,school_bus,51,52,2,3,yes,2,8,D
+female,high school,married,sometimes,yes,1,school_bus,89,87,1,1,yes,5,0,C
+female,some college,single,sometimes,no,1,school_bus,56,59,1,1,no,2,0,F
+female,master's degree,married,regularly,no,3,school_bus,60,68,1,2,no,4,2,F
+female,some high school,married,sometimes,no,2,school_bus,95,94,1,1,no,2,8,C
+female,some high school,divorced,never,yes,3,school_bus,77,78,3,1,no,2,6,C
+female,bachelor's degree,widowed,sometimes,yes,1,school_bus,73,78,3,1,no,2,2,D
+female,associate's degree,single,sometimes,yes,2,school_bus,76,81,1,2,yes,5,4,C
+female,high school,married,sometimes,yes,3,school_bus,73,73,2,1,yes,3,0,F
+female,bachelor's degree,married,regularly,yes,1,school_bus,62,62,2,2,yes,4,6,F
+female,some college,,regularly,no,1,school_bus,63,65,2,1,no,4,0,F
+female,some high school,single,sometimes,yes,1,,66,65,1,1,yes,3,2,F
+male,some college,widowed,sometimes,no,3,private,56,52,4,2,no,3,0,F
+male,some high school,widowed,sometimes,yes,5,school_bus,61,48,2,1,no,5,16,D
+male,bachelor's degree,married,never,yes,,,66,62,1,2,yes,3,4,D
+female,,married,sometimes,yes,3,private,76,73,1,2,yes,2,0,C
+female,bachelor's degree,married,regularly,no,2,private,100,100,1,2,yes,1,0,A
+female,bachelor's degree,married,sometimes,yes,1,school_bus,80,73,1,2,yes,4,0,F
+male,high school,married,regularly,no,2,school_bus,24,15,3,1,yes,4,0,F
+male,some high school,married,never,yes,1,,53,46,2,2,yes,3,2,F
+female,high school,married,sometimes,yes,4,school_bus,78,74,1,2,yes,4,0,C
+female,some high school,single,sometimes,no,1,school_bus,82,81,1,2,yes,3,0,D
+female,master's degree,single,sometimes,yes,1,private,60,63,2,2,yes,4,4,F
+female,high school,divorced,sometimes,no,1,school_bus,29,30,2,2,yes,4,4,F
+female,some college,married,sometimes,no,2,school_bus,78,80,2,2,yes,4,2,C
+male,high school,married,sometimes,yes,1,school_bus,57,51,1,2,yes,3,4,D
+male,master's degree,married,sometimes,,,school_bus,87,88,1,1,yes,3,10,B
+male,some high school,divorced,sometimes,yes,3,private,70,60,1,2,yes,2,4,C
+female,associate's degree,,never,yes,,school_bus,82,79,1,2,yes,4,10,B
+female,master's degree,married,sometimes,yes,1,private,59,55,1,2,yes,2,2,F
+female,some college,divorced,never,yes,0,private,63,60,1,2,no,4,0,F
+female,associate's degree,married,regularly,no,1,school_bus,62,65,1,2,yes,3,56,F
+male,some college,married,sometimes,yes,5,school_bus,60,63,1,2,yes,2,14,D
+female,some college,married,sometimes,yes,3,school_bus,58,64,1,2,yes,3,12,F
+male,bachelor's degree,married,sometimes,yes,0,private,88,89,1,1,yes,3,2,A
+female,associate's degree,married,sometimes,no,4,school_bus,93,93,1,2,yes,2,0,B
+female,high school,married,sometimes,yes,1,school_bus,68,72,1,2,yes,3,6,D
+female,bachelor's degree,single,sometimes,,4,school_bus,45,38,1,2,no,1,4,F
+male,bachelor's degree,,sometimes,no,3,,78,83,1,2,yes,3,10,B
+male,master's degree,married,sometimes,yes,1,school_bus,82,86,1,2,yes,3,0,A
+male,associate's degree,married,never,no,3,,70,64,2,2,yes,4,12,D
+female,high school,single,sometimes,yes,2,school_bus,61,55,1,1,yes,3,8,F
+male,,single,regularly,,3,private,63,57,2,1,yes,3,0,D
+male,high school,married,sometimes,yes,2,private,51,53,1,2,yes,3,0,F
+male,some college,divorced,never,yes,4,private,94,83,1,1,yes,2,4,A
+female,bachelor's degree,married,regularly,no,2,private,57,62,3,1,yes,3,8,D
+male,some college,married,regularly,yes,0,,96,99,2,1,yes,2,24,A
+male,associate's degree,divorced,never,yes,1,school_bus,68,61,1,2,yes,5,0,D
+male,associate's degree,divorced,sometimes,no,1,school_bus,48,46,1,2,yes,3,2,D
+male,some college,married,regularly,no,2,school_bus,57,47,1,2,no,4,6,F
+female,some high school,married,regularly,yes,0,school_bus,51,56,1,2,no,4,4,F
+male,some college,single,never,yes,1,private,63,68,1,1,yes,3,18,D
+male,high school,widowed,regularly,yes,2,private,60,66,2,4,yes,3,6,B
+female,bachelor's degree,married,sometimes,yes,2,school_bus,75,82,1,3,yes,4,28,D
+female,high school,married,sometimes,no,5,school_bus,88,85,1,2,yes,3,5,C
+male,high school,married,sometimes,yes,0,school_bus,74,64,1,2,yes,3,10,C
+female,some high school,single,never,,2,private,89,84,2,1,no,3,6,C
+male,some college,married,regularly,yes,2,private,77,75,2,3,yes,4,6,B
+female,,single,never,yes,2,school_bus,72,71,1,4,yes,3,10,C
+male,high school,single,sometimes,no,3,school_bus,52,52,1,2,yes,3,13,F
+female,associate's degree,,sometimes,yes,1,school_bus,89,91,1,2,yes,3,0,C
+female,some high school,married,never,yes,2,private,78,75,1,2,yes,4,15,D
+female,high school,single,regularly,yes,,private,80,82,1,1,no,2,12,C
+male,high school,single,sometimes,yes,1,school_bus,64,58,2,2,yes,4,2,D
+female,bachelor's degree,married,never,yes,1,school_bus,79,78,1,2,yes,4,22,D
+female,associate's degree,married,regularly,yes,4,school_bus,72,67,1,2,yes,2,13,D
+female,,single,sometimes,yes,2,private,61,66,2,1,no,3,3,D
+female,high school,single,regularly,yes,2,private,53,56,1,3,yes,3,4,F
+female,some college,divorced,never,yes,,private,77,78,2,2,yes,2,2,D
+male,some high school,single,sometimes,yes,3,,56,54,1,3,no,3,0,F
+female,high school,married,regularly,yes,7,private,81,77,1,2,yes,3,2,C
+female,some college,married,sometimes,yes,2,school_bus,84,96,2,2,yes,3,0,B
+female,associate's degree,single,sometimes,no,2,school_bus,70,74,1,3,yes,3,0,D
+female,some high school,divorced,sometimes,yes,1,school_bus,79,79,1,2,yes,3,16,C
+female,some college,married,sometimes,no,1,school_bus,67,67,1,2,yes,3,10,D
+male,associate's degree,married,sometimes,no,5,school_bus,68,65,1,2,yes,3,2,C
+male,some high school,married,sometimes,no,1,school_bus,66,62,4,2,yes,3,14,C
+female,associate's degree,married,,yes,3,school_bus,60,58,2,3,yes,2,10,F
+male,associate's degree,divorced,sometimes,yes,4,private,87,85,1,2,yes,2,14,A
+male,some high school,married,never,no,2,,65,61,2,2,yes,5,4,C
+female,some college,divorced,regularly,yes,2,private,70,69,1,2,yes,5,14,F
+female,high school,,sometimes,yes,5,school_bus,69,67,1,2,yes,2,2,D
+male,associate's degree,married,regularly,yes,1,private,63,64,2,2,yes,4,18,B
+female,some high school,single,sometimes,no,2,,60,60,2,3,yes,3,10,F
+female,some college,married,sometimes,yes,2,school_bus,73,71,1,2,yes,4,4,D
+female,bachelor's degree,married,sometimes,no,4,school_bus,83,85,1,1,yes,5,20,C
+male,some college,single,regularly,yes,5,,75,62,3,2,no,1,2,C
+male,associate's degree,single,sometimes,yes,3,private,72,77,1,2,yes,5,0,B
+female,high school,married,never,no,2,school_bus,73,64,2,2,yes,5,14,D
+male,associate's degree,married,sometimes,yes,0,school_bus,56,49,2,2,yes,3,2,F
+female,some college,married,regularly,yes,1,private,79,77,1,1,yes,4,0,C
+female,associate's degree,married,sometimes,no,2,private,84,84,1,1,yes,3,0,D
+female,high school,divorced,regularly,yes,2,private,78,79,2,3,yes,4,0,C
+female,some college,married,sometimes,yes,2,,64,66,3,1,yes,3,6,F
+female,some college,divorced,sometimes,yes,,school_bus,78,76,2,1,yes,2,4,C
+female,,single,sometimes,no,1,school_bus,83,77,1,1,yes,4,16,C
+male,associate's degree,married,regularly,yes,1,,76,79,1,2,yes,3,8,B
+male,some college,divorced,sometimes,yes,3,school_bus,61,60,1,1,yes,3,0,D
+female,high school,divorced,regularly,yes,6,school_bus,71,74,2,1,yes,4,0,D
+male,high school,divorced,regularly,yes,2,school_bus,55,55,3,2,yes,3,6,D
+female,,divorced,regularly,yes,2,private,40,45,1,1,yes,2,4,F
+male,some college,married,regularly,yes,1,school_bus,65,68,2,1,no,3,0,D
+female,master's degree,single,sometimes,yes,2,school_bus,100,100,1,1,yes,4,0,A
+male,some college,single,sometimes,yes,0,school_bus,75,68,2,1,yes,4,2,B
+male,associate's degree,divorced,regularly,yes,2,school_bus,80,76,1,4,yes,2,6,B
+male,high school,divorced,sometimes,yes,2,school_bus,58,44,1,2,yes,3,12,F
+male,some college,married,sometimes,yes,3,private,90,83,1,2,yes,2,8,A
+female,associate's degree,married,never,yes,5,school_bus,52,51,1,4,yes,4,0,F
+female,associate's degree,married,sometimes,no,1,private,74,76,1,2,yes,1,21,C
+female,,divorced,sometimes,yes,0,private,75,82,1,2,yes,3,2,D
+female,associate's degree,married,regularly,yes,2,school_bus,78,74,1,3,no,3,1,C
+female,some high school,single,sometimes,yes,1,school_bus,63,56,1,3,no,2,4,F
+female,some college,married,,no,2,school_bus,90,87,1,3,yes,3,0,B
+female,associate's degree,married,sometimes,yes,1,school_bus,80,88,2,2,yes,2,13,C
+female,bachelor's degree,,sometimes,no,3,private,70,68,1,2,yes,4,2,F
+female,associate's degree,married,sometimes,yes,2,school_bus,78,79,2,2,yes,3,8,F
+male,high school,divorced,never,yes,3,private,65,57,1,2,yes,4,10,D
+female,bachelor's degree,single,regularly,yes,4,school_bus,82,84,2,2,yes,3,0,B
+female,some high school,married,never,no,2,school_bus,65,70,1,2,yes,3,15,F
+male,bachelor's degree,married,regularly,yes,,school_bus,83,87,1,4,yes,5,4,B
+female,,married,never,yes,2,private,63,65,2,2,no,4,2,D
+female,some high school,married,sometimes,yes,3,school_bus,62,62,1,2,no,5,2,F
+male,,single,regularly,yes,2,school_bus,73,66,2,2,yes,3,2,D
+male,high school,married,regularly,yes,2,private,34,36,2,2,yes,4,6,F
+male,some college,married,sometimes,yes,3,private,59,52,2,2,yes,1,75,D
+male,high school,married,never,yes,2,school_bus,84,75,2,1,yes,2,22,B
+female,associate's degree,divorced,sometimes,yes,0,school_bus,61,58,1,2,yes,4,15,F
+male,some college,divorced,sometimes,yes,0,,84,90,2,1,yes,2,8,A
+female,some high school,divorced,sometimes,yes,2,school_bus,85,85,2,1,yes,5,30,B
+female,some college,married,sometimes,yes,3,school_bus,100,99,1,1,yes,4,19,A
+male,master's degree,divorced,sometimes,no,1,school_bus,81,84,2,4,no,2,1,C
+female,some high school,married,regularly,no,1,school_bus,72,77,2,2,yes,4,4,D
+female,associate's degree,married,regularly,yes,0,private,93,87,1,2,yes,4,4,C
+male,associate's degree,divorced,never,yes,1,,75,68,1,2,yes,3,2,D
+female,associate's degree,single,sometimes,yes,4,private,96,99,1,3,yes,3,5,A
+female,high school,widowed,regularly,yes,3,,77,75,1,3,yes,3,6,C
+male,associate's degree,divorced,never,,0,school_bus,70,76,1,3,yes,2,6,B
+female,some college,married,regularly,no,2,private,73,71,1,2,yes,4,9,D
+male,some high school,married,regularly,yes,1,school_bus,59,60,1,2,yes,3,11,F
+female,some high school,single,regularly,yes,2,school_bus,89,88,1,3,yes,2,0,C
+male,high school,married,regularly,no,2,school_bus,48,43,1,2,yes,4,12,F
+male,some college,divorced,sometimes,yes,4,school_bus,43,41,2,4,no,1,6,F
+male,some college,married,never,yes,4,,71,67,2,3,yes,4,8,C
+female,,single,sometimes,yes,3,school_bus,76,78,1,1,yes,4,4,D
+male,some high school,married,regularly,yes,0,school_bus,51,58,2,2,yes,3,0,C
+female,high school,single,sometimes,yes,1,private,90,82,2,2,yes,4,10,C
+male,some college,single,regularly,no,3,private,38,37,1,4,yes,3,0,F
+female,associate's degree,divorced,sometimes,yes,5,private,75,78,1,1,yes,4,5,D
+male,some high school,divorced,sometimes,,0,,45,42,1,2,yes,2,14,F
+female,some college,married,never,yes,2,private,88,93,2,1,yes,1,0,B
+male,,divorced,sometimes,yes,,,47,44,2,3,yes,3,0,F
+female,some college,married,never,yes,1,school_bus,57,56,1,4,yes,2,0,F
+male,master's degree,married,sometimes,no,5,private,56,57,1,2,yes,4,20,D
+male,associate's degree,married,regularly,yes,0,,80,86,1,2,yes,4,8,A
+female,some college,married,sometimes,no,6,school_bus,66,73,1,1,no,5,0,F
+male,associate's degree,married,,no,2,school_bus,71,73,2,1,yes,3,38,B
+male,high school,married,regularly,yes,0,private,60,56,1,2,no,5,0,D
+male,bachelor's degree,married,never,yes,2,,72,71,1,2,yes,4,18,C
+female,associate's degree,married,sometimes,yes,1,school_bus,57,56,1,2,no,2,0,F
+female,high school,married,sometimes,yes,4,private,84,82,3,2,yes,4,20,B
+female,associate's degree,married,sometimes,yes,4,school_bus,73,72,1,2,yes,5,3,F
+male,some college,married,regularly,yes,2,private,55,48,2,2,yes,2,22,F
+male,associate's degree,,regularly,no,4,private,78,74,1,3,yes,1,14,C
+male,high school,married,regularly,yes,1,,76,72,1,3,yes,1,40,C
+male,some college,married,sometimes,yes,1,school_bus,64,68,2,2,yes,3,0,D
+female,bachelor's degree,married,sometimes,no,4,school_bus,60,59,1,3,yes,3,9,F
+male,some college,married,sometimes,yes,4,school_bus,84,86,1,3,yes,3,0,B
+male,some high school,married,sometimes,no,2,school_bus,69,68,1,2,yes,4,2,C
+male,some college,,never,yes,1,private,71,64,1,2,yes,2,23,D
+male,master's degree,single,never,yes,1,private,77,75,1,2,no,2,12,C
+female,some high school,married,sometimes,no,1,private,90,85,1,3,yes,3,3,C
+male,associate's degree,single,regularly,yes,4,school_bus,55,54,1,3,yes,4,1,F
+female,associate's degree,married,sometimes,yes,4,school_bus,96,93,2,3,yes,3,0,B
+male,some college,married,sometimes,no,2,private,58,53,1,3,yes,3,3,F
+male,bachelor's degree,married,sometimes,no,,,68,72,1,1,yes,3,3,C
+female,some college,married,regularly,yes,5,private,59,66,4,1,yes,4,8,F
+male,some college,,sometimes,yes,1,school_bus,77,77,1,3,yes,4,7,D
+female,high school,married,sometimes,yes,1,school_bus,72,64,2,3,yes,3,4,F
+female,some high school,,sometimes,yes,1,school_bus,58,54,1,4,yes,5,2,F
+male,some high school,single,never,no,4,school_bus,79,83,1,3,yes,4,7,C
+female,high school,divorced,never,yes,2,private,61,61,1,2,yes,3,0,D
+male,some college,married,sometimes,yes,0,school_bus,63,59,1,2,yes,3,0,D
+female,high school,married,sometimes,yes,0,school_bus,72,72,2,4,no,4,0,C
+female,high school,widowed,regularly,yes,1,,74,77,1,3,yes,4,16,F
+male,high school,single,sometimes,yes,0,school_bus,62,60,1,3,no,4,12,C
+female,some high school,married,never,yes,1,private,70,74,1,2,yes,3,0,D
+male,some college,,never,yes,1,school_bus,59,55,1,4,yes,3,7,F
+male,high school,,sometimes,yes,0,private,47,48,1,2,yes,3,4,F
+male,bachelor's degree,married,regularly,yes,3,school_bus,75,77,1,3,yes,3,4,C
+female,some high school,married,never,yes,0,school_bus,65,68,1,2,yes,3,0,F
+female,bachelor's degree,married,sometimes,yes,3,school_bus,78,79,1,2,yes,3,11,D
+male,,single,never,no,3,school_bus,64,58,1,2,yes,3,0,D
+female,some high school,married,regularly,yes,4,private,57,55,1,3,yes,3,4,F
+female,high school,single,regularly,no,1,private,71,70,1,3,yes,4,7,D
+female,some college,single,regularly,no,4,private,44,44,1,3,yes,3,9,F
+female,,married,sometimes,yes,,,80,83,1,3,yes,4,0,C
+male,associate's degree,widowed,regularly,no,1,school_bus,86,84,1,3,yes,4,0,A
+female,associate's degree,,regularly,no,2,school_bus,56,58,2,1,yes,5,10,F
+female,master's degree,married,sometimes,yes,1,school_bus,90,84,3,2,yes,4,8,C
+female,,married,sometimes,no,4,school_bus,85,82,2,2,yes,5,2,C
+female,associate's degree,married,sometimes,yes,4,school_bus,59,62,1,1,yes,3,7,F
+male,bachelor's degree,married,sometimes,no,3,school_bus,79,77,3,1,yes,4,4,B
+female,some high school,married,sometimes,no,2,private,51,44,2,2,yes,5,4,F
+female,some high school,married,regularly,yes,1,school_bus,80,78,1,2,no,3,0,C
+female,some college,single,regularly,no,4,private,37,32,2,2,yes,3,4,F
+male,associate's degree,single,regularly,yes,1,school_bus,65,62,2,2,no,2,2,C
+female,master's degree,married,sometimes,yes,3,private,65,61,2,1,yes,3,4,F
+female,high school,,sometimes,yes,,private,62,61,2,3,yes,3,0,F
+female,some college,divorced,regularly,yes,2,school_bus,67,73,3,2,no,3,0,D
+male,high school,married,regularly,yes,0,school_bus,73,69,2,2,no,4,2,D
+male,some high school,married,never,no,1,private,81,73,2,2,yes,3,0,B
+female,high school,widowed,regularly,yes,1,school_bus,52,52,1,2,yes,3,0,F
+female,associate's degree,divorced,regularly,no,3,private,69,74,2,2,no,2,0,F
+male,high school,divorced,sometimes,yes,0,private,70,70,2,2,no,3,4,C
+female,associate's degree,married,sometimes,yes,0,school_bus,84,81,2,3,yes,2,0,C
+male,,married,sometimes,no,4,private,60,54,3,1,yes,2,0,D
+female,associate's degree,married,never,yes,,school_bus,54,55,2,1,yes,2,0,F
+male,some high school,,,no,2,,73,68,3,2,yes,2,10,D
+female,some college,married,regularly,yes,1,school_bus,86,89,2,2,no,2,4,B
+female,some college,,never,yes,3,school_bus,74,76,3,1,yes,3,3,C
+male,some college,divorced,sometimes,yes,3,,79,72,1,3,no,4,8,C
+female,some college,single,sometimes,yes,2,school_bus,72,73,1,1,yes,5,14,D
+female,high school,divorced,sometimes,no,4,,45,40,2,3,yes,4,0,F
+male,high school,married,sometimes,yes,5,private,75,69,4,3,yes,3,2,A
+male,bachelor's degree,married,sometimes,yes,3,school_bus,54,51,2,3,yes,4,4,F
+male,some high school,married,sometimes,no,1,private,31,36,1,2,yes,4,4,F
+male,high school,single,sometimes,yes,1,school_bus,47,49,1,2,yes,1,0,F
+female,master's degree,married,regularly,yes,3,school_bus,63,67,1,2,yes,5,17,F
+male,some high school,married,sometimes,yes,2,school_bus,85,77,1,2,yes,2,4,B
+female,high school,married,sometimes,yes,,school_bus,81,84,2,1,yes,4,5,C
+male,some high school,married,regularly,no,2,,87,89,2,2,yes,4,2,A
+male,bachelor's degree,married,regularly,yes,0,school_bus,71,77,2,1,no,3,0,D
+female,high school,,sometimes,yes,1,private,72,68,2,1,no,4,14,D
+female,some high school,married,sometimes,no,3,private,89,86,2,3,no,3,2,C
+female,some high school,divorced,,yes,3,school_bus,90,92,3,1,yes,4,7,B
+male,some college,married,regularly,yes,1,private,52,52,1,3,yes,4,0,F
+female,some high school,widowed,sometimes,no,3,private,58,53,1,2,yes,3,0,F
+male,high school,single,regularly,,0,school_bus,66,58,2,2,no,1,0,D
+female,associate's degree,,sometimes,yes,3,school_bus,68,70,1,2,no,5,11,F
+female,some high school,married,regularly,yes,2,school_bus,68,76,2,1,yes,4,3,D
+male,some high school,married,regularly,yes,0,school_bus,53,53,1,1,no,5,3,D
+female,some college,single,regularly,yes,3,school_bus,61,59,3,1,yes,4,0,D
+female,bachelor's degree,married,regularly,,,school_bus,87,91,1,1,yes,2,5,C
+male,bachelor's degree,divorced,never,yes,1,school_bus,59,57,2,2,no,3,6,D
+male,some college,single,regularly,yes,2,school_bus,50,46,1,2,yes,3,4,F
+female,high school,single,regularly,yes,2,school_bus,64,75,1,2,yes,3,10,D
+male,high school,single,regularly,no,3,private,65,59,1,3,yes,2,2,C
+female,high school,married,regularly,yes,6,school_bus,84,82,1,2,no,3,4,C
+male,associate's degree,divorced,regularly,yes,1,school_bus,56,53,1,2,yes,4,10,F
+female,high school,divorced,sometimes,yes,4,school_bus,52,46,1,2,yes,4,0,F
+male,some high school,married,regularly,yes,0,school_bus,58,52,2,2,no,1,6,D
+female,high school,married,sometimes,no,2,private,44,36,1,2,yes,2,0,F
+male,some college,single,sometimes,yes,2,school_bus,78,77,1,2,yes,5,0,C
+female,some high school,single,regularly,yes,0,school_bus,64,64,1,2,yes,3,0,F
+male,master's degree,divorced,sometimes,yes,1,private,85,84,3,3,yes,2,4,B
+male,master's degree,married,sometimes,yes,7,private,85,85,1,1,yes,3,2,A
+female,high school,married,regularly,no,4,private,73,69,2,2,yes,4,2,D
+male,associate's degree,single,regularly,yes,0,school_bus,76,70,1,3,yes,5,0,B
+male,master's degree,married,never,yes,2,,67,67,1,1,yes,4,4,D
+female,high school,married,sometimes,yes,3,private,66,61,1,3,yes,2,6,F
+female,some college,married,regularly,no,1,,84,93,3,2,no,3,4,B
+male,some high school,married,never,no,2,private,65,58,1,1,yes,5,16,C
+male,some high school,,sometimes,yes,2,school_bus,64,55,1,1,yes,1,4,D
+female,bachelor's degree,married,regularly,yes,0,private,96,96,1,2,yes,4,0,A
+male,some college,married,regularly,no,1,school_bus,69,66,1,1,yes,4,0,C
+female,bachelor's degree,married,regularly,no,2,private,80,83,1,2,yes,5,2,D
+male,high school,divorced,regularly,,3,school_bus,49,47,2,2,yes,4,0,F
+male,associate's degree,married,sometimes,yes,3,school_bus,73,72,1,3,yes,3,2,B
+female,associate's degree,divorced,never,yes,,school_bus,61,51,1,1,yes,2,14,F
+female,master's degree,married,sometimes,yes,4,school_bus,87,88,1,1,yes,2,2,B
+male,bachelor's degree,single,sometimes,no,2,private,41,37,1,1,yes,2,4,F
+female,some college,single,regularly,yes,1,private,70,80,1,2,yes,3,4,C
+male,associate's degree,married,regularly,yes,3,school_bus,94,93,1,2,yes,4,16,A
+male,,married,never,no,3,school_bus,80,85,1,2,yes,4,0,C
+male,associate's degree,divorced,regularly,no,1,,41,41,2,2,yes,3,0,D
+male,associate's degree,married,sometimes,yes,3,school_bus,75,73,1,2,yes,5,0,B
+male,associate's degree,married,regularly,,2,school_bus,52,53,1,2,yes,3,0,F
+male,high school,married,sometimes,yes,1,school_bus,58,47,1,1,yes,4,0,F
+male,associate's degree,married,sometimes,yes,1,private,84,78,2,1,no,5,0,B
+male,associate's degree,married,never,yes,1,school_bus,87,78,1,3,yes,4,2,B
+female,bachelor's degree,married,sometimes,yes,3,private,61,59,2,3,yes,4,7,F
+male,,married,sometimes,no,7,school_bus,64,66,1,3,yes,3,2,B
+male,some college,married,sometimes,yes,3,school_bus,82,84,1,1,no,3,8,B
+male,some high school,married,sometimes,yes,2,private,61,54,2,2,yes,3,25,F
+female,some high school,single,regularly,no,3,private,73,82,1,1,yes,4,8,D
+female,associate's degree,married,sometimes,no,3,school_bus,76,74,1,2,yes,3,2,D
+male,bachelor's degree,married,sometimes,yes,3,school_bus,63,64,1,1,yes,4,0,D
+female,bachelor's degree,single,regularly,no,3,school_bus,69,70,2,2,yes,3,14,C
+female,high school,married,regularly,yes,5,private,75,74,1,2,yes,2,8,D
+male,bachelor's degree,married,sometimes,yes,1,school_bus,46,44,1,2,yes,3,12,F
+female,associate's degree,single,never,yes,0,,49,51,1,4,yes,2,4,F
+female,associate's degree,married,sometimes,no,,school_bus,76,80,1,2,no,3,2,D
+female,associate's degree,married,regularly,yes,,school_bus,100,99,1,2,yes,4,2,A
+female,some college,married,sometimes,no,3,school_bus,65,74,3,2,yes,3,2,D
+male,high school,divorced,sometimes,no,3,school_bus,50,47,1,2,yes,3,2,F
+female,some college,married,regularly,no,1,private,86,93,2,1,no,5,6,B
+female,associate's degree,married,regularly,yes,1,school_bus,93,87,1,1,yes,3,0,B
+female,master's degree,married,sometimes,yes,2,school_bus,68,75,1,1,yes,3,6,F
+male,some high school,divorced,sometimes,yes,0,private,75,76,1,2,yes,3,8,A
+female,associate's degree,divorced,never,yes,3,school_bus,60,65,1,2,yes,3,0,F
+female,,divorced,regularly,no,5,private,34,38,1,2,no,2,4,F
+male,high school,,regularly,yes,3,school_bus,29,27,1,2,yes,3,2,F
+female,some high school,single,regularly,yes,3,private,77,79,1,2,yes,2,2,D
+male,,married,sometimes,no,3,school_bus,53,61,1,2,no,4,6,D
+female,some high school,single,sometimes,yes,1,private,78,82,4,1,yes,5,6,D
+male,master's degree,married,sometimes,no,3,private,84,89,1,2,yes,4,4,B
+female,master's degree,married,sometimes,yes,2,school_bus,79,76,1,3,yes,4,2,C
+female,high school,married,sometimes,yes,0,,47,40,1,2,yes,4,0,F
+female,bachelor's degree,divorced,sometimes,yes,0,private,100,100,3,2,yes,4,2,A
+female,some high school,divorced,regularly,yes,4,school_bus,85,86,1,4,yes,3,4,D
+male,,single,never,yes,2,private,74,73,1,4,yes,3,4,B
+male,,married,regularly,yes,0,private,47,51,2,2,yes,1,2,F
+female,some college,single,regularly,,5,private,86,95,2,4,yes,4,12,B
+female,bachelor's degree,divorced,sometimes,no,1,school_bus,75,72,2,4,yes,3,0,D
+male,bachelor's degree,married,sometimes,no,1,private,63,68,1,4,yes,3,0,D
+male,bachelor's degree,divorced,sometimes,yes,3,private,42,48,1,2,yes,3,2,F
+female,some college,married,regularly,no,1,school_bus,85,84,1,1,no,3,2,C
+female,bachelor's degree,married,sometimes,yes,3,private,61,66,1,2,yes,3,54,F
+female,bachelor's degree,single,regularly,yes,2,school_bus,61,66,1,2,yes,3,6,F
+female,associate's degree,married,sometimes,yes,2,school_bus,61,56,2,4,yes,4,8,F
+female,some college,married,regularly,no,2,private,71,67,1,4,yes,2,0,C
+male,bachelor's degree,single,regularly,yes,7,private,100,100,2,1,yes,5,2,A
+female,high school,married,regularly,yes,1,private,60,52,1,2,yes,4,12,F
+female,associate's degree,married,regularly,yes,0,private,78,82,1,1,yes,2,2,F
+male,some college,married,,yes,1,school_bus,96,91,1,3,yes,3,4,A
+male,high school,married,regularly,,1,private,71,68,1,2,yes,4,10,C
+male,high school,married,regularly,no,1,school_bus,65,66,2,2,yes,3,4,C
+female,associate's degree,single,sometimes,no,1,school_bus,65,65,1,2,yes,3,2,F
+male,high school,married,sometimes,yes,0,school_bus,70,69,2,2,yes,4,6,C
+male,some high school,divorced,regularly,no,2,school_bus,64,61,1,2,no,3,4,C
+male,,married,sometimes,yes,0,,56,52,1,3,yes,3,4,D
+female,high school,married,sometimes,yes,1,school_bus,61,72,2,2,yes,4,12,D
+male,associate's degree,married,sometimes,yes,0,school_bus,43,44,1,2,no,1,18,F
+female,some high school,,never,yes,2,private,54,48,1,3,yes,3,0,F
+male,some college,married,regularly,yes,2,,56,62,1,1,yes,5,4,D
+male,associate's degree,divorced,regularly,yes,2,private,72,74,1,2,no,3,4,D
+male,,divorced,sometimes,yes,5,private,73,72,2,2,yes,3,0,D
+male,associate's degree,married,sometimes,no,2,school_bus,88,91,1,4,yes,3,6,A
+male,some college,divorced,regularly,yes,0,private,63,59,2,4,yes,1,2,C
+male,associate's degree,divorced,never,no,1,school_bus,56,51,2,1,yes,3,2,D
+female,high school,married,regularly,yes,1,private,57,57,1,2,no,3,2,F
+male,some college,married,sometimes,yes,1,private,81,85,1,1,yes,3,6,B
+male,some high school,divorced,regularly,yes,4,private,69,70,1,3,yes,3,0,C
+male,master's degree,married,never,yes,0,school_bus,66,72,1,1,yes,5,14,C
+female,master's degree,married,regularly,no,1,school_bus,94,100,1,3,yes,4,0,B
+male,high school,married,regularly,yes,0,private,65,64,1,1,yes,3,4,B
+male,some high school,single,sometimes,no,3,school_bus,62,61,2,2,yes,3,26,D
+female,high school,married,sometimes,yes,3,private,66,59,1,2,yes,4,0,F
+female,associate's degree,divorced,regularly,no,1,school_bus,61,59,1,4,no,3,10,F
+male,high school,married,sometimes,yes,3,private,80,78,1,4,yes,1,8,C
+female,some college,married,sometimes,yes,1,private,57,58,1,3,yes,3,2,F
+male,some high school,single,regularly,no,1,school_bus,49,52,4,4,yes,3,6,F
+female,high school,,sometimes,yes,3,private,76,74,1,3,yes,4,4,F
+male,high school,married,never,yes,0,private,71,69,1,1,yes,5,6,A
+female,some college,single,regularly,yes,3,,78,85,1,3,yes,1,0,C
+female,some high school,married,sometimes,yes,1,private,74,72,1,2,yes,1,6,C
+male,high school,single,sometimes,no,3,private,52,54,1,1,yes,5,10,F
+female,some college,married,sometimes,yes,2,private,67,67,1,2,yes,4,8,D
+male,associate's degree,married,regularly,no,5,school_bus,58,64,1,2,yes,4,2,C
+male,some college,married,regularly,yes,0,private,88,83,2,2,no,4,2,B
+female,master's degree,divorced,sometimes,yes,4,school_bus,100,100,2,1,yes,4,0,A
+female,high school,divorced,regularly,yes,1,school_bus,62,59,3,2,yes,2,20,F
+male,high school,single,sometimes,,3,private,81,71,1,1,yes,4,6,C
+female,some college,single,regularly,no,2,school_bus,58,65,1,2,yes,2,2,F
+female,some high school,single,regularly,yes,4,school_bus,54,54,1,4,yes,5,6,F
+female,associate's degree,single,regularly,no,3,school_bus,100,100,2,2,yes,2,2,A
+female,some high school,married,never,yes,1,school_bus,74,73,1,1,yes,4,18,D
+male,,married,sometimes,no,4,school_bus,57,58,1,2,yes,4,0,C
+female,some college,single,regularly,yes,,school_bus,71,73,1,1,yes,5,0,D
+male,some high school,divorced,regularly,yes,1,school_bus,69,65,1,2,yes,3,0,D
+male,some college,married,never,yes,4,school_bus,61,57,1,2,no,4,2,F
+female,associate's degree,single,regularly,yes,1,school_bus,77,68,1,1,yes,3,0,C
+female,bachelor's degree,divorced,never,yes,1,school_bus,82,78,1,1,yes,5,8,C
+female,bachelor's degree,widowed,regularly,yes,0,school_bus,100,100,2,3,yes,2,0,A
+male,some high school,single,regularly,yes,2,school_bus,74,72,3,1,yes,3,0,B
+female,high school,married,regularly,,3,school_bus,50,61,1,1,yes,4,12,F
+female,some college,divorced,regularly,yes,3,,64,61,1,1,yes,2,16,F
+female,,married,sometimes,no,2,school_bus,62,65,4,2,no,3,0,F
+male,associate's degree,married,sometimes,yes,1,school_bus,64,56,1,3,yes,3,0,D
+male,high school,married,regularly,yes,5,private,40,48,3,2,no,4,0,F
+female,associate's degree,married,sometimes,no,3,private,95,94,2,1,yes,3,0,A
+female,high school,married,sometimes,yes,1,private,24,23,1,2,no,4,0,F
+male,some high school,married,regularly,no,2,school_bus,79,79,2,1,yes,3,0,B
+male,some high school,married,sometimes,yes,4,,83,84,2,4,yes,2,0,C
+female,some college,married,regularly,yes,1,,89,95,2,1,yes,3,8,B
+female,some high school,married,regularly,yes,6,school_bus,74,81,1,3,yes,2,2,C
+male,high school,married,regularly,no,1,private,50,54,1,1,yes,4,2,F
+female,associate's degree,,never,yes,,,58,49,1,1,yes,4,0,F
+male,some high school,married,regularly,yes,0,school_bus,76,77,1,2,yes,4,0,B
+female,some high school,single,sometimes,no,5,school_bus,44,43,1,2,yes,3,0,F
+female,some college,married,regularly,yes,3,school_bus,87,85,1,2,yes,3,2,D
+male,high school,married,regularly,yes,1,school_bus,82,76,1,1,yes,3,0,B
+female,some high school,married,regularly,no,1,school_bus,83,79,4,1,yes,5,0,D
+female,associate's degree,married,sometimes,yes,1,school_bus,76,76,1,1,yes,3,0,F
+female,bachelor's degree,single,sometimes,yes,3,school_bus,72,74,1,1,no,4,6,D
+male,high school,married,regularly,no,7,school_bus,64,64,2,3,yes,2,8,D
+female,master's degree,married,never,no,2,school_bus,99,95,1,1,yes,5,0,B
+male,high school,single,regularly,yes,2,school_bus,54,55,1,1,no,2,0,D
+female,high school,married,sometimes,no,2,school_bus,71,65,1,2,no,4,2,F
+female,,divorced,sometimes,yes,3,school_bus,78,77,1,1,no,2,8,D
+female,some college,married,regularly,yes,1,school_bus,88,89,3,1,no,2,6,B
+female,some college,divorced,never,yes,0,private,86,82,3,1,no,2,2,C
+female,some college,single,sometimes,yes,1,school_bus,96,98,1,2,yes,5,4,B
+female,some high school,,regularly,no,1,private,73,66,2,1,yes,3,0,D
+male,bachelor's degree,single,regularly,no,,private,57,63,2,2,yes,4,6,C
+male,some college,married,regularly,yes,2,private,52,54,2,1,no,4,0,D
+female,,single,regularly,yes,0,school_bus,65,69,1,1,yes,3,2,D
+male,some high school,married,,yes,3,private,72,73,4,2,no,3,0,D
+female,some high school,divorced,regularly,no,1,private,86,81,2,1,no,5,16,C
+female,associate's degree,married,regularly,yes,,private,71,76,1,2,yes,3,4,F
+female,some high school,married,sometimes,no,2,school_bus,63,62,1,2,yes,2,0,C
+male,bachelor's degree,,regularly,yes,4,school_bus,99,100,1,2,yes,1,0,A
+male,associate's degree,married,never,yes,3,school_bus,61,52,1,2,yes,4,0,F
+female,high school,married,sometimes,yes,2,private,81,88,3,1,yes,4,0,B
+male,some college,single,sometimes,yes,1,school_bus,57,62,2,2,yes,3,2,D
+male,associate's degree,divorced,sometimes,yes,0,school_bus,79,75,1,2,yes,4,0,A
+male,master's degree,single,regularly,no,1,private,94,96,1,2,yes,3,0,B
+male,high school,married,sometimes,yes,1,school_bus,71,66,2,2,yes,4,4,B
+female,high school,single,regularly,yes,1,school_bus,46,46,2,2,yes,4,4,F
+male,high school,married,never,yes,2,,77,79,2,2,yes,4,2,B
+female,master's degree,married,sometimes,yes,0,,64,68,1,2,yes,3,4,F
+female,bachelor's degree,single,sometimes,yes,3,private,82,86,1,1,yes,3,10,C
+female,some college,single,sometimes,yes,2,school_bus,83,81,1,2,yes,2,4,D
+female,master's degree,married,sometimes,yes,0,school_bus,82,85,1,2,yes,4,10,C
+male,some college,married,regularly,yes,0,private,70,64,1,2,yes,2,2,D
+female,master's degree,married,sometimes,no,1,private,76,76,1,2,no,4,0,C
+male,some college,married,sometimes,yes,4,,64,52,1,2,yes,3,56,D
+female,associate's degree,single,regularly,yes,0,private,88,89,1,2,yes,2,14,C
+female,high school,single,regularly,yes,2,school_bus,57,59,1,2,yes,3,12,D
+female,master's degree,single,sometimes,no,4,school_bus,79,80,1,1,yes,3,2,C
+male,associate's degree,married,sometimes,no,3,private,69,68,1,2,yes,2,0,D
+female,some college,married,never,yes,2,school_bus,76,77,1,2,yes,3,6,F
+female,bachelor's degree,married,sometimes,yes,3,school_bus,67,68,1,2,no,1,4,F
+male,high school,married,sometimes,yes,,school_bus,38,39,1,2,yes,3,10,F
+female,high school,divorced,regularly,yes,1,private,100,100,1,2,yes,3,0,A
+female,associate's degree,married,sometimes,no,6,school_bus,53,55,2,2,yes,4,12,F
+female,some high school,divorced,sometimes,no,3,,78,80,1,1,yes,3,8,C
+male,associate's degree,divorced,sometimes,no,3,school_bus,69,71,2,1,yes,3,0,C
+male,high school,single,regularly,yes,4,school_bus,63,62,1,2,yes,3,0,C
+female,associate's degree,married,sometimes,yes,3,school_bus,83,90,1,1,yes,2,4,C
+female,associate's degree,single,never,yes,3,private,96,95,3,1,yes,3,8,B
+male,bachelor's degree,divorced,sometimes,yes,4,school_bus,66,72,2,1,yes,2,24,C
+female,bachelor's degree,married,sometimes,yes,0,private,100,100,1,2,yes,5,0,A
+male,some high school,married,sometimes,yes,0,school_bus,68,68,1,2,yes,3,2,C
+female,high school,,never,yes,3,private,81,79,1,2,no,4,6,C
+male,some college,single,regularly,no,1,school_bus,49,43,1,2,no,4,4,F
+male,high school,married,never,yes,3,school_bus,64,59,1,1,yes,3,18,C
+male,some high school,married,regularly,yes,0,school_bus,39,37,2,4,yes,3,6,F
+male,high school,married,sometimes,yes,1,,69,61,1,3,yes,4,28,D
+male,some high school,married,sometimes,yes,6,private,76,69,1,2,yes,3,5,C
+male,some high school,single,never,no,2,private,69,64,1,2,yes,3,10,D
+female,high school,single,never,yes,1,private,72,68,2,1,no,3,6,F
+male,bachelor's degree,married,regularly,yes,1,private,50,46,2,3,yes,4,6,F
+female,associate's degree,divorced,sometimes,yes,1,school_bus,45,46,1,4,yes,3,10,F
+female,some high school,married,regularly,yes,0,school_bus,61,61,1,2,yes,3,13,F
+female,high school,married,sometimes,no,4,,35,35,1,2,yes,3,0,F
+female,some college,divorced,sometimes,no,1,private,74,73,1,2,yes,4,15,C
+female,some college,divorced,regularly,yes,1,private,71,71,1,1,no,2,12,F
+female,bachelor's degree,married,sometimes,no,1,school_bus,54,49,2,2,yes,4,2,F
+male,some college,married,regularly,no,3,private,83,70,1,2,yes,4,22,C
+male,some college,married,sometimes,yes,2,school_bus,50,45,1,2,yes,2,13,F
+female,,single,sometimes,no,2,private,70,66,2,1,no,3,3,F
+female,some high school,married,regularly,yes,4,school_bus,78,80,1,3,yes,3,4,D
+female,some college,married,sometimes,no,2,private,74,74,2,2,yes,2,2,F
+male,some college,married,regularly,no,2,,73,72,1,3,no,3,0,B
+male,associate's degree,married,regularly,yes,2,school_bus,53,48,1,2,yes,3,2,F
+male,associate's degree,widowed,regularly,yes,1,,63,64,2,2,yes,3,0,C
+female,high school,married,sometimes,yes,1,,68,68,1,3,yes,3,0,F
+male,master's degree,married,sometimes,no,3,school_bus,65,71,1,2,yes,3,16,C
+female,some college,married,regularly,yes,1,private,76,69,1,2,yes,3,10,D
+male,some high school,married,regularly,yes,0,school_bus,55,63,1,2,yes,3,2,D
+female,associate's degree,married,sometimes,yes,0,school_bus,69,62,4,2,yes,3,14,F
+male,associate's degree,single,regularly,yes,3,,79,76,2,3,yes,2,10,B
+female,associate's degree,married,sometimes,yes,0,private,73,68,1,2,yes,2,14,D
+female,master's degree,married,sometimes,no,1,school_bus,85,95,2,2,yes,5,4,D
+female,high school,married,sometimes,no,3,school_bus,70,67,1,2,yes,5,14,D
+female,high school,divorced,regularly,yes,0,private,48,51,1,2,yes,2,2,F
+male,some college,married,sometimes,yes,,school_bus,55,61,2,2,yes,4,18,C
+male,high school,married,sometimes,yes,2,school_bus,59,49,2,3,yes,3,10,F
+female,some high school,widowed,sometimes,yes,4,school_bus,65,70,1,2,yes,4,4,F
+male,some high school,married,sometimes,yes,3,school_bus,43,37,1,1,yes,5,20,F
+female,bachelor's degree,married,never,yes,2,private,81,80,3,2,no,1,2,D
+male,bachelor's degree,married,never,,2,school_bus,69,61,1,2,yes,5,0,C
+female,master's degree,married,regularly,yes,2,school_bus,86,86,2,2,yes,5,14,C
+male,bachelor's degree,single,regularly,yes,1,private,42,39,2,2,yes,3,2,F
+male,some college,married,regularly,yes,1,private,98,93,1,1,yes,4,0,A
+male,some college,widowed,sometimes,yes,4,school_bus,68,65,1,1,yes,3,0,D
+female,some high school,married,never,yes,3,,36,36,2,3,yes,4,0,F
+male,some college,married,sometimes,yes,0,private,53,51,3,1,yes,3,6,F
+female,some college,married,regularly,yes,1,school_bus,64,59,2,1,yes,2,4,D
+male,some college,single,sometimes,yes,4,school_bus,64,59,1,1,yes,4,16,D
+female,some high school,single,regularly,yes,0,,75,69,1,2,yes,3,8,C
+male,master's degree,married,sometimes,yes,0,school_bus,67,75,1,1,yes,3,0,D
+male,some college,married,sometimes,yes,0,private,73,74,2,1,yes,4,0,C
+female,some college,single,sometimes,no,2,school_bus,69,63,3,2,yes,3,6,F
+male,high school,married,never,yes,2,private,62,58,1,1,yes,2,4,D
+male,some high school,married,sometimes,no,3,school_bus,72,69,2,1,no,3,0,C
+female,high school,divorced,sometimes,yes,4,private,67,68,1,1,yes,4,0,C
+female,some college,married,regularly,yes,1,private,64,68,2,1,yes,4,2,F
+female,some college,married,sometimes,no,1,school_bus,88,94,1,4,yes,2,6,C
+female,some college,,sometimes,yes,0,school_bus,79,76,1,2,yes,3,12,C
+male,bachelor's degree,married,sometimes,yes,2,school_bus,87,76,1,2,yes,2,8,C
+female,some high school,divorced,never,yes,2,school_bus,91,92,1,4,yes,4,0,C
+female,associate's degree,single,sometimes,yes,6,private,76,75,1,2,yes,1,21,D
+female,some college,married,sometimes,no,1,school_bus,65,61,1,2,yes,3,2,F
+female,some high school,married,regularly,yes,2,private,79,78,1,3,no,3,1,D
+female,associate's degree,single,never,yes,1,school_bus,95,97,1,3,no,2,4,B
+male,some high school,widowed,regularly,no,2,private,50,48,1,3,yes,3,0,F
+female,,married,regularly,yes,4,school_bus,77,81,2,2,yes,2,13,C
+male,some high school,married,never,yes,1,private,47,46,1,2,yes,4,2,F
+female,bachelor's degree,single,sometimes,,2,,54,60,2,2,yes,3,8,F
+female,some high school,single,sometimes,,5,private,65,70,1,2,yes,4,10,F
+female,,married,sometimes,yes,1,private,64,63,2,2,yes,3,0,F
+female,high school,single,sometimes,,1,school_bus,50,48,1,2,yes,3,15,F
+male,associate's degree,single,regularly,yes,2,private,74,77,1,4,yes,5,4,B
+male,some college,married,regularly,yes,3,private,63,55,2,2,no,4,2,C
+female,associate's degree,married,sometimes,,2,school_bus,83,77,1,2,no,5,2,D
+female,some high school,,sometimes,yes,0,school_bus,73,75,2,2,yes,3,2,D
+male,associate's degree,married,regularly,no,1,school_bus,62,71,2,2,yes,4,6,C
+female,associate's degree,widowed,regularly,yes,0,private,82,84,2,2,yes,1,75,B
+female,associate's degree,widowed,sometimes,yes,0,private,61,59,2,1,yes,2,22,F
+female,,married,sometimes,yes,1,school_bus,66,60,1,2,yes,4,15,F
+male,some college,single,sometimes,yes,3,private,59,46,2,1,yes,2,8,F
+male,associate's degree,single,never,yes,0,,91,89,2,1,yes,5,30,B
+female,associate's degree,single,never,yes,0,private,75,84,1,1,yes,4,19,C
+male,bachelor's degree,divorced,sometimes,yes,2,,51,54,2,4,no,2,1,D
+female,high school,married,sometimes,no,3,private,58,58,2,2,yes,4,4,F
+male,associate's degree,divorced,sometimes,no,3,private,80,73,1,2,yes,4,4,C
+female,bachelor's degree,married,sometimes,yes,2,private,69,71,1,2,yes,3,2,F
+male,some high school,single,sometimes,no,4,school_bus,53,52,1,3,yes,3,5,F
+male,master's degree,married,sometimes,yes,1,private,90,87,1,3,yes,3,6,B
+female,associate's degree,single,sometimes,yes,0,,95,100,1,3,yes,2,6,A
+male,associate's degree,married,regularly,,1,school_bus,81,77,1,2,yes,4,9,B
+male,some college,married,regularly,yes,1,school_bus,87,92,1,2,yes,3,11,A
+male,some college,divorced,regularly,no,3,school_bus,59,59,1,3,yes,2,0,D
+female,,single,sometimes,,1,,59,65,1,2,yes,4,12,F
+female,some high school,married,sometimes,yes,1,private,80,75,2,4,no,1,6,D
+male,associate's degree,married,regularly,,1,school_bus,62,56,2,3,yes,4,8,C
+male,associate's degree,single,sometimes,no,2,school_bus,51,42,1,1,yes,4,4,F
+female,associate's degree,widowed,sometimes,yes,2,school_bus,78,70,2,2,yes,3,0,D
+female,high school,married,regularly,yes,2,school_bus,75,72,2,2,yes,4,10,D
+female,,married,regularly,yes,0,,77,71,1,4,yes,3,0,D
+male,some high school,single,sometimes,no,3,private,61,62,1,1,yes,4,5,F
+male,high school,single,sometimes,no,2,private,51,48,1,2,yes,2,14,F
+female,some high school,married,regularly,yes,0,private,73,71,2,1,yes,1,0,D
+female,,married,sometimes,yes,0,private,87,79,2,3,yes,3,0,C
+female,associate's degree,divorced,sometimes,no,4,school_bus,59,63,1,4,yes,2,0,F
+male,bachelor's degree,widowed,never,yes,2,private,90,82,1,2,yes,4,20,A
+female,some college,single,sometimes,yes,1,,76,79,1,2,yes,4,8,D
+female,associate's degree,divorced,sometimes,no,2,,87,87,1,1,no,5,0,C
+female,bachelor's degree,single,never,yes,0,private,67,61,2,1,yes,3,38,D
+female,high school,widowed,regularly,yes,,private,46,49,1,2,no,5,0,F
+male,some college,married,sometimes,yes,1,,71,73,1,2,yes,4,18,C
+male,,,sometimes,yes,2,school_bus,65,60,1,2,no,2,0,D
+male,some college,married,sometimes,no,3,school_bus,65,62,3,2,yes,4,20,C
+male,,married,regularly,yes,2,private,67,51,1,2,yes,5,3,F
+male,some high school,married,never,no,4,school_bus,76,64,2,2,yes,2,22,D
+female,associate's degree,married,,yes,6,school_bus,92,92,1,3,yes,1,14,D
+male,some college,divorced,regularly,yes,4,,66,71,1,3,yes,1,40,C
+male,some high school,married,sometimes,yes,4,school_bus,63,53,2,2,yes,3,0,F
+female,high school,,sometimes,yes,0,school_bus,58,53,1,3,yes,3,9,F
+female,some college,married,sometimes,,0,school_bus,66,63,1,3,yes,3,0,F
+male,some college,,never,yes,1,,76,77,1,2,yes,4,2,B
+female,some college,married,sometimes,yes,1,private,77,72,1,2,yes,2,23,F
+female,some high school,married,never,no,1,private,52,50,1,2,no,2,12,F
+female,high school,,never,yes,2,school_bus,73,68,1,3,yes,3,3,F
+male,associate's degree,married,regularly,yes,1,school_bus,52,49,1,3,yes,4,1,F
+male,some college,married,sometimes,no,4,school_bus,69,69,2,3,yes,3,0,C
+female,master's degree,divorced,never,yes,4,private,72,72,1,3,yes,3,3,F
+female,some college,married,regularly,,4,private,58,55,1,1,yes,3,3,F
+male,master's degree,single,sometimes,no,2,school_bus,91,88,4,1,yes,4,8,B
+female,associate's degree,single,regularly,yes,4,,75,77,1,3,yes,4,7,B
+male,high school,divorced,sometimes,yes,1,private,63,53,2,3,yes,3,4,D
+male,high school,married,regularly,yes,3,school_bus,61,60,1,4,yes,5,2,D
+male,bachelor's degree,married,never,yes,4,school_bus,78,69,1,3,yes,4,7,C
+male,some college,divorced,regularly,no,3,school_bus,76,76,1,2,yes,3,0,C
+female,some college,married,regularly,yes,0,school_bus,70,71,1,2,yes,3,0,F
+male,bachelor's degree,single,sometimes,yes,2,private,68,68,2,4,no,4,0,C
+male,associate's degree,divorced,regularly,yes,2,school_bus,70,79,1,3,yes,4,16,D
+male,some college,married,sometimes,yes,1,private,87,74,1,3,no,4,12,A
+female,associate's degree,divorced,regularly,no,5,school_bus,69,69,1,2,yes,3,0,D
+male,associate's degree,married,sometimes,yes,4,private,63,60,1,4,yes,3,7,D
+female,master's degree,married,sometimes,yes,2,school_bus,68,74,1,2,yes,3,4,F
+female,high school,divorced,regularly,yes,1,school_bus,75,75,1,3,yes,3,4,F
+female,some college,divorced,regularly,,4,private,57,61,1,2,yes,3,0,F
+female,some high school,married,regularly,yes,0,private,53,51,1,2,yes,3,11,F
+male,high school,married,regularly,no,,private,50,38,1,2,yes,3,0,F
+male,some college,single,sometimes,yes,3,school_bus,78,74,1,3,yes,3,4,B
+female,some high school,married,never,no,2,school_bus,54,49,1,3,yes,4,7,F
+male,bachelor's degree,single,sometimes,no,2,school_bus,67,68,1,3,yes,3,9,C
+male,bachelor's degree,single,sometimes,no,1,school_bus,74,83,1,3,yes,4,0,B
+female,bachelor's degree,divorced,sometimes,yes,0,private,58,46,1,3,yes,4,0,F
+male,,married,sometimes,yes,4,school_bus,56,55,2,1,yes,5,10,D
+female,associate's degree,divorced,sometimes,no,1,school_bus,94,95,3,2,yes,4,8,B
+male,some college,single,sometimes,yes,5,school_bus,63,67,2,2,yes,5,2,D
+female,associate's degree,single,never,yes,1,private,69,70,1,1,yes,3,7,F
+male,some college,married,sometimes,yes,4,school_bus,82,72,3,1,yes,4,4,C
+female,master's degree,married,sometimes,no,1,school_bus,83,82,2,2,yes,5,4,D
+female,associate's degree,married,sometimes,yes,3,school_bus,66,63,1,2,no,3,0,F
+male,some college,single,regularly,no,1,school_bus,62,71,2,2,yes,3,4,D
+male,associate's degree,single,regularly,yes,5,,92,86,2,2,no,2,2,A
+male,bachelor's degree,divorced,regularly,,1,school_bus,55,46,2,1,yes,3,4,F
+female,high school,married,sometimes,no,3,school_bus,63,56,2,3,yes,3,0,F
+male,master's degree,divorced,sometimes,yes,1,school_bus,63,68,3,2,no,3,0,C
+female,some college,divorced,sometimes,yes,2,private,80,87,2,2,no,4,2,D
+male,some high school,married,sometimes,yes,2,school_bus,46,39,2,2,yes,3,0,F
+female,some college,married,never,yes,0,private,67,73,1,2,yes,3,0,D
+male,some high school,married,sometimes,yes,3,school_bus,51,51,2,2,no,2,0,F
+female,high school,single,sometimes,yes,1,private,85,90,2,2,no,3,4,B
+male,high school,widowed,sometimes,yes,2,school_bus,82,79,2,3,yes,2,0,B
+female,some high school,single,sometimes,yes,1,school_bus,60,54,3,1,yes,2,0,F
+male,associate's degree,divorced,regularly,no,3,private,45,44,2,1,yes,2,0,D
+female,some college,single,regularly,no,3,private,94,91,3,2,yes,2,10,B
+female,associate's degree,married,,yes,1,private,72,75,2,2,no,2,4,D
+female,bachelor's degree,single,sometimes,yes,3,private,68,67,3,1,yes,3,3,F
+male,some high school,married,never,yes,4,school_bus,67,66,1,3,no,4,8,D
+male,high school,divorced,sometimes,no,3,school_bus,57,60,1,1,yes,5,14,C
+female,some high school,single,regularly,yes,2,school_bus,82,76,2,3,yes,4,0,C
+male,some high school,,regularly,yes,1,school_bus,62,63,4,3,yes,3,2,D
+female,associate's degree,married,sometimes,yes,1,,73,61,2,3,yes,4,4,F
+female,some college,married,regularly,yes,2,school_bus,64,64,1,2,yes,4,4,F
+female,some college,single,never,yes,0,school_bus,70,63,1,2,yes,1,0,F
+female,high school,married,sometimes,yes,0,school_bus,56,51,1,2,yes,5,17,F
+male,high school,married,sometimes,no,1,,61,63,1,2,yes,2,4,D
+male,high school,married,never,yes,3,school_bus,76,67,2,1,yes,4,5,B
+female,,married,regularly,yes,2,private,62,59,2,2,yes,4,2,F
+female,some high school,married,sometimes,yes,4,school_bus,62,60,2,1,no,3,0,D
+female,associate's degree,married,never,no,,private,64,63,2,1,no,4,14,F
+male,some high school,,regularly,,0,school_bus,43,38,2,3,no,3,2,F
+male,,married,sometimes,yes,3,school_bus,97,92,3,1,yes,4,7,A
+male,some high school,married,sometimes,yes,0,school_bus,60,62,1,3,yes,4,0,F
+female,master's degree,single,never,yes,2,school_bus,78,74,1,2,yes,3,0,C
+female,some college,married,regularly,no,2,private,55,57,2,2,no,1,0,F
+female,high school,single,sometimes,yes,2,private,79,86,1,2,no,5,11,C
+female,master's degree,married,sometimes,yes,,private,83,93,2,1,yes,4,3,B
+male,high school,married,sometimes,yes,1,school_bus,79,74,1,1,no,5,3,B
+female,associate's degree,,sometimes,yes,0,school_bus,79,79,3,1,yes,4,0,D
+female,bachelor's degree,married,sometimes,no,1,,93,90,1,1,yes,2,5,B
+male,high school,married,sometimes,yes,4,private,80,67,2,2,no,3,6,D
+female,high school,single,sometimes,no,1,school_bus,66,68,1,2,yes,3,4,D
+female,some college,married,sometimes,no,1,private,92,99,1,2,yes,3,10,B
+female,associate's degree,married,sometimes,yes,0,private,52,50,1,3,yes,2,2,F
+male,some high school,married,sometimes,yes,3,private,62,61,1,2,no,3,4,C
+female,,single,sometimes,yes,4,school_bus,85,80,1,2,yes,4,10,C
+male,associate's degree,married,regularly,yes,2,private,70,69,1,2,yes,4,0,D
+female,high school,single,regularly,no,1,school_bus,78,78,2,2,no,1,6,C
+female,bachelor's degree,divorced,regularly,no,2,school_bus,80,84,1,2,yes,2,0,C
+male,associate's degree,divorced,sometimes,yes,0,,73,72,1,2,yes,5,0,C
+male,associate's degree,married,sometimes,yes,1,school_bus,67,60,1,2,yes,3,0,D
+male,some high school,married,regularly,no,1,school_bus,58,59,3,3,yes,2,4,F
+female,some college,single,,yes,1,,68,65,1,1,yes,3,2,D
+female,bachelor's degree,single,sometimes,yes,3,school_bus,59,56,2,2,yes,4,2,F
+female,associate's degree,married,sometimes,yes,2,school_bus,48,37,1,3,yes,5,0,F
+female,bachelor's degree,married,,no,,private,75,87,1,1,yes,4,4,B
+male,bachelor's degree,married,sometimes,yes,1,school_bus,56,50,1,3,yes,2,6,D
+male,bachelor's degree,married,sometimes,yes,1,school_bus,76,77,3,2,no,3,4,B
+male,some college,married,regularly,no,2,private,81,77,1,1,yes,5,16,B
+male,some college,single,sometimes,yes,2,private,73,68,1,1,yes,1,4,C
+male,bachelor's degree,married,regularly,yes,0,school_bus,74,74,1,2,yes,4,0,B
+female,associate's degree,married,sometimes,yes,0,private,49,50,1,1,yes,4,0,F
+female,bachelor's degree,married,regularly,yes,1,private,85,80,1,2,yes,5,2,C
+female,some college,married,regularly,no,3,school_bus,77,75,2,2,yes,4,0,C
+male,bachelor's degree,divorced,sometimes,no,1,school_bus,93,91,1,3,yes,3,2,A
+female,some college,single,sometimes,yes,1,private,46,43,1,1,yes,2,14,F
+male,high school,single,regularly,yes,1,school_bus,53,52,1,1,yes,2,2,F
+male,associate's degree,divorced,sometimes,no,3,private,76,75,1,1,yes,2,4,B
+female,some college,single,regularly,yes,3,school_bus,79,82,1,2,yes,3,4,C
+male,some college,married,regularly,no,4,school_bus,72,77,1,2,yes,4,16,B
+female,some college,divorced,regularly,yes,4,private,83,89,1,2,yes,4,0,B
+male,master's degree,married,regularly,no,2,private,63,66,2,2,yes,3,0,D
+female,some high school,married,sometimes,no,3,school_bus,66,58,1,2,yes,5,0,F
+male,,married,regularly,no,4,school_bus,76,72,1,2,yes,3,0,C
+female,,married,never,yes,3,school_bus,71,73,1,1,yes,4,0,F
+male,some high school,single,never,no,2,private,56,57,2,1,no,5,0,F
+female,some high school,married,,no,1,school_bus,55,57,1,3,yes,4,2,F
+male,master's degree,married,regularly,,4,school_bus,86,84,2,3,yes,4,7,B
+female,bachelor's degree,divorced,regularly,yes,0,private,73,68,1,3,yes,3,2,F
+male,bachelor's degree,single,regularly,yes,1,,69,67,1,1,no,3,8,C
+female,,married,regularly,no,5,private,72,66,2,2,yes,3,25,F
+female,some high school,single,sometimes,yes,0,school_bus,81,79,1,1,yes,4,8,F
+female,associate's degree,single,never,no,2,private,74,73,1,2,yes,3,2,D
+female,some college,widowed,,yes,,school_bus,79,79,1,1,yes,4,0,B
+male,associate's degree,single,regularly,no,2,,48,46,2,2,yes,3,14,F
+male,some college,single,sometimes,yes,1,school_bus,44,51,1,2,yes,2,8,F
+male,some high school,married,sometimes,yes,3,private,67,69,1,2,yes,3,12,C
+male,master's degree,single,sometimes,yes,2,private,69,70,1,4,yes,2,4,C
+female,master's degree,married,regularly,yes,3,,72,66,1,2,no,3,2,D
+female,bachelor's degree,married,sometimes,no,1,private,77,76,1,2,yes,4,2,C
+male,bachelor's degree,single,regularly,yes,0,private,61,62,3,2,yes,3,2,D
+male,some high school,single,regularly,no,1,,48,38,1,2,yes,3,2,F
+female,some college,single,regularly,no,3,private,48,50,2,1,no,5,6,F
+female,some college,single,,yes,3,school_bus,66,68,1,1,yes,3,0,D
+female,some high school,married,sometimes,no,2,school_bus,61,49,1,1,yes,3,6,F
+male,high school,married,sometimes,yes,0,school_bus,65,63,1,2,yes,3,8,C
+male,some college,,regularly,no,2,,63,60,1,2,yes,3,0,F
+male,some high school,single,never,yes,2,,52,52,1,2,no,2,4,D
+female,,single,regularly,yes,3,private,57,53,1,2,yes,3,2,F
+male,some high school,married,sometimes,no,3,private,47,44,1,2,yes,2,2,F
+male,master's degree,single,sometimes,yes,4,,60,54,1,2,no,4,6,B
+female,associate's degree,married,regularly,yes,0,school_bus,80,82,4,1,yes,5,6,C
+female,some high school,married,regularly,no,1,,56,57,1,2,yes,4,4,F
+female,bachelor's degree,married,sometimes,no,4,private,91,92,1,3,yes,4,2,A
+male,associate's degree,divorced,sometimes,yes,1,school_bus,65,66,1,2,yes,4,0,C
+female,associate's degree,married,sometimes,yes,1,school_bus,67,62,3,2,yes,4,2,F
+male,some college,married,sometimes,yes,3,private,46,42,1,4,yes,3,4,F
+female,some college,married,regularly,yes,5,school_bus,40,38,1,4,yes,3,4,F
+male,high school,married,regularly,no,2,private,55,54,2,2,yes,1,2,D
+female,bachelor's degree,married,regularly,no,3,school_bus,65,61,2,4,yes,4,12,F
+male,some college,single,never,yes,2,school_bus,58,58,2,4,yes,3,0,D
+male,some college,married,sometimes,yes,0,school_bus,63,54,1,4,yes,3,0,D
+female,some high school,married,regularly,,3,,50,56,1,2,yes,3,2,F
+male,some college,married,never,no,1,private,61,59,1,1,no,3,2,F
+male,associate's degree,married,sometimes,yes,1,private,70,70,1,2,yes,3,54,B
+female,master's degree,divorced,sometimes,yes,0,school_bus,82,83,1,2,yes,3,6,D
+female,associate's degree,divorced,sometimes,yes,2,private,96,91,2,4,yes,4,8,D
+male,master's degree,married,never,yes,1,school_bus,83,86,1,4,yes,2,0,B
+female,bachelor's degree,married,sometimes,,3,school_bus,80,79,2,1,yes,5,2,C
+male,master's degree,divorced,regularly,,5,school_bus,66,74,1,2,yes,4,12,C
+male,bachelor's degree,single,sometimes,yes,3,school_bus,75,72,1,1,yes,2,2,C
+male,bachelor's degree,married,regularly,yes,3,school_bus,83,81,1,3,yes,3,4,A
+male,associate's degree,married,,no,5,school_bus,49,46,1,2,yes,4,10,F
+male,bachelor's degree,single,sometimes,yes,1,private,69,63,2,2,yes,3,4,D
+female,master's degree,married,never,yes,2,private,92,93,1,2,yes,3,2,C
+male,bachelor's degree,married,regularly,no,1,school_bus,71,71,2,2,yes,4,6,C
+female,bachelor's degree,divorced,sometimes,yes,3,school_bus,72,75,1,2,no,3,4,F
+female,associate's degree,married,sometimes,,3,school_bus,53,49,1,3,yes,3,4,F
+male,high school,married,,no,,school_bus,52,48,2,2,yes,4,12,D
+male,some college,single,sometimes,yes,1,private,65,55,1,2,no,1,18,D
+male,some college,married,sometimes,no,6,,48,47,1,3,yes,3,0,D
+female,some high school,married,sometimes,yes,1,private,81,80,1,1,yes,5,4,C
+male,master's degree,divorced,regularly,no,2,private,79,72,1,2,no,3,4,C
+male,,,sometimes,yes,2,,83,84,2,2,yes,3,0,A
+male,bachelor's degree,divorced,sometimes,yes,5,private,74,80,1,4,yes,3,6,C
+female,some college,married,sometimes,no,,school_bus,61,53,2,4,yes,1,2,F
+male,master's degree,married,sometimes,yes,0,private,77,72,2,1,yes,3,2,B
+male,some college,divorced,sometimes,yes,2,school_bus,52,54,1,2,no,3,2,F
+female,high school,married,regularly,yes,2,school_bus,81,85,1,1,yes,3,6,C
+female,master's degree,divorced,sometimes,yes,2,school_bus,91,87,1,3,yes,3,0,D
+female,high school,divorced,regularly,yes,1,private,88,84,1,1,yes,5,14,C
+male,some college,divorced,never,yes,0,school_bus,61,58,1,3,yes,4,0,F
+female,some college,divorced,never,yes,3,school_bus,67,58,1,1,yes,3,4,D
+male,some college,divorced,regularly,yes,1,school_bus,75,79,2,2,yes,3,26,B
+male,some college,married,sometimes,yes,0,private,84,78,1,2,yes,4,0,A
+female,associate's degree,divorced,regularly,yes,5,,71,73,1,4,no,3,10,F
+female,some college,married,regularly,no,1,school_bus,86,92,1,4,yes,1,8,B
+female,some high school,divorced,regularly,no,1,school_bus,73,68,1,3,yes,3,2,F
+male,master's degree,single,sometimes,yes,1,school_bus,69,70,4,4,yes,3,6,D
+male,high school,divorced,sometimes,yes,0,,40,46,1,3,yes,4,4,F
+female,associate's degree,married,never,no,3,school_bus,80,81,1,1,yes,5,6,C
+male,high school,married,sometimes,yes,2,school_bus,80,74,1,3,yes,1,0,B
+female,high school,divorced,sometimes,yes,1,private,31,29,1,2,yes,1,6,F
+male,master's degree,married,regularly,no,3,school_bus,69,64,1,1,yes,5,10,D
+female,some college,divorced,sometimes,yes,2,private,73,73,1,2,yes,4,8,D
+female,some high school,married,sometimes,no,2,private,95,93,1,2,yes,4,2,B
+female,some high school,married,sometimes,yes,0,private,74,71,2,2,no,4,2,C
+female,some high school,single,regularly,yes,0,,79,79,2,1,yes,4,0,C
+male,bachelor's degree,divorced,regularly,yes,5,school_bus,92,90,3,2,yes,2,20,A
+male,master's degree,married,regularly,no,2,private,56,53,1,1,yes,4,6,F
+female,high school,divorced,sometimes,no,,school_bus,100,100,1,2,yes,2,2,A
+female,some college,single,never,yes,2,school_bus,54,59,1,4,yes,5,6,F
+female,bachelor's degree,married,regularly,yes,4,private,81,85,2,2,yes,2,2,C
+male,high school,married,sometimes,no,3,school_bus,57,48,1,1,yes,4,18,F
+male,master's degree,single,sometimes,yes,1,school_bus,71,78,1,2,yes,4,0,C
+male,some high school,single,never,yes,1,school_bus,73,67,1,1,yes,5,0,D
+male,some college,married,sometimes,yes,1,,77,82,1,2,yes,3,0,B
+female,some college,single,regularly,yes,,school_bus,89,93,1,2,no,4,2,A
+male,some college,,regularly,yes,3,private,84,91,1,1,yes,3,0,A
+male,some college,married,regularly,no,2,,53,50,1,1,yes,5,8,D
+male,some high school,divorced,never,no,3,private,74,78,2,3,yes,2,0,B
+male,some high school,married,sometimes,,2,,46,48,3,1,yes,3,0,F
+male,high school,married,regularly,yes,4,private,72,73,1,1,yes,4,12,B
+male,some college,married,never,,1,school_bus,58,62,1,1,yes,2,16,D
+male,high school,divorced,sometimes,yes,4,,83,75,4,2,no,3,0,B
+male,,divorced,regularly,yes,2,school_bus,60,52,1,3,yes,3,0,F
+male,some college,married,sometimes,no,3,school_bus,80,81,3,2,no,4,0,A
+male,bachelor's degree,married,never,yes,0,school_bus,70,74,2,1,yes,3,0,C
+male,associate's degree,married,regularly,yes,5,school_bus,77,80,1,2,no,4,0,B
+male,some college,single,sometimes,no,7,school_bus,74,71,2,1,yes,3,0,C
+female,,,sometimes,yes,,private,88,93,2,4,yes,2,0,B
+male,master's degree,divorced,regularly,yes,1,private,65,69,2,1,yes,3,8,F
+male,associate's degree,married,sometimes,yes,3,private,68,73,1,3,yes,2,2,C
+female,associate's degree,married,sometimes,yes,0,private,80,79,1,1,yes,4,2,D
+male,,married,sometimes,yes,2,school_bus,68,72,1,1,yes,4,0,C
+female,,divorced,regularly,yes,2,private,32,33,1,2,yes,4,0,F
+male,associate's degree,widowed,sometimes,no,2,private,59,57,1,2,yes,3,0,C
+male,some high school,married,sometimes,no,1,school_bus,50,49,1,2,yes,3,2,F
+female,bachelor's degree,married,regularly,yes,1,private,78,78,1,1,yes,3,0,D
+female,some high school,married,sometimes,no,4,school_bus,63,65,4,1,yes,5,0,F
+female,associate's degree,married,regularly,yes,1,school_bus,81,66,1,1,yes,3,0,D
+female,some high school,married,regularly,no,3,school_bus,84,81,1,1,no,4,6,C
+male,associate's degree,married,never,no,3,school_bus,58,51,2,3,yes,2,8,D
+male,associate's degree,married,regularly,yes,2,,58,58,1,1,yes,5,0,F
+male,some college,widowed,sometimes,yes,1,school_bus,45,44,1,1,no,2,0,F
+female,master's degree,widowed,sometimes,no,3,school_bus,77,83,1,2,no,4,2,C
+female,master's degree,married,regularly,yes,2,private,85,89,1,1,no,2,8,C
+male,some college,single,regularly,yes,6,private,48,49,3,1,no,2,6,F
+male,some high school,married,sometimes,yes,0,school_bus,26,32,3,1,no,2,2,F
+male,high school,married,sometimes,no,2,private,23,27,1,2,yes,5,4,F
+male,master's degree,divorced,sometimes,yes,3,private,99,100,2,1,yes,3,0,A
+male,associate's degree,single,regularly,yes,0,,55,47,2,2,yes,4,6,F
+male,some high school,divorced,regularly,yes,3,school_bus,51,52,2,1,no,4,0,F
+female,some college,married,sometimes,yes,0,private,62,56,1,1,yes,3,2,F
+male,associate's degree,married,regularly,yes,5,private,68,64,4,2,no,3,0,C
+male,master's degree,,sometimes,yes,1,school_bus,66,65,2,1,no,5,16,D
+female,high school,married,regularly,no,1,school_bus,47,42,1,2,yes,3,4,F
+female,bachelor's degree,married,sometimes,no,2,private,69,75,1,2,yes,2,0,D
+male,,married,regularly,yes,4,school_bus,58,60,1,2,yes,1,0,C
+male,associate's degree,married,regularly,no,3,private,42,38,1,2,yes,4,0,F
+female,high school,married,never,yes,2,private,65,62,3,1,yes,4,0,F
+female,high school,married,sometimes,yes,7,private,75,70,2,2,yes,3,2,D
+male,associate's degree,widowed,regularly,yes,1,school_bus,73,67,1,2,yes,4,0,C
+male,associate's degree,divorced,sometimes,no,1,school_bus,37,38,1,2,yes,3,0,F
+male,associate's degree,divorced,sometimes,no,2,private,51,57,2,2,yes,4,4,F
+male,some college,divorced,sometimes,yes,2,private,85,80,2,2,yes,4,4,B
+male,some high school,divorced,sometimes,no,3,school_bus,49,46,2,2,yes,4,2,F
+male,associate's degree,married,never,yes,3,private,53,54,1,2,yes,3,4,D
+male,high school,married,sometimes,,0,,57,55,1,1,yes,3,10,D
+female,bachelor's degree,single,sometimes,no,1,school_bus,82,85,1,2,yes,2,4,C
+female,some college,married,sometimes,no,4,school_bus,88,78,1,2,yes,4,10,C
+male,some college,single,sometimes,yes,5,,40,35,1,2,yes,2,2,F
+female,associate's degree,married,sometimes,yes,,,85,86,1,2,no,4,0,C
+male,high school,single,sometimes,no,1,school_bus,43,33,1,2,yes,3,56,F
+male,bachelor's degree,single,regularly,yes,1,,90,83,1,2,yes,2,14,A
+female,some college,married,never,yes,2,private,66,64,1,2,yes,3,12,D
+female,high school,divorced,never,no,3,school_bus,80,82,1,1,yes,3,2,D
+female,some college,divorced,regularly,yes,4,school_bus,65,69,1,2,yes,2,0,F
+female,some college,divorced,regularly,yes,3,school_bus,95,97,1,2,yes,3,6,A
+female,some college,married,sometimes,no,2,school_bus,64,65,1,2,no,1,4,F
+female,some high school,married,sometimes,yes,,private,76,77,1,2,yes,3,10,D
+female,associate's degree,married,regularly,no,1,school_bus,74,76,1,2,yes,3,0,D
+female,high school,married,regularly,yes,1,school_bus,98,100,2,2,yes,4,12,A
+female,associate's degree,divorced,sometimes,yes,3,private,70,75,1,1,yes,3,8,D
+female,some college,single,sometimes,no,2,private,68,74,2,1,yes,3,0,F
+male,high school,single,sometimes,,1,private,55,56,1,2,yes,3,0,D
+male,associate's degree,married,sometimes,,1,school_bus,68,63,1,1,yes,2,4,B
+male,some high school,married,regularly,no,2,school_bus,72,69,3,1,yes,3,8,C
+female,,widowed,sometimes,yes,6,private,66,72,2,1,yes,2,24,D
+female,bachelor's degree,,regularly,no,2,school_bus,80,88,1,2,yes,5,0,D
+male,,married,regularly,no,1,,62,65,1,2,yes,3,2,C
+female,associate's degree,married,regularly,yes,4,school_bus,100,100,1,2,no,4,6,A
+female,associate's degree,divorced,never,no,5,school_bus,83,72,1,2,no,4,4,D
+female,some high school,married,sometimes,no,1,private,97,98,1,1,yes,3,18,B
+male,associate's degree,single,sometimes,yes,0,,74,70,2,4,yes,3,6,B
+female,bachelor's degree,married,regularly,yes,2,school_bus,79,89,1,3,yes,4,28,B
+female,high school,married,never,yes,,,39,34,1,2,yes,3,5,F
+male,some college,single,sometimes,yes,4,school_bus,40,37,1,2,yes,3,10,F
+male,high school,divorced,regularly,yes,1,,77,72,2,1,no,3,6,C
+female,associate's degree,single,sometimes,yes,0,school_bus,58,56,2,3,yes,4,6,F
+female,associate's degree,married,never,yes,2,school_bus,85,79,1,4,yes,3,10,C
+female,high school,married,regularly,yes,5,,99,98,1,2,yes,3,13,B
+female,high school,married,sometimes,yes,4,private,59,64,1,2,yes,3,0,D
+female,associate's degree,single,regularly,yes,,school_bus,65,66,1,2,yes,4,15,D
+male,some high school,divorced,regularly,yes,1,school_bus,54,48,1,1,no,2,12,F
+female,some college,married,regularly,no,3,private,89,85,2,2,yes,4,2,C
+female,some college,married,regularly,,4,private,82,78,1,2,yes,4,22,C
+female,associate's degree,single,regularly,no,1,private,94,95,1,2,yes,2,13,A
+male,some high school,married,sometimes,no,4,school_bus,60,51,2,1,no,3,3,D
+male,bachelor's degree,married,never,yes,1,private,65,58,1,3,yes,3,4,D
+male,associate's degree,single,sometimes,no,2,school_bus,68,72,2,2,yes,2,2,C
+female,associate's degree,married,regularly,yes,2,school_bus,99,97,1,3,no,3,0,B
+male,some high school,married,sometimes,yes,0,school_bus,57,53,1,2,yes,3,2,D
+male,some college,widowed,never,yes,3,,59,49,2,2,yes,3,0,F
+male,some college,married,sometimes,yes,1,private,67,67,1,3,yes,3,0,C
+male,associate's degree,married,sometimes,no,,private,60,59,1,2,yes,3,16,D
+female,some high school,divorced,sometimes,no,3,private,89,90,1,2,yes,3,10,C
+female,some college,married,regularly,no,,private,93,100,1,2,yes,3,2,A
+female,bachelor's degree,single,regularly,yes,5,school_bus,66,66,4,2,yes,3,14,F
+female,bachelor's degree,divorced,regularly,yes,1,school_bus,84,94,2,3,yes,2,10,C
+female,master's degree,married,sometimes,yes,3,school_bus,89,87,1,2,yes,2,14,C
+female,associate's degree,married,regularly,yes,2,school_bus,62,66,2,2,yes,5,4,F
+female,high school,,regularly,yes,0,private,76,72,1,2,yes,5,14,D
+male,associate's degree,married,regularly,no,2,private,56,52,1,2,yes,2,2,F
+male,high school,married,sometimes,yes,2,school_bus,64,52,2,2,yes,4,18,D
+female,some high school,divorced,sometimes,yes,0,private,71,73,2,3,yes,3,10,D
+male,associate's degree,divorced,,no,3,school_bus,66,71,1,2,yes,4,4,C
+male,high school,married,never,yes,2,school_bus,58,50,1,1,yes,5,20,D
+female,some high school,married,sometimes,yes,1,private,52,47,3,2,no,1,2,F
+female,some high school,widowed,regularly,yes,2,private,68,69,1,2,yes,5,0,F
+female,associate's degree,married,sometimes,no,4,school_bus,91,88,2,2,yes,5,14,A
+male,some high school,married,regularly,yes,4,school_bus,79,74,2,2,yes,3,2,C
+male,some college,single,sometimes,yes,,,79,74,1,1,yes,4,0,C
+male,associate's degree,married,sometimes,no,2,school_bus,64,65,1,1,yes,3,0,D
+female,bachelor's degree,married,never,no,3,school_bus,74,78,2,3,yes,4,0,C
+male,high school,,regularly,yes,3,school_bus,42,41,3,1,yes,3,6,F
+female,high school,married,sometimes,yes,1,school_bus,83,88,2,1,yes,2,4,B
+female,some college,married,never,yes,2,school_bus,60,60,1,1,yes,4,16,F
+male,some college,married,regularly,yes,,school_bus,69,64,1,2,yes,3,8,C
+male,some high school,married,sometimes,yes,2,school_bus,73,78,1,1,yes,3,0,C
+male,some college,single,regularly,no,2,school_bus,78,71,2,1,yes,4,0,C
+female,,married,sometimes,no,2,private,62,67,3,2,yes,3,6,F
+male,some college,married,sometimes,no,1,,85,87,1,1,yes,2,4,A
+female,bachelor's degree,married,sometimes,no,6,school_bus,80,78,2,1,no,3,0,C
+male,some college,divorced,sometimes,yes,4,school_bus,62,57,1,1,yes,4,0,D
+male,some high school,married,regularly,no,1,school_bus,81,77,2,1,yes,4,2,B
+female,associate's degree,married,regularly,yes,1,,79,81,1,4,yes,2,6,D
+female,some high school,single,sometimes,yes,0,private,62,63,1,2,yes,3,12,F
+male,some high school,single,regularly,no,3,,56,50,1,2,yes,2,8,F
+female,some college,married,sometimes,yes,4,school_bus,73,68,1,4,yes,4,0,D
+female,high school,married,regularly,yes,0,private,68,71,1,2,yes,1,21,C
+female,associate's degree,married,sometimes,yes,1,school_bus,89,81,1,2,yes,3,2,C
+female,some college,married,sometimes,yes,,private,45,42,1,3,no,3,1,F
+female,some college,,sometimes,yes,1,private,71,62,1,3,no,2,4,F
+female,some college,married,sometimes,yes,0,school_bus,88,85,1,3,yes,3,0,B
+female,some high school,single,sometimes,yes,2,school_bus,60,57,2,2,yes,2,13,F
+male,some college,married,sometimes,yes,2,,63,58,1,2,yes,4,2,D
+female,high school,married,sometimes,yes,0,school_bus,78,75,2,2,yes,3,8,D
+female,associate's degree,married,sometimes,no,,school_bus,84,89,1,2,yes,4,10,B
+female,bachelor's degree,married,sometimes,no,2,private,55,57,2,2,yes,3,0,F
+female,high school,married,sometimes,no,2,private,72,66,1,2,yes,3,15,D
+male,bachelor's degree,single,,yes,0,school_bus,60,58,1,4,yes,5,4,D
+female,some high school,divorced,regularly,no,1,,51,56,2,2,no,4,2,F
+female,bachelor's degree,married,sometimes,yes,1,private,65,70,1,2,no,5,2,C
+male,some college,married,sometimes,no,2,school_bus,62,63,2,2,yes,3,2,B
+female,some high school,divorced,sometimes,no,2,private,70,78,2,2,yes,4,6,C
+female,some high school,single,sometimes,yes,3,private,62,60,2,2,yes,1,75,F
+male,some high school,married,sometimes,no,1,school_bus,50,45,2,1,yes,2,22,D
+male,some high school,married,never,no,,private,61,54,1,2,yes,4,15,D
+female,high school,married,regularly,yes,7,private,70,73,2,1,yes,2,8,D
+female,associate's degree,single,sometimes,yes,2,private,57,57,2,1,yes,5,30,F
+female,some college,single,regularly,yes,7,school_bus,100,100,1,1,yes,4,19,A
+female,high school,divorced,never,yes,4,school_bus,78,76,2,4,no,2,1,C
+female,associate's degree,married,sometimes,no,2,school_bus,86,84,2,2,yes,4,4,B
+male,high school,married,never,no,3,school_bus,44,43,1,2,yes,4,4,F
+male,high school,single,regularly,yes,1,school_bus,51,54,1,2,yes,3,2,D
+male,,single,regularly,yes,1,school_bus,96,91,1,3,yes,3,5,A
+male,some high school,single,sometimes,no,2,school_bus,70,68,1,3,yes,3,6,C
+female,bachelor's degree,widowed,sometimes,no,2,private,96,98,1,3,yes,2,6,B
+male,some high school,married,regularly,yes,5,school_bus,67,65,1,2,yes,4,9,C
+female,some high school,,never,yes,4,private,70,65,1,2,yes,3,11,F
+male,associate's degree,divorced,sometimes,no,3,school_bus,75,70,1,3,yes,2,0,C
+female,high school,married,sometimes,yes,5,school_bus,92,99,1,2,yes,4,12,A
+male,,divorced,,yes,0,,40,38,2,4,no,1,6,F
+female,some college,single,never,no,2,school_bus,76,79,2,3,yes,4,8,D
+female,high school,single,sometimes,yes,,school_bus,98,92,1,1,yes,4,4,A
+female,associate's degree,married,regularly,no,7,private,82,82,2,2,yes,3,0,D
+female,associate's degree,married,regularly,yes,3,school_bus,86,93,2,2,yes,4,10,B
+female,high school,divorced,regularly,no,1,school_bus,68,66,1,4,yes,3,0,F
+male,some high school,single,sometimes,yes,1,private,21,17,1,1,yes,4,5,F
+female,some college,divorced,sometimes,no,5,school_bus,95,90,1,2,yes,2,14,B
+female,some college,married,regularly,no,2,private,55,54,2,1,yes,1,0,F
+female,some high school,married,sometimes,yes,3,private,45,52,2,3,yes,3,0,F
+male,high school,single,sometimes,yes,1,school_bus,65,54,1,4,yes,2,0,D
+female,associate's degree,divorced,sometimes,yes,3,school_bus,98,98,1,2,yes,4,20,A
+female,associate's degree,single,sometimes,no,4,school_bus,75,69,1,2,yes,4,8,D
+male,some college,single,sometimes,no,2,private,61,49,1,1,no,5,0,F
+female,some high school,,sometimes,yes,0,school_bus,59,57,2,1,yes,3,38,F
+male,high school,married,regularly,no,1,private,41,36,1,2,no,5,0,F
+male,high school,married,never,yes,1,school_bus,56,49,1,2,yes,4,18,F
+male,master's degree,single,sometimes,yes,3,private,79,81,1,2,no,2,0,B
+male,high school,divorced,sometimes,yes,3,private,91,83,3,2,yes,4,20,A
+female,,married,regularly,no,3,school_bus,59,61,1,2,yes,5,3,F
+male,bachelor's degree,married,regularly,no,4,school_bus,74,76,2,2,yes,2,22,C
+male,some high school,divorced,sometimes,yes,7,private,73,74,1,3,yes,1,14,B
+male,some college,married,regularly,,0,private,82,87,1,3,yes,1,40,B
+female,bachelor's degree,married,regularly,yes,5,private,84,97,2,2,yes,3,0,B
+female,some college,married,sometimes,yes,1,private,61,57,1,3,yes,3,9,F
+male,,divorced,regularly,yes,3,school_bus,49,46,1,3,yes,3,0,F
+female,bachelor's degree,married,sometimes,yes,0,private,69,74,1,2,yes,4,2,D
+male,master's degree,married,regularly,yes,1,school_bus,66,62,1,2,yes,2,23,C
+male,some college,single,regularly,no,3,private,46,50,1,2,no,2,12,D
+male,some high school,married,sometimes,yes,1,private,37,35,1,3,yes,3,3,F
+male,high school,single,regularly,yes,1,school_bus,49,39,1,3,yes,4,1,F
+male,associate's degree,single,sometimes,yes,0,,84,85,2,3,yes,3,0,A
+male,some college,married,sometimes,yes,4,private,45,29,1,3,yes,3,3,F
+male,some college,,regularly,yes,2,private,46,33,1,1,yes,3,3,F
+male,high school,married,sometimes,yes,2,school_bus,85,78,4,1,yes,4,8,A
+male,,divorced,sometimes,yes,1,private,57,51,1,3,yes,4,7,D
+male,high school,single,never,no,1,school_bus,55,57,2,3,yes,3,4,D
+male,high school,married,sometimes,yes,2,school_bus,98,95,1,4,yes,5,2,A
+female,high school,divorced,regularly,no,5,private,83,83,1,3,yes,4,7,C
+female,high school,married,sometimes,no,1,private,58,53,1,2,yes,3,0,F
+male,some high school,married,sometimes,yes,2,,75,77,1,2,yes,3,0,D
+female,associate's degree,married,sometimes,no,4,private,66,64,2,4,no,4,0,F
+female,associate's degree,single,regularly,no,1,private,57,58,1,3,yes,4,16,F
+male,some college,married,sometimes,yes,0,private,30,36,1,3,no,4,12,F
+female,,divorced,sometimes,yes,3,private,84,90,1,2,yes,3,0,B
+male,some high school,married,never,no,,private,65,62,1,4,yes,3,7,C
+male,bachelor's degree,married,sometimes,yes,2,school_bus,54,50,1,2,yes,3,4,F
+male,associate's degree,divorced,,yes,0,private,62,66,1,3,yes,3,4,C
+female,bachelor's degree,widowed,sometimes,no,3,private,100,100,1,2,yes,3,0,A
+male,associate's degree,married,sometimes,yes,4,private,63,54,1,2,yes,3,11,D
+male,associate's degree,married,regularly,no,1,private,63,69,1,2,yes,3,0,C
+female,some college,married,sometimes,yes,1,school_bus,87,94,1,3,yes,3,4,B
+female,some high school,married,sometimes,yes,2,school_bus,48,55,1,3,yes,4,7,F
+female,some college,single,sometimes,yes,3,private,79,80,1,3,yes,3,9,B
+female,some college,married,,yes,2,school_bus,71,70,1,3,yes,4,0,C
+male,some high school,married,sometimes,yes,6,private,58,54,1,3,yes,4,0,D
+female,some college,single,sometimes,no,3,school_bus,58,55,2,1,yes,5,10,F
+male,associate's degree,divorced,sometimes,yes,1,private,74,69,3,2,yes,4,8,B
+female,associate's degree,divorced,regularly,no,2,,93,88,2,2,yes,5,2,A
+male,some college,single,sometimes,yes,1,private,81,78,1,1,yes,3,7,A
+female,bachelor's degree,married,regularly,no,4,school_bus,57,60,3,1,yes,4,4,F
+female,some college,divorced,sometimes,yes,2,school_bus,59,60,2,2,yes,5,4,F
+male,some high school,single,never,yes,0,,43,41,1,2,no,3,0,F
+female,high school,married,sometimes,yes,2,school_bus,68,65,2,2,yes,3,4,F
+female,high school,married,never,yes,0,school_bus,80,82,2,2,no,2,2,D
+male,bachelor's degree,married,sometimes,no,1,,78,84,2,1,yes,3,4,B
+female,associate's degree,single,regularly,yes,,private,64,61,2,3,yes,3,0,F
+male,some college,single,regularly,yes,4,school_bus,79,88,3,2,no,3,0,C
+male,some high school,married,sometimes,yes,2,private,79,77,2,2,no,4,2,C
+female,some high school,married,sometimes,no,,school_bus,61,58,2,2,yes,3,0,F
+male,high school,widowed,regularly,yes,5,private,77,70,1,2,yes,3,0,B
+male,some college,married,sometimes,yes,1,,88,90,2,2,no,2,0,A
+male,high school,single,sometimes,yes,3,school_bus,80,78,2,2,no,3,4,B
+male,bachelor's degree,married,regularly,,4,school_bus,61,59,2,3,yes,2,0,D
+male,some high school,single,sometimes,yes,0,private,31,27,3,1,yes,2,0,F
+male,bachelor's degree,married,regularly,yes,0,school_bus,70,76,2,1,yes,2,0,C
+female,,,never,,4,school_bus,75,78,3,2,yes,2,10,D
+male,some high school,married,sometimes,yes,2,private,80,73,2,2,no,2,4,C
+male,some college,married,regularly,yes,3,school_bus,88,91,3,1,yes,3,3,A
+male,bachelor's degree,divorced,regularly,yes,1,private,54,63,1,3,no,4,8,C
+male,associate's degree,married,regularly,yes,1,private,44,42,1,1,yes,5,14,F
+male,some college,married,regularly,yes,1,school_bus,66,64,2,3,yes,4,0,C
+female,some high school,divorced,sometimes,yes,2,private,57,60,4,3,yes,3,2,F
+male,some college,divorced,regularly,yes,2,school_bus,71,74,2,3,yes,4,4,C
+female,some high school,single,regularly,yes,6,private,88,80,1,2,yes,4,4,D
+male,associate's degree,single,sometimes,no,5,school_bus,76,73,1,2,yes,1,0,C
+female,some college,married,regularly,yes,4,school_bus,87,87,1,2,yes,5,17,B
+male,associate's degree,single,never,yes,0,school_bus,77,74,1,2,yes,2,4,C
+male,some high school,married,regularly,,0,school_bus,58,55,2,1,yes,4,5,D
+female,some college,single,sometimes,yes,2,school_bus,68,60,2,2,yes,4,2,F
+female,some high school,divorced,regularly,no,,school_bus,62,57,2,1,no,3,0,F
+female,high school,,sometimes,,1,school_bus,77,80,2,1,no,4,14,D
+female,high school,,sometimes,yes,2,school_bus,87,89,2,3,no,3,2,B
+male,some college,divorced,never,yes,1,private,86,76,3,1,yes,4,7,B
+female,some high school,married,sometimes,yes,1,school_bus,84,87,1,3,yes,4,0,D
+male,some high school,married,sometimes,yes,2,school_bus,52,49,1,2,yes,3,0,F
+female,associate's degree,married,regularly,yes,1,private,71,73,2,2,no,1,0,F
+male,high school,married,regularly,no,4,,56,54,1,2,no,5,11,D
+female,high school,married,regularly,no,2,school_bus,53,48,2,1,yes,4,3,F
+female,associate's degree,single,sometimes,no,1,school_bus,72,73,1,1,no,5,3,D
+female,master's degree,married,sometimes,yes,2,school_bus,87,92,3,1,yes,4,0,B
+male,some high school,divorced,regularly,no,1,,74,67,1,1,yes,2,5,B
+male,some college,married,regularly,no,3,school_bus,77,72,2,2,no,3,6,C
+male,some college,divorced,sometimes,yes,1,private,65,61,1,2,yes,3,4,C
+female,associate's degree,divorced,never,yes,,private,81,82,1,2,yes,3,10,D
+female,some college,single,sometimes,yes,5,school_bus,52,54,1,3,yes,2,2,F
+female,bachelor's degree,single,regularly,yes,1,private,59,70,1,2,no,3,4,F
+male,some college,widowed,regularly,yes,1,private,50,42,1,2,yes,4,10,F
+male,some college,single,sometimes,no,1,school_bus,48,45,1,2,yes,4,0,F
+male,associate's degree,married,sometimes,yes,1,school_bus,48,42,2,2,no,1,6,F
+female,some high school,single,sometimes,yes,2,private,92,90,1,2,yes,2,0,B
+female,some college,married,sometimes,yes,3,private,79,81,1,2,yes,5,0,D
+male,,married,regularly,no,4,school_bus,41,35,1,2,yes,3,0,F
+male,some high school,married,sometimes,yes,1,school_bus,52,53,3,3,yes,2,4,F
+male,some college,single,sometimes,no,2,school_bus,61,50,1,1,yes,3,2,D
+male,bachelor's degree,married,sometimes,yes,0,school_bus,79,82,2,2,yes,4,2,B
+male,master's degree,single,regularly,yes,2,school_bus,87,80,1,3,yes,5,0,B
+female,some college,married,sometimes,yes,0,school_bus,76,76,1,1,yes,4,4,C
+male,bachelor's degree,single,regularly,no,1,school_bus,41,43,1,3,yes,2,6,F
+male,some college,single,never,yes,0,school_bus,66,55,3,2,no,3,4,C
+male,,married,sometimes,yes,2,private,90,86,1,1,yes,5,16,A
+male,associate's degree,married,regularly,yes,2,private,96,100,1,1,yes,1,4,A
+female,high school,divorced,regularly,no,4,private,68,69,1,2,yes,4,0,F
+female,associate's degree,married,sometimes,yes,3,school_bus,87,77,1,1,yes,4,0,C
+male,some high school,divorced,sometimes,no,7,private,40,37,1,2,yes,5,2,F
+male,master's degree,single,sometimes,yes,0,school_bus,64,57,2,2,yes,4,0,D
+male,associate's degree,married,regularly,yes,2,school_bus,69,65,1,3,yes,3,2,D
+male,some high school,married,sometimes,no,3,school_bus,37,35,1,1,yes,2,14,F
+female,some high school,single,regularly,yes,0,school_bus,47,52,1,1,yes,2,2,F
+female,high school,divorced,regularly,yes,1,private,93,99,1,1,yes,2,4,A
+female,associate's degree,married,never,yes,0,school_bus,73,79,1,2,yes,3,4,F
+male,high school,divorced,sometimes,yes,0,school_bus,57,55,1,2,yes,4,16,D
+male,high school,married,regularly,yes,1,,70,71,1,2,yes,4,0,C
+male,high school,married,regularly,no,3,school_bus,83,82,2,2,yes,3,0,B
+female,some college,married,regularly,yes,3,private,77,87,1,2,yes,5,0,C
+male,high school,single,never,yes,4,school_bus,86,88,1,2,yes,3,0,C
+female,high school,divorced,sometimes,yes,1,private,75,74,1,1,yes,4,0,D
+female,some college,divorced,sometimes,yes,1,school_bus,80,81,2,1,no,5,0,C
+male,high school,married,regularly,yes,,school_bus,36,32,1,3,yes,4,2,F
+female,some college,single,regularly,yes,1,private,69,70,2,3,yes,4,7,D
+male,high school,,regularly,yes,2,private,46,44,1,3,yes,3,2,F
+female,associate's degree,single,regularly,yes,0,school_bus,79,76,1,1,no,3,8,D
+female,some high school,married,sometimes,yes,1,private,64,58,2,2,yes,3,25,F
+female,some high school,married,never,yes,0,school_bus,78,77,1,1,yes,4,8,C
+male,some college,divorced,never,no,5,school_bus,57,62,1,2,yes,3,2,D
+female,bachelor's degree,married,never,yes,7,private,88,90,1,1,yes,4,0,B
+female,bachelor's degree,married,sometimes,no,1,private,59,52,2,2,yes,3,14,F
+male,high school,married,sometimes,no,1,school_bus,67,59,1,2,yes,2,8,C
+female,master's degree,single,never,yes,6,school_bus,89,89,1,2,yes,3,12,C
+male,,married,never,yes,4,private,48,48,1,4,yes,2,4,F
+female,high school,married,regularly,yes,2,school_bus,75,67,1,2,no,3,2,F
+male,associate's degree,married,never,no,4,private,71,70,1,2,yes,4,2,C
+female,some college,married,sometimes,yes,4,private,48,52,3,2,yes,3,2,F
+female,associate's degree,married,sometimes,no,2,school_bus,71,79,1,2,yes,3,2,C
+male,some college,married,sometimes,yes,4,private,66,65,2,1,no,5,6,D
+male,high school,married,regularly,yes,1,private,75,79,1,1,yes,3,0,C
+female,some college,single,sometimes,no,2,school_bus,97,100,1,1,yes,3,6,B
+female,some college,divorced,sometimes,yes,0,private,75,69,1,2,yes,3,8,C
+female,bachelor's degree,married,never,yes,2,private,79,85,1,2,yes,3,0,D
+female,some college,married,regularly,yes,2,school_bus,75,72,1,2,no,2,4,D
+male,high school,single,regularly,no,5,private,53,53,1,2,yes,3,2,D
+female,some college,married,sometimes,yes,0,school_bus,51,61,1,2,yes,2,2,F
+female,associate's degree,single,regularly,yes,2,school_bus,90,93,1,2,no,4,6,C
+female,master's degree,married,sometimes,yes,1,private,76,79,4,1,yes,5,6,D
+female,high school,,sometimes,yes,1,,67,59,1,2,yes,4,4,F
+male,master's degree,married,sometimes,yes,2,private,80,79,1,3,yes,4,2,B
+female,,divorced,sometimes,no,2,school_bus,77,82,1,2,yes,4,0,C
+female,master's degree,single,regularly,yes,1,private,84,100,3,2,yes,4,2,B
+female,,married,regularly,no,1,,92,88,1,4,yes,3,4,B
+female,associate's degree,married,regularly,yes,1,school_bus,56,56,1,4,yes,3,4,F
+female,some college,married,regularly,yes,2,private,77,73,2,2,yes,1,2,C
+male,associate's degree,divorced,sometimes,no,1,private,85,86,2,4,yes,4,12,A
+male,some high school,married,regularly,yes,2,private,44,43,2,4,yes,3,0,F
+male,associate's degree,married,sometimes,yes,2,school_bus,61,60,1,4,yes,3,0,D
+male,some college,,regularly,no,,private,83,79,1,2,yes,3,2,A
+female,master's degree,married,regularly,yes,2,school_bus,68,72,1,1,no,3,2,D
+male,,single,sometimes,no,,school_bus,80,74,1,2,yes,3,54,D
+female,associate's degree,widowed,never,no,1,private,77,79,1,2,yes,3,6,C
+male,bachelor's degree,married,never,no,3,private,81,79,2,4,yes,4,8,C
+male,some college,married,regularly,no,,school_bus,81,83,1,4,yes,2,0,B
+female,some college,married,sometimes,yes,2,private,71,70,2,1,yes,5,2,D
+male,some high school,single,regularly,no,2,private,63,62,1,2,yes,4,12,D
+male,some college,married,regularly,yes,2,school_bus,56,51,1,1,yes,2,2,D
+female,some college,married,sometimes,yes,4,school_bus,78,74,1,3,yes,3,4,D
+female,bachelor's degree,married,regularly,yes,0,private,93,97,1,2,yes,4,10,B
+female,high school,single,,yes,3,school_bus,49,44,2,2,yes,3,4,F
+female,some college,married,never,yes,2,,71,69,1,2,yes,3,2,D
+female,some college,single,regularly,yes,5,private,100,100,2,2,yes,4,6,A
+female,some high school,divorced,regularly,no,2,school_bus,76,66,1,2,no,3,4,F
+male,,married,never,yes,0,school_bus,62,57,1,3,yes,3,4,D
+female,some high school,single,sometimes,no,3,private,54,47,2,2,yes,4,12,F
+male,high school,married,sometimes,yes,6,private,72,67,1,2,no,1,18,C
+female,master's degree,married,never,yes,5,school_bus,85,95,1,3,yes,3,0,C
+female,some college,single,sometimes,yes,2,,59,62,1,1,yes,5,4,F
+female,associate's degree,single,never,yes,0,school_bus,77,83,1,2,no,3,4,C
+male,high school,married,never,no,1,school_bus,77,75,2,2,yes,3,0,B
+male,master's degree,married,sometimes,yes,2,private,53,54,1,4,yes,3,6,F
+female,high school,married,sometimes,yes,1,school_bus,78,85,2,4,yes,1,2,C
+female,some high school,married,regularly,yes,1,school_bus,45,42,2,1,yes,3,2,F
+female,some college,married,never,yes,2,private,65,62,1,2,no,3,2,F
+male,high school,married,regularly,yes,2,school_bus,36,28,1,1,yes,3,6,F
+female,,married,sometimes,yes,2,school_bus,90,87,1,3,yes,3,0,C
+female,some college,married,sometimes,no,3,school_bus,67,66,1,1,yes,5,14,D
+female,high school,single,regularly,yes,1,private,63,66,1,3,yes,4,0,D
+female,bachelor's degree,,regularly,yes,4,private,67,74,1,1,yes,3,4,F
+female,some high school,married,sometimes,no,3,school_bus,61,57,2,2,yes,3,26,F
+male,bachelor's degree,married,sometimes,no,3,school_bus,47,48,1,2,yes,4,0,D
+male,associate's degree,divorced,regularly,no,4,,69,64,1,4,no,3,10,C
+male,some college,married,sometimes,no,,school_bus,68,62,1,4,yes,1,8,D
+female,master's degree,divorced,sometimes,yes,4,,90,86,1,3,yes,3,2,B
+female,some high school,divorced,sometimes,yes,2,school_bus,44,47,4,4,yes,3,6,F
+female,associate's degree,single,sometimes,yes,1,private,86,87,1,3,yes,4,4,C
+male,associate's degree,divorced,sometimes,yes,4,school_bus,49,54,1,1,yes,5,6,F
+male,some college,married,sometimes,yes,,school_bus,40,31,1,3,yes,1,0,F
+male,master's degree,married,sometimes,yes,4,,91,90,1,2,yes,1,6,A
+female,some college,married,sometimes,yes,1,private,56,59,1,1,yes,5,10,F
+female,high school,single,never,yes,1,school_bus,63,69,1,2,yes,4,8,F
+male,associate's degree,single,sometimes,no,1,school_bus,74,69,1,2,yes,4,2,B
+male,high school,single,sometimes,yes,3,,74,72,2,2,no,4,2,B
+female,some high school,married,sometimes,yes,0,school_bus,75,70,2,1,yes,4,0,D
+female,some high school,,regularly,,1,private,53,48,3,2,yes,2,20,F
+male,high school,single,regularly,,2,school_bus,82,76,1,1,yes,4,6,C
+male,some college,married,regularly,yes,3,,79,74,1,2,yes,2,2,B
+female,some college,divorced,sometimes,yes,0,private,66,62,1,4,yes,5,6,F
+male,some high school,single,regularly,yes,1,school_bus,94,93,2,2,yes,2,2,A
+male,associate's degree,married,sometimes,no,3,school_bus,64,62,1,1,yes,4,18,D
+male,some high school,single,regularly,yes,,school_bus,52,45,1,2,yes,4,0,F
+female,high school,married,sometimes,yes,2,school_bus,81,78,1,1,yes,5,0,C
+male,associate's degree,married,sometimes,yes,2,school_bus,70,66,1,2,yes,3,0,D
+female,high school,divorced,regularly,yes,4,,60,55,1,2,no,4,2,F
+male,bachelor's degree,single,regularly,yes,3,school_bus,47,56,1,1,yes,3,0,F
+female,some college,single,regularly,no,2,private,70,67,1,1,yes,5,8,F
+male,some college,single,regularly,no,2,school_bus,66,69,2,3,yes,2,0,C
+male,some high school,married,never,yes,,school_bus,49,47,3,1,yes,3,0,F
+female,bachelor's degree,married,regularly,yes,2,school_bus,71,71,1,1,yes,4,12,C
+male,bachelor's degree,married,sometimes,yes,2,private,85,86,1,1,yes,2,16,B
+male,bachelor's degree,single,never,no,1,private,65,61,4,2,no,3,0,D
+female,some college,married,sometimes,no,3,school_bus,55,57,1,3,yes,3,0,F
+male,some high school,single,sometimes,no,,,70,63,3,2,no,4,0,C
+female,some high school,single,regularly,yes,1,private,32,34,2,1,yes,3,0,F
+female,,married,never,yes,1,private,53,55,1,2,no,4,0,F
+male,some high school,married,regularly,yes,3,school_bus,90,87,2,1,yes,3,0,A
+male,associate's degree,divorced,sometimes,yes,3,private,35,30,2,4,yes,2,0,F
+male,associate's degree,divorced,sometimes,yes,3,school_bus,68,68,2,1,yes,3,8,D
+male,high school,married,sometimes,no,2,private,68,67,1,3,yes,2,2,D
+female,high school,married,regularly,no,2,school_bus,64,72,1,1,yes,4,2,D
+female,some high school,married,sometimes,yes,3,private,70,77,1,1,yes,4,0,D
+female,some high school,single,never,yes,2,school_bus,74,73,1,2,yes,4,0,F
+female,some college,single,regularly,yes,5,private,53,53,1,2,yes,3,0,F
+male,bachelor's degree,married,regularly,yes,1,,46,48,1,2,yes,3,2,F
+male,some high school,married,sometimes,yes,1,private,49,45,1,1,yes,3,0,D
+male,some college,single,sometimes,yes,,school_bus,46,50,4,1,yes,5,0,D
+female,associate's degree,married,regularly,no,2,school_bus,58,60,1,1,yes,3,0,F
+male,associate's degree,single,never,yes,0,school_bus,51,50,1,1,no,4,6,F
+male,bachelor's degree,single,sometimes,yes,0,,71,76,2,3,yes,2,8,B
+female,associate's degree,single,never,no,3,private,76,74,1,1,yes,5,0,D
+male,bachelor's degree,divorced,sometimes,yes,1,private,70,74,1,1,no,2,0,C
+male,associate's degree,married,regularly,yes,2,private,60,61,1,2,no,4,2,D
+male,master's degree,married,regularly,no,1,,78,68,1,1,no,2,8,C
+male,some high school,married,regularly,yes,,school_bus,85,79,3,1,no,2,6,B
+male,some high school,married,regularly,no,1,private,64,63,3,1,no,2,2,D
+male,bachelor's degree,married,sometimes,yes,3,school_bus,74,76,1,2,yes,5,4,B
+female,associate's degree,married,sometimes,yes,3,school_bus,93,92,2,1,yes,3,0,B
+female,some college,married,sometimes,yes,0,school_bus,71,77,2,2,yes,4,6,D
+male,bachelor's degree,married,sometimes,no,3,school_bus,65,66,2,1,no,4,0,C
+male,master's degree,divorced,regularly,,1,,73,71,1,1,yes,3,2,D
+female,some high school,married,sometimes,yes,1,private,44,46,4,2,no,3,0,F
+female,high school,single,never,yes,,private,65,59,2,1,no,5,16,F
+male,high school,single,never,yes,1,,81,82,1,2,yes,3,4,A
+female,some college,married,sometimes,yes,,,64,69,1,2,yes,2,0,D
+female,bachelor's degree,single,regularly,yes,1,private,68,78,1,2,yes,1,0,D
+male,some high school,single,regularly,yes,3,school_bus,45,47,1,2,yes,4,0,F
+female,some college,divorced,never,no,1,private,46,42,3,1,yes,4,0,F
+female,some college,married,never,yes,1,,67,65,2,2,yes,3,2,F
+female,some college,divorced,sometimes,yes,2,private,61,54,1,2,yes,4,0,F
+male,some high school,married,regularly,yes,0,private,55,60,1,2,yes,3,0,C
+female,some college,married,regularly,yes,1,private,99,100,2,2,yes,4,4,A
+male,some college,divorced,regularly,yes,2,,57,57,2,2,yes,4,4,D
+female,some college,divorced,regularly,no,3,school_bus,82,83,2,2,yes,4,2,C
+female,some college,single,regularly,yes,1,school_bus,80,82,1,2,yes,3,4,C
+male,some college,single,regularly,yes,4,private,54,56,1,1,yes,3,10,F
+male,master's degree,married,sometimes,no,1,school_bus,80,70,1,2,yes,2,4,C
+female,some high school,married,,yes,,private,69,65,1,2,yes,4,10,F
+male,some high school,married,regularly,yes,1,school_bus,59,47,1,2,yes,2,2,D
+male,some college,divorced,sometimes,no,3,,83,75,1,2,no,4,0,C
+male,high school,divorced,sometimes,no,2,school_bus,50,49,1,2,yes,3,56,F
+female,,married,sometimes,no,4,school_bus,68,72,1,2,yes,2,14,D
+male,some high school,widowed,regularly,yes,2,school_bus,81,75,1,2,yes,3,12,C
+female,some high school,married,regularly,no,1,school_bus,52,51,1,1,yes,3,2,F
+female,associate's degree,single,sometimes,yes,1,private,86,89,1,2,yes,2,0,B
+female,some college,single,sometimes,no,1,private,61,62,1,2,yes,3,6,F
+male,some high school,single,sometimes,yes,3,school_bus,55,61,1,2,no,1,4,D
+male,master's degree,married,never,yes,3,school_bus,82,78,1,2,yes,3,10,B
+male,high school,,regularly,yes,2,private,92,91,1,2,yes,3,0,A
+female,high school,married,sometimes,yes,2,school_bus,67,68,2,2,yes,4,12,F
+male,some college,married,regularly,yes,2,school_bus,64,53,1,1,yes,3,8,D
+male,some college,divorced,never,yes,0,private,64,55,2,1,yes,3,0,D
+male,some college,married,never,no,1,school_bus,77,74,1,2,yes,3,0,C
+male,some college,divorced,never,yes,3,private,55,50,1,1,yes,2,4,F
+female,some college,married,regularly,yes,0,private,98,100,3,1,yes,3,8,A
+female,high school,married,regularly,yes,4,school_bus,74,69,2,1,yes,2,24,C
+male,some high school,married,regularly,no,2,school_bus,82,80,1,2,yes,5,0,B
+male,some college,married,sometimes,yes,1,school_bus,52,48,1,2,yes,3,2,F
+male,associate's degree,married,regularly,yes,3,private,61,57,1,2,no,4,6,C
+male,some high school,married,sometimes,yes,0,school_bus,47,40,1,2,no,4,4,F
+female,,divorced,sometimes,,1,school_bus,66,60,1,1,yes,3,18,D
+female,some college,single,sometimes,yes,4,school_bus,68,67,2,4,yes,3,6,F
+female,high school,divorced,sometimes,yes,,school_bus,57,52,1,3,yes,4,28,F
+male,some high school,married,sometimes,no,2,school_bus,63,58,1,2,yes,3,5,C
+male,high school,married,regularly,no,2,,87,86,1,2,yes,3,10,A
+female,some college,,sometimes,yes,0,private,49,46,2,1,no,3,6,F
+female,associate's degree,single,sometimes,yes,2,,75,74,2,3,yes,4,6,D
+male,associate's degree,single,regularly,yes,2,private,47,44,1,4,yes,3,10,F
+female,some college,single,regularly,yes,1,school_bus,73,75,1,2,yes,3,13,D
+male,high school,married,regularly,yes,1,school_bus,72,77,1,2,yes,3,0,B
+female,master's degree,married,sometimes,no,4,private,100,100,1,2,yes,4,15,B
+male,some high school,divorced,sometimes,,3,private,55,61,1,1,no,2,12,D
+female,high school,divorced,regularly,yes,0,private,48,49,2,2,yes,4,2,F
+female,master's degree,divorced,sometimes,yes,2,private,97,100,1,2,yes,4,22,B
+female,some high school,married,regularly,no,3,school_bus,56,52,1,2,yes,2,13,F
+female,associate's degree,single,sometimes,yes,3,school_bus,78,84,2,1,no,3,3,D
+female,high school,divorced,regularly,yes,3,school_bus,73,69,1,3,yes,3,4,D
+male,high school,single,sometimes,yes,2,school_bus,64,68,2,2,yes,2,2,D
+female,some college,,regularly,yes,1,,55,55,1,3,no,3,0,F
+male,high school,single,sometimes,,2,,65,61,1,2,yes,3,2,C
+male,some high school,married,regularly,yes,2,private,88,79,2,2,yes,3,0,B
+female,associate's degree,single,sometimes,yes,4,private,42,40,1,3,yes,3,0,F
+female,some high school,married,regularly,yes,2,private,80,75,1,2,yes,3,16,C
+female,bachelor's degree,divorced,regularly,yes,0,private,76,67,1,2,yes,3,10,F
+female,associate's degree,divorced,sometimes,yes,3,private,80,77,1,2,yes,3,2,C
+male,some high school,married,sometimes,yes,5,,59,53,4,2,yes,3,14,F
+male,some college,,regularly,yes,2,,57,58,2,3,yes,2,10,F
+male,,married,regularly,yes,,school_bus,73,72,1,2,yes,2,14,A
+male,some high school,single,sometimes,yes,2,school_bus,77,74,2,2,yes,5,4,B
+female,master's degree,married,sometimes,yes,2,private,50,53,1,2,yes,5,14,F
+male,some college,married,sometimes,yes,1,school_bus,84,85,1,2,yes,2,2,A
+female,some high school,single,sometimes,yes,3,school_bus,59,56,2,2,yes,4,18,F
+female,some high school,married,regularly,yes,0,private,73,67,2,3,yes,3,10,F
+female,associate's degree,divorced,sometimes,no,1,private,73,74,1,2,yes,4,4,C
+female,high school,married,regularly,no,2,school_bus,74,73,1,1,yes,5,20,D
+female,associate's degree,married,never,yes,3,school_bus,74,74,3,2,no,1,2,D
+male,some high school,single,sometimes,no,3,school_bus,75,77,1,2,yes,5,0,C
+female,some college,divorced,sometimes,yes,7,private,88,91,2,2,yes,5,14,B
+male,some college,married,regularly,no,1,private,90,87,2,2,yes,3,2,B
+female,some high school,married,sometimes,yes,3,private,62,67,1,1,yes,4,0,F
+male,some college,married,sometimes,yes,4,private,65,63,1,1,yes,3,0,C
+female,some college,married,,no,4,school_bus,64,67,2,3,yes,4,0,D
+female,some high school,married,sometimes,no,2,private,92,89,3,1,yes,3,6,A
+male,some high school,married,never,yes,1,school_bus,45,43,2,1,yes,2,4,F
+male,high school,married,sometimes,no,3,,70,67,1,1,yes,4,16,D
+female,bachelor's degree,married,sometimes,yes,1,private,81,85,1,2,yes,3,8,B
+female,high school,married,regularly,yes,1,private,75,83,1,1,yes,3,0,C
+female,some college,married,sometimes,yes,3,,70,70,2,1,yes,4,0,C
+male,bachelor's degree,married,sometimes,yes,4,school_bus,58,58,3,2,yes,3,6,F
+female,associate's degree,single,regularly,no,3,private,55,50,1,1,yes,2,4,F
+male,high school,,regularly,yes,0,school_bus,57,54,2,1,no,3,0,F
+male,associate's degree,divorced,regularly,,1,school_bus,87,81,1,1,yes,4,0,C
+female,high school,married,sometimes,yes,2,school_bus,79,80,2,1,yes,4,2,C
+male,some college,single,regularly,yes,1,school_bus,61,58,1,4,yes,2,6,D
+female,master's degree,married,never,yes,7,private,69,78,1,2,yes,3,12,D
+female,some college,married,sometimes,yes,2,school_bus,68,63,1,2,yes,2,8,D
+male,high school,married,sometimes,yes,4,school_bus,75,71,1,4,yes,4,0,B
+female,,divorced,sometimes,yes,3,private,73,74,1,2,yes,1,21,C
+female,some college,married,,yes,2,school_bus,50,53,1,2,yes,3,2,F
+male,some high school,married,sometimes,yes,2,private,51,44,1,3,no,3,1,F
+male,associate's degree,married,never,no,2,,74,71,1,3,no,2,4,C
+male,associate's degree,single,sometimes,yes,,school_bus,70,68,1,3,yes,3,0,B
+male,associate's degree,single,sometimes,yes,2,private,63,64,2,2,yes,2,13,D
+male,,married,sometimes,yes,0,school_bus,76,84,1,2,yes,4,2,A
+male,some high school,married,regularly,yes,3,private,73,63,2,2,yes,3,8,D
+female,high school,single,never,yes,1,private,55,48,1,2,yes,4,10,F
+male,some college,married,never,no,2,school_bus,77,71,2,2,yes,3,0,C
+male,high school,married,regularly,yes,1,private,66,69,1,2,yes,3,15,C
+male,some high school,divorced,never,yes,2,,65,63,1,4,yes,5,4,D
+male,associate's degree,divorced,sometimes,no,2,private,76,76,2,2,no,4,2,C
+female,some college,married,sometimes,yes,1,school_bus,91,92,1,2,no,5,2,B
+female,some high school,married,never,no,3,school_bus,55,52,2,2,yes,3,2,F
+male,some college,married,sometimes,yes,,private,90,95,2,2,yes,4,6,A
+female,associate's degree,married,sometimes,yes,2,school_bus,67,76,2,2,yes,1,75,D
+female,high school,married,,yes,3,school_bus,65,65,2,1,yes,2,22,F
+male,some college,divorced,sometimes,yes,2,school_bus,61,56,1,2,yes,4,15,D
+female,,married,never,yes,3,private,61,56,2,1,yes,2,8,F
+male,associate's degree,married,sometimes,yes,5,school_bus,81,77,2,1,yes,5,30,A
+female,some high school,married,never,yes,4,private,66,60,1,1,yes,4,19,F
+female,some college,married,regularly,,2,school_bus,59,61,2,4,no,2,1,F
+female,high school,married,regularly,yes,,school_bus,60,50,2,2,yes,4,4,F
+male,some high school,married,regularly,yes,2,school_bus,76,76,1,2,yes,4,4,C
+female,some college,married,sometimes,yes,3,school_bus,53,59,1,2,yes,3,2,D
+male,,widowed,sometimes,no,3,school_bus,70,63,1,3,yes,3,5,D
+female,some high school,married,never,yes,3,school_bus,64,66,1,3,yes,3,6,C
+female,associate's degree,married,sometimes,no,1,private,73,70,1,3,yes,2,6,F
+male,high school,widowed,sometimes,no,2,school_bus,39,40,1,2,yes,4,9,F
+male,some college,married,regularly,yes,2,private,64,73,1,2,yes,3,11,B
+female,bachelor's degree,married,never,yes,2,,78,82,1,3,yes,2,0,C
+male,bachelor's degree,married,sometimes,yes,3,,85,86,1,2,yes,4,12,A
+female,associate's degree,single,regularly,no,1,school_bus,98,99,2,4,no,1,6,A
+male,associate's degree,divorced,sometimes,yes,5,private,65,60,2,3,yes,4,8,D
+male,high school,,sometimes,yes,2,school_bus,84,86,1,1,yes,4,4,B
+male,some college,married,regularly,yes,2,school_bus,88,96,2,2,yes,3,0,A
+male,some high school,married,sometimes,yes,7,school_bus,55,55,2,2,yes,4,10,F
+male,master's degree,married,regularly,yes,1,private,85,96,1,4,yes,3,0,B
+male,some college,married,sometimes,yes,1,,67,67,1,1,yes,4,5,C
+female,high school,married,regularly,,1,private,89,86,1,2,yes,2,14,B
+female,bachelor's degree,single,regularly,yes,1,private,74,84,2,1,yes,1,0,C
+female,bachelor's degree,married,sometimes,yes,0,school_bus,89,94,2,3,yes,3,0,B
+male,some high school,married,sometimes,yes,3,,37,34,1,4,yes,2,0,F
+male,high school,single,sometimes,no,5,private,65,57,1,2,yes,4,20,D
+male,bachelor's degree,single,sometimes,yes,0,school_bus,66,58,1,2,yes,4,8,D
+male,associate's degree,divorced,regularly,yes,3,school_bus,54,58,1,1,no,5,0,F
+male,high school,single,regularly,yes,2,private,47,45,2,1,yes,3,38,F
+male,bachelor's degree,married,sometimes,yes,4,private,61,60,1,2,no,5,0,D
+male,high school,,never,no,1,school_bus,82,78,1,2,yes,4,18,B
+female,some college,married,regularly,yes,5,private,100,100,1,2,no,2,0,A
+male,high school,married,never,no,1,school_bus,47,43,3,2,yes,4,20,F
+female,some college,married,sometimes,yes,3,private,66,61,1,2,yes,5,3,D
+female,some high school,divorced,sometimes,yes,2,private,63,63,2,2,yes,2,22,F
+female,some college,,regularly,no,3,private,59,59,1,3,yes,1,14,F
+female,some college,married,regularly,yes,2,private,66,61,1,3,yes,1,40,D
+female,some high school,married,regularly,no,3,private,88,89,2,2,yes,3,0,B
+male,associate's degree,,regularly,yes,0,school_bus,82,80,1,3,yes,3,9,B
+male,associate's degree,single,sometimes,yes,2,school_bus,69,64,1,3,yes,3,0,C
+female,associate's degree,single,regularly,yes,0,school_bus,77,68,1,2,yes,4,2,C
+female,some high school,married,regularly,yes,2,school_bus,100,100,1,2,yes,2,23,A
+female,associate's degree,married,sometimes,yes,1,private,94,98,1,2,no,2,12,A
+female,associate's degree,married,regularly,yes,0,school_bus,59,66,1,3,yes,3,3,F
+female,some college,single,sometimes,no,1,private,84,78,1,3,yes,4,1,D
+male,some high school,married,regularly,yes,1,private,88,84,2,3,yes,3,0,B
+male,associate's degree,married,sometimes,yes,3,private,68,59,1,3,yes,3,3,C
+male,some high school,married,sometimes,no,4,,33,28,1,1,yes,3,3,F
+male,some college,divorced,sometimes,yes,1,private,65,62,4,1,yes,4,8,C
+male,,married,regularly,yes,0,,56,56,1,3,yes,4,7,D
+male,some college,married,never,no,1,private,57,53,2,3,yes,3,4,D
+female,high school,married,,no,4,school_bus,60,61,1,4,yes,5,2,F
+female,associate's degree,single,sometimes,yes,3,school_bus,69,71,1,3,yes,4,7,F
+male,master's degree,married,never,yes,3,school_bus,62,60,1,2,yes,3,0,D
+male,bachelor's degree,single,sometimes,yes,,school_bus,100,92,1,2,yes,3,0,A
+female,master's degree,married,sometimes,no,2,school_bus,56,60,2,4,no,4,0,F
+female,bachelor's degree,married,,yes,1,school_bus,74,81,1,3,yes,4,16,C
+female,associate's degree,divorced,regularly,yes,2,,76,82,1,3,no,4,12,C
+female,some college,married,sometimes,yes,1,private,85,92,1,2,yes,3,0,C
+female,associate's degree,married,regularly,yes,1,private,78,82,1,4,yes,3,7,C
+male,some high school,married,regularly,yes,2,private,70,69,1,2,yes,3,4,C
+female,associate's degree,married,regularly,yes,0,,54,53,1,3,yes,3,4,F
+male,high school,married,regularly,no,1,school_bus,80,85,1,2,yes,3,0,B
+female,some college,divorced,regularly,yes,2,school_bus,62,58,1,2,yes,3,11,F
+female,some college,single,regularly,yes,3,private,68,64,1,2,yes,3,0,F
+male,some college,married,sometimes,yes,0,private,54,44,1,3,yes,3,4,F
+male,master's degree,married,sometimes,yes,3,school_bus,56,56,1,3,yes,4,7,F
+female,some high school,single,never,no,2,private,71,75,1,3,yes,3,9,D
+female,bachelor's degree,married,sometimes,no,,private,84,82,1,3,yes,4,0,C
+female,,divorced,sometimes,no,3,school_bus,82,80,1,3,yes,4,0,C
+male,associate's degree,married,sometimes,yes,1,school_bus,78,70,2,1,yes,5,10,B
+female,bachelor's degree,married,never,no,4,private,75,72,3,2,yes,4,8,D
+male,some high school,married,regularly,yes,2,private,65,63,2,2,yes,5,2,D
+male,some college,single,never,no,1,private,65,68,1,1,yes,3,7,C
+male,associate's degree,married,regularly,yes,5,private,46,45,3,1,yes,4,4,F
+female,bachelor's degree,single,,yes,3,private,65,65,2,2,yes,5,4,F
+male,associate's degree,married,sometimes,no,3,school_bus,84,79,1,2,no,3,0,C
+male,associate's degree,single,sometimes,yes,3,,62,60,2,2,yes,3,4,C
+female,associate's degree,divorced,sometimes,yes,2,private,78,74,2,2,no,2,2,D
+male,high school,single,sometimes,yes,1,private,75,76,2,1,yes,3,4,B
+male,master's degree,married,sometimes,yes,2,school_bus,74,74,2,3,yes,3,0,C
+male,some high school,divorced,regularly,yes,4,private,55,50,3,2,no,3,0,F
+female,some high school,married,regularly,yes,4,school_bus,88,89,2,2,no,4,2,C
+male,some college,divorced,sometimes,yes,2,private,42,41,2,2,yes,3,0,F
+male,associate's degree,single,sometimes,yes,1,private,75,70,1,2,yes,3,0,C
+male,some high school,married,never,yes,3,private,73,69,2,2,no,2,0,C
+male,some college,divorced,sometimes,no,1,school_bus,62,59,2,2,no,3,4,D
+male,bachelor's degree,married,sometimes,yes,3,school_bus,52,52,2,3,yes,2,0,D
+female,bachelor's degree,married,sometimes,yes,1,school_bus,72,76,3,1,yes,2,0,D
+female,high school,married,regularly,yes,1,private,67,70,2,1,yes,2,0,D
+male,high school,married,regularly,yes,4,private,70,63,3,2,yes,2,10,B
+male,associate's degree,married,sometimes,yes,2,private,50,50,2,2,no,2,4,D
+male,associate's degree,married,sometimes,no,3,school_bus,69,68,3,1,yes,3,3,D
+male,some college,widowed,sometimes,yes,2,private,66,65,1,3,no,4,8,C
+female,some high school,single,sometimes,yes,,school_bus,62,66,1,1,yes,5,14,D
+female,associate's degree,single,never,yes,1,,65,68,2,3,yes,4,0,F
+female,some high school,married,never,yes,7,private,49,47,4,3,yes,3,2,F
+female,bachelor's degree,married,sometimes,no,,private,91,96,2,3,yes,4,4,B
+male,bachelor's degree,married,regularly,,1,,88,88,1,2,yes,4,4,A
+female,some college,married,regularly,yes,4,private,58,57,1,2,yes,1,0,F
+female,high school,single,sometimes,,3,private,66,58,1,2,yes,5,17,F
+male,bachelor's degree,married,sometimes,yes,2,school_bus,73,75,1,2,yes,2,4,D
+male,associate's degree,divorced,regularly,no,2,school_bus,58,58,2,1,yes,4,5,D
+male,associate's degree,single,regularly,no,2,school_bus,62,65,2,2,yes,4,2,D
+male,some high school,married,regularly,yes,2,private,51,54,2,1,no,3,0,F
+female,bachelor's degree,married,regularly,yes,4,private,57,63,2,1,no,4,14,F
+female,master's degree,divorced,never,yes,0,private,80,83,2,3,no,3,2,C
+male,some college,divorced,regularly,yes,1,school_bus,78,82,3,1,yes,4,7,B
+male,some college,single,never,no,6,private,63,61,1,3,yes,4,0,D
+male,associate's degree,married,sometimes,yes,2,private,53,57,1,2,yes,3,0,F
+male,high school,divorced,sometimes,yes,5,school_bus,69,62,2,2,no,1,0,D
+female,,married,sometimes,yes,0,private,82,87,1,2,no,5,11,C
+male,associate's degree,married,sometimes,yes,2,private,68,62,2,1,yes,4,3,B
+female,associate's degree,married,never,yes,2,private,49,48,1,1,no,5,3,F
+male,associate's degree,married,regularly,yes,3,school_bus,43,39,3,1,yes,4,0,F
+female,high school,single,never,yes,,school_bus,88,86,1,1,yes,2,5,C
+female,some college,divorced,sometimes,no,2,private,68,62,2,2,no,3,6,F
+female,high school,married,sometimes,yes,2,,74,67,1,2,yes,3,4,F
+female,high school,married,sometimes,yes,1,private,72,68,1,2,yes,3,10,D
+male,bachelor's degree,married,sometimes,yes,0,school_bus,88,93,1,3,yes,2,2,B
+male,some high school,single,regularly,yes,2,private,57,46,1,2,no,3,4,F
+male,associate's degree,married,regularly,yes,3,school_bus,100,100,1,2,yes,4,10,A
+female,some high school,single,regularly,yes,3,private,63,62,1,2,yes,4,0,F
+male,bachelor's degree,single,sometimes,yes,1,school_bus,36,37,2,2,no,1,6,F
+male,high school,single,sometimes,yes,0,private,85,87,1,2,yes,2,0,A
+male,associate's degree,married,sometimes,no,4,school_bus,79,72,1,2,yes,5,0,B
+female,associate's degree,married,sometimes,yes,1,,62,64,1,2,yes,3,0,F
+male,some college,single,regularly,yes,0,private,64,58,3,3,yes,2,4,D
+female,associate's degree,single,regularly,no,3,,93,90,1,1,yes,3,2,C
+female,high school,married,regularly,yes,0,school_bus,76,73,2,2,yes,4,2,C
+male,some high school,married,sometimes,yes,1,private,52,45,1,3,yes,5,0,D
+female,bachelor's degree,divorced,sometimes,yes,2,private,74,78,1,1,yes,4,4,D
+male,master's degree,single,sometimes,yes,0,private,79,77,1,3,yes,2,6,C
+female,some high school,married,regularly,yes,2,,70,58,3,2,no,3,4,F
+female,high school,single,never,yes,4,school_bus,68,62,1,1,yes,5,16,F
+male,bachelor's degree,single,sometimes,yes,3,private,68,67,1,1,yes,1,4,C
+female,some college,,regularly,no,3,school_bus,91,100,1,2,yes,4,0,A
+female,some high school,divorced,sometimes,yes,1,private,39,37,1,1,yes,4,0,F
+male,bachelor's degree,,sometimes,yes,2,private,62,58,1,2,yes,5,2,D
+male,some college,single,regularly,yes,4,school_bus,73,73,2,2,yes,4,0,C
+female,some college,married,sometimes,no,4,private,45,47,1,3,yes,3,2,F
+male,some high school,single,sometimes,no,4,,74,64,1,1,yes,2,14,D
+female,some high school,single,sometimes,no,1,school_bus,82,74,1,1,yes,2,2,B
+male,associate's degree,married,regularly,no,3,private,92,92,1,1,yes,2,4,A
+female,bachelor's degree,married,regularly,yes,2,private,64,73,1,2,yes,3,4,F
+female,bachelor's degree,married,sometimes,no,3,school_bus,65,67,1,2,yes,4,16,F
+female,some college,single,regularly,yes,1,school_bus,59,63,1,2,yes,4,0,F
+female,high school,married,sometimes,yes,3,private,65,62,2,2,yes,3,0,F
+male,high school,divorced,sometimes,yes,,private,63,64,1,2,yes,5,0,D
+male,,married,regularly,no,3,,51,47,1,2,yes,3,0,F
+male,some college,divorced,sometimes,no,4,private,51,51,1,1,yes,4,0,D
+male,some college,divorced,regularly,yes,3,school_bus,75,65,2,1,no,5,0,C
+female,associate's degree,married,sometimes,yes,1,,60,60,1,3,yes,4,2,F
+male,bachelor's degree,single,sometimes,no,1,school_bus,95,88,2,3,yes,4,7,A
+female,some high school,single,never,no,4,school_bus,68,63,1,3,yes,3,2,F
+female,some high school,married,regularly,yes,1,school_bus,84,82,1,1,no,3,8,D
+male,associate's degree,married,sometimes,yes,1,school_bus,58,46,2,2,yes,3,25,D
+female,associate's degree,married,never,yes,2,school_bus,53,55,1,1,yes,4,8,F
+female,bachelor's degree,married,regularly,yes,0,,76,78,1,2,yes,3,2,D
+female,some high school,married,never,no,4,private,54,58,1,1,yes,4,0,F
+female,some college,married,sometimes,yes,3,,51,56,2,2,yes,3,14,F
+female,high school,divorced,never,yes,0,school_bus,67,75,1,2,yes,2,8,D
+female,some high school,married,sometimes,yes,5,private,84,81,1,2,yes,3,12,D
+female,some high school,married,sometimes,yes,,school_bus,90,88,1,4,yes,2,4,C
+female,some high school,married,regularly,yes,1,school_bus,62,63,1,2,no,3,2,F
+male,some college,single,sometimes,no,1,private,60,62,1,2,yes,4,2,D
+male,some high school,widowed,sometimes,yes,3,private,66,57,3,2,yes,3,2,C
+female,some high school,single,sometimes,yes,2,,70,73,1,2,yes,3,2,F
+female,some high school,married,regularly,yes,3,private,82,88,2,1,no,5,6,C
+female,,married,sometimes,yes,5,school_bus,64,69,1,1,yes,3,0,D
+female,high school,married,,yes,1,,100,100,1,1,yes,3,6,B
+female,associate's degree,divorced,sometimes,yes,1,school_bus,56,60,1,2,yes,3,8,F
+female,associate's degree,single,regularly,yes,3,private,80,78,1,2,yes,3,0,C
+male,,single,sometimes,yes,1,private,59,55,1,2,no,2,4,F
+male,high school,single,never,yes,0,school_bus,50,44,1,2,yes,3,2,F
+male,,single,regularly,yes,3,private,65,59,1,2,yes,2,2,F
+female,bachelor's degree,married,regularly,no,2,school_bus,92,86,1,2,no,4,6,C
+female,some high school,married,regularly,yes,3,school_bus,89,83,4,1,yes,5,6,B
+male,some college,divorced,sometimes,no,,school_bus,87,84,1,2,yes,4,4,C
+male,associate's degree,married,regularly,yes,0,private,71,71,1,3,yes,4,2,D
+female,some high school,married,never,yes,0,private,78,84,1,2,yes,4,0,C
+female,high school,married,regularly,yes,3,private,38,44,3,2,yes,4,2,F
+male,some college,married,sometimes,yes,1,,63,62,1,4,yes,3,4,D
+female,some college,married,never,yes,2,school_bus,93,91,1,4,yes,3,4,B
+male,associate's degree,single,sometimes,yes,3,school_bus,76,72,2,2,yes,1,2,C
+male,associate's degree,married,sometimes,yes,3,,60,56,2,4,yes,4,12,F
+male,associate's degree,divorced,sometimes,yes,,private,68,70,2,4,yes,3,0,C
+female,some college,married,sometimes,yes,3,school_bus,77,72,1,4,yes,3,0,C
+female,,widowed,never,no,1,,72,64,1,2,yes,3,2,D
+male,,single,sometimes,no,3,,84,82,1,1,no,3,2,B
+male,high school,single,sometimes,yes,0,school_bus,78,77,1,2,yes,3,54,A
+female,high school,single,sometimes,no,3,private,57,57,1,2,yes,3,6,F
+male,high school,married,sometimes,yes,1,private,52,47,2,4,yes,4,8,F
+female,associate's degree,married,never,yes,3,private,95,92,1,4,yes,2,0,B
+female,some high school,married,sometimes,yes,0,private,54,57,2,1,yes,5,2,F
+female,master's degree,,regularly,yes,2,school_bus,75,81,1,2,yes,4,12,D
+female,bachelor's degree,divorced,sometimes,yes,2,private,78,90,1,1,yes,2,2,C
+male,high school,married,sometimes,yes,3,school_bus,86,86,1,3,yes,3,4,B
+female,some college,married,regularly,yes,4,school_bus,58,49,1,2,yes,4,10,F
+male,high school,married,sometimes,yes,3,school_bus,61,63,2,2,yes,3,4,C
+male,some college,single,never,no,4,private,41,36,1,2,yes,3,2,F
+male,some college,married,never,no,4,,74,79,2,2,yes,4,6,C
+male,some college,single,regularly,no,4,,78,80,1,2,no,3,4,B
+male,some college,single,sometimes,yes,2,private,53,48,1,3,yes,3,4,F
+female,,married,sometimes,,0,school_bus,47,56,2,2,yes,4,12,F
+male,high school,single,sometimes,yes,1,school_bus,60,48,1,2,no,1,18,D
+male,associate's degree,single,sometimes,yes,1,school_bus,61,62,1,3,yes,3,0,D
+male,some college,married,regularly,no,3,school_bus,59,63,1,1,yes,5,4,D
+male,some high school,single,never,yes,1,school_bus,55,46,1,2,no,3,4,F
+male,associate's degree,single,sometimes,yes,3,private,33,28,2,2,yes,3,0,F
+female,some high school,single,sometimes,yes,2,school_bus,59,54,1,4,yes,3,6,F
+female,some college,married,sometimes,yes,2,private,50,54,2,4,yes,1,2,F
+female,some high school,single,sometimes,yes,5,private,60,54,2,1,yes,3,2,F
+male,associate's degree,married,never,no,2,school_bus,70,77,1,2,no,3,2,C
+male,high school,,sometimes,yes,3,,59,55,1,1,yes,3,6,F
+male,master's degree,married,never,,3,,86,89,1,3,yes,3,0,A
+female,some college,married,regularly,yes,1,,89,96,1,1,yes,5,14,B
+female,some high school,married,sometimes,no,2,private,80,78,1,3,yes,4,0,C
+female,high school,single,regularly,,1,school_bus,87,78,1,1,yes,3,4,C
+male,high school,married,regularly,,3,school_bus,71,64,2,2,yes,3,26,C
+male,master's degree,divorced,sometimes,yes,7,private,49,44,1,2,yes,4,0,F
+male,associate's degree,single,sometimes,,3,school_bus,75,70,1,4,no,3,10,C
+male,some high school,married,sometimes,yes,2,private,70,62,1,4,yes,1,8,C
+female,high school,single,regularly,yes,1,school_bus,84,80,1,3,yes,3,2,C
+male,some high school,married,regularly,yes,,private,67,55,4,4,yes,3,6,D
+female,some high school,married,regularly,yes,4,private,66,71,1,3,yes,4,4,D
+male,some college,divorced,sometimes,no,3,school_bus,61,61,1,1,yes,5,6,D
+female,associate's degree,divorced,sometimes,no,5,,42,49,1,3,yes,1,0,F
+male,some high school,married,regularly,yes,1,school_bus,49,50,1,2,yes,1,6,D
+male,bachelor's degree,single,sometimes,yes,2,school_bus,72,66,1,1,yes,5,10,C
+male,high school,single,never,yes,2,school_bus,37,35,1,2,yes,4,8,F
+male,some high school,married,regularly,no,2,private,70,73,1,2,yes,4,2,C
+male,some college,single,sometimes,no,3,school_bus,65,62,2,2,no,4,2,C
+female,bachelor's degree,married,regularly,yes,4,private,82,88,2,1,yes,4,0,C
+female,some high school,single,sometimes,yes,3,school_bus,79,74,3,2,yes,2,20,B
+female,,married,sometimes,yes,2,private,79,80,1,1,yes,4,6,D
+female,associate's degree,married,regularly,no,3,school_bus,59,63,1,2,yes,2,2,F
+female,some high school,married,regularly,yes,3,school_bus,62,57,1,4,yes,5,6,F
+female,associate's degree,married,sometimes,yes,0,private,77,78,2,2,yes,2,2,D
+male,associate's degree,single,sometimes,yes,,school_bus,69,66,1,1,yes,4,18,C
+female,some college,single,sometimes,no,1,school_bus,71,68,1,2,yes,4,0,F
+male,high school,single,sometimes,yes,1,private,55,55,1,1,yes,5,0,D
+male,bachelor's degree,single,sometimes,no,2,private,54,49,1,2,yes,3,0,F
+male,some college,single,sometimes,yes,1,school_bus,63,68,1,2,no,4,2,C
+male,some college,single,sometimes,no,3,school_bus,82,68,1,1,yes,3,0,C
+female,associate's degree,married,sometimes,yes,0,school_bus,73,69,1,1,yes,5,8,C
+male,bachelor's degree,single,sometimes,yes,1,school_bus,87,89,2,3,yes,2,0,B
+female,bachelor's degree,married,,yes,0,private,95,94,3,1,yes,3,0,A
+male,,married,sometimes,yes,0,school_bus,73,71,1,1,yes,4,12,C
+male,bachelor's degree,divorced,regularly,no,1,school_bus,66,71,1,1,yes,2,16,C
+female,bachelor's degree,married,sometimes,yes,1,school_bus,92,94,4,2,no,3,0,C
+male,associate's degree,married,sometimes,yes,1,school_bus,79,76,1,3,yes,3,0,C
+male,some high school,married,sometimes,yes,1,private,73,64,3,2,no,4,0,C
+male,high school,married,regularly,yes,6,,60,59,2,1,yes,3,0,D
+male,high school,divorced,sometimes,no,3,school_bus,55,49,1,2,no,4,0,C
+female,some college,married,sometimes,yes,1,school_bus,64,68,2,1,yes,3,0,D
+male,master's degree,married,never,yes,2,school_bus,63,72,2,4,yes,2,0,D
+female,master's degree,divorced,sometimes,no,4,school_bus,83,78,2,1,yes,3,8,C
+male,some college,divorced,sometimes,yes,2,school_bus,70,63,1,3,yes,2,2,B
+female,some college,divorced,regularly,no,4,private,47,56,1,1,yes,4,2,F
+female,high school,married,,yes,2,school_bus,84,82,1,1,yes,4,0,B
+female,associate's degree,married,regularly,yes,2,private,41,45,1,2,yes,4,0,F
+female,bachelor's degree,single,regularly,yes,3,school_bus,62,61,1,2,yes,3,0,F
+male,associate's degree,single,regularly,yes,0,school_bus,65,72,1,2,yes,3,2,C
+male,associate's degree,,sometimes,yes,2,school_bus,53,51,1,1,yes,3,0,F
+male,some college,divorced,sometimes,yes,3,private,41,48,4,1,yes,5,0,F
+male,,married,sometimes,no,4,private,62,55,1,1,yes,3,0,D
+male,some high school,married,sometimes,yes,2,school_bus,86,83,1,1,no,4,6,B
+female,some college,single,regularly,yes,1,school_bus,65,69,2,3,yes,2,8,F
+male,,married,never,yes,4,school_bus,63,56,1,1,yes,5,0,D
+female,associate's degree,married,regularly,yes,3,private,84,82,1,1,no,2,0,B
+female,bachelor's degree,divorced,sometimes,no,1,school_bus,63,59,1,2,no,4,2,F
+female,associate's degree,married,regularly,yes,3,school_bus,97,94,1,1,no,2,8,B
+male,some high school,married,regularly,yes,5,school_bus,47,42,3,1,no,2,6,F
+female,,single,sometimes,no,3,,81,83,3,1,no,2,2,C
+female,high school,married,regularly,yes,0,private,68,65,1,2,yes,5,4,F
+male,some college,married,sometimes,yes,3,school_bus,73,71,2,1,yes,3,0,C
+male,high school,married,sometimes,yes,3,school_bus,74,75,2,2,yes,4,6,C
+male,some high school,married,never,yes,3,private,32,30,2,1,no,4,0,F
+male,some college,single,sometimes,yes,3,school_bus,96,100,1,1,yes,3,2,A
+male,some high school,single,never,yes,2,,72,64,4,2,no,3,0,D
+female,high school,single,regularly,yes,,private,83,78,2,1,no,5,16,C
+female,bachelor's degree,married,sometimes,no,4,,92,92,1,2,yes,3,4,B
+male,,married,sometimes,no,,,68,66,1,2,yes,2,0,B
+female,some college,married,never,yes,3,school_bus,74,75,1,2,yes,1,0,D
+male,some college,married,regularly,yes,,school_bus,61,66,1,2,yes,4,0,C
+male,some college,,regularly,yes,0,school_bus,55,52,3,1,yes,4,0,F
+female,associate's degree,married,never,yes,3,school_bus,65,58,2,2,yes,3,2,F
+male,some high school,married,sometimes,,0,school_bus,54,48,1,2,yes,4,0,D
+female,high school,married,sometimes,yes,0,private,82,78,1,2,yes,3,0,C
+male,high school,divorced,sometimes,yes,2,school_bus,92,89,2,2,yes,4,4,A
+male,associate's degree,married,regularly,yes,3,private,52,49,2,2,yes,4,4,D
+female,some high school,single,sometimes,yes,4,school_bus,65,65,2,2,yes,4,2,F
+male,associate's degree,single,sometimes,no,3,school_bus,55,57,1,2,yes,3,4,F
+male,,married,regularly,no,4,school_bus,61,54,1,1,yes,3,10,D
+female,bachelor's degree,single,sometimes,yes,2,school_bus,84,76,1,2,yes,2,4,D
+male,associate's degree,single,sometimes,yes,0,school_bus,77,71,1,2,yes,4,10,C
+male,,married,regularly,yes,0,school_bus,41,46,1,2,yes,2,2,F
+male,bachelor's degree,single,sometimes,yes,2,,66,66,1,2,no,4,0,C
+female,associate's degree,single,sometimes,yes,4,school_bus,57,69,1,2,yes,3,56,D
+male,associate's degree,divorced,regularly,no,2,private,49,50,1,2,yes,2,14,F
+male,some high school,divorced,sometimes,yes,3,school_bus,56,57,1,2,yes,3,12,D
+female,some college,married,never,no,2,private,87,84,1,1,yes,3,2,B
+male,some college,married,regularly,yes,3,school_bus,61,55,1,2,yes,2,0,D
+female,some high school,single,regularly,,0,school_bus,58,58,1,2,yes,3,6,D
+female,bachelor's degree,married,sometimes,yes,3,,69,73,1,2,no,1,4,F
+female,associate's degree,married,sometimes,yes,3,private,54,55,1,2,yes,3,10,F
+male,some high school,married,sometimes,yes,3,private,72,65,1,2,yes,3,0,D
+female,,single,regularly,yes,4,private,90,95,2,2,yes,4,12,A
+female,high school,divorced,,yes,1,school_bus,76,65,1,1,yes,3,8,F
+male,some college,widowed,sometimes,no,3,private,48,51,2,1,yes,3,0,F
+male,high school,married,never,no,4,private,47,44,1,2,yes,3,0,F
+female,some college,divorced,sometimes,yes,4,school_bus,64,62,1,1,yes,2,4,F
+female,master's degree,single,sometimes,yes,3,school_bus,66,71,3,1,yes,3,8,D
+female,high school,married,regularly,yes,0,school_bus,91,91,2,1,yes,2,24,B
+male,associate's degree,single,never,yes,3,private,55,51,1,2,yes,5,0,F
+female,,married,sometimes,yes,,private,72,75,1,2,yes,3,2,C
+male,high school,divorced,never,no,4,,49,39,1,2,no,4,6,F
+male,some college,divorced,sometimes,yes,3,school_bus,70,72,1,2,no,4,4,C
+male,some college,married,sometimes,yes,1,school_bus,47,41,1,1,yes,3,18,F
+male,high school,married,sometimes,yes,0,private,28,25,2,4,yes,3,6,F
+male,high school,divorced,regularly,yes,3,private,59,63,1,3,yes,4,28,D
+male,high school,married,sometimes,yes,3,school_bus,43,34,1,2,yes,3,5,F
+female,associate's degree,married,regularly,yes,2,school_bus,82,85,1,2,yes,3,10,B
+male,bachelor's degree,married,sometimes,yes,2,school_bus,55,52,2,1,no,3,6,D
+male,some college,married,regularly,yes,3,school_bus,35,30,2,3,yes,4,6,F
+female,some high school,divorced,regularly,yes,2,private,71,72,1,4,yes,3,10,F
+male,bachelor's degree,divorced,regularly,yes,0,private,75,71,1,2,yes,3,13,D
+male,associate's degree,married,sometimes,no,3,school_bus,57,55,1,2,yes,3,0,F
+male,high school,married,regularly,yes,1,school_bus,42,48,1,2,yes,4,15,F
+male,bachelor's degree,single,sometimes,no,2,school_bus,58,61,1,1,no,2,12,C
+female,master's degree,married,never,yes,3,school_bus,73,74,2,2,yes,4,2,D
+male,high school,married,sometimes,yes,1,private,56,46,1,2,yes,4,22,F
+male,some college,divorced,sometimes,yes,2,school_bus,80,77,1,2,yes,2,13,C
+female,associate's degree,married,sometimes,no,3,school_bus,41,44,2,1,no,3,3,F
+male,some college,married,sometimes,yes,1,school_bus,94,88,1,3,yes,3,4,A
+female,some college,single,never,yes,3,private,77,81,2,2,yes,2,2,C
+male,some high school,married,sometimes,yes,1,school_bus,63,57,1,3,no,3,0,C
+male,associate's degree,divorced,sometimes,yes,2,private,70,66,1,2,yes,3,2,C
+male,high school,married,regularly,,2,school_bus,67,64,2,2,yes,3,0,D
+male,some high school,married,regularly,yes,3,school_bus,55,54,1,3,yes,3,0,F
+female,associate's degree,single,sometimes,yes,3,private,77,84,1,2,yes,3,16,B
+female,bachelor's degree,married,regularly,yes,,private,86,88,1,2,yes,3,10,B
+female,associate's degree,married,sometimes,no,4,private,44,45,1,2,yes,3,2,F
+female,high school,single,sometimes,yes,2,,80,71,4,2,yes,3,14,F
+male,some college,married,sometimes,yes,4,private,55,61,2,3,yes,2,10,D
+female,bachelor's degree,married,sometimes,yes,1,school_bus,66,75,1,2,yes,2,14,F
+female,master's degree,married,never,yes,1,school_bus,77,78,2,2,yes,5,4,D
+female,master's degree,single,sometimes,yes,1,school_bus,89,88,1,2,yes,5,14,C
+female,high school,,sometimes,no,3,private,65,65,1,2,yes,2,2,D
+female,bachelor's degree,divorced,sometimes,yes,2,,51,52,2,2,yes,4,18,F
+female,some college,married,regularly,,0,private,80,85,2,3,yes,3,10,D
+male,some high school,,sometimes,yes,5,private,59,61,1,2,yes,4,4,F
+male,some college,single,never,yes,,school_bus,55,47,1,1,yes,5,20,F
+male,some high school,married,never,yes,1,school_bus,62,57,3,2,no,1,2,F
+female,associate's degree,divorced,regularly,yes,2,private,60,57,1,2,yes,5,0,F
+female,some college,married,sometimes,yes,1,school_bus,92,92,2,2,yes,5,14,B
+female,some college,married,regularly,yes,0,school_bus,100,100,2,2,yes,3,2,A
+male,some college,single,never,no,3,private,64,56,1,1,yes,4,0,D
+female,associate's degree,,sometimes,yes,5,private,61,56,1,1,yes,3,0,F
+female,high school,single,sometimes,no,2,school_bus,64,61,2,3,yes,4,0,F
+female,high school,married,never,no,2,private,87,88,3,1,yes,3,6,B
+female,high school,divorced,regularly,yes,1,school_bus,60,57,2,1,yes,2,4,F
+male,some high school,single,regularly,no,2,private,74,65,1,1,yes,4,16,D
+female,master's degree,married,sometimes,yes,2,private,91,90,1,2,yes,3,8,B
+male,associate's degree,married,sometimes,yes,2,school_bus,79,86,1,1,yes,3,0,C
+male,bachelor's degree,married,regularly,no,3,school_bus,78,83,2,1,yes,4,0,A
+male,associate's degree,married,sometimes,no,2,private,48,45,3,2,yes,3,6,D
+female,some high school,married,sometimes,no,1,school_bus,74,73,1,1,yes,2,4,C
+male,some college,single,sometimes,yes,1,,81,84,2,1,no,3,0,B
+male,some college,married,regularly,yes,2,,69,70,1,1,yes,4,0,C
+female,,married,sometimes,yes,1,school_bus,67,57,2,1,yes,4,2,F
+female,some high school,married,never,yes,2,,50,50,1,4,yes,2,6,F
+male,some high school,married,regularly,no,2,private,59,65,1,2,yes,3,12,D
+female,some high school,married,sometimes,yes,1,school_bus,66,63,1,2,yes,2,8,D
+male,some college,divorced,sometimes,yes,3,,67,69,1,4,yes,4,0,D
+male,some college,married,sometimes,yes,3,,76,68,1,2,yes,1,21,D
+male,some high school,married,regularly,yes,0,school_bus,54,55,1,2,yes,3,2,D
+female,some high school,married,,yes,4,school_bus,65,59,1,3,no,3,1,F
+female,high school,single,sometimes,yes,2,school_bus,68,63,1,3,no,2,4,F
+female,bachelor's degree,divorced,regularly,yes,0,private,63,60,1,3,yes,3,0,F
+male,some college,married,sometimes,yes,1,private,65,72,2,2,yes,2,13,C
+female,bachelor's degree,married,regularly,yes,0,private,65,71,1,2,yes,4,2,F
+male,high school,single,sometimes,no,1,private,69,61,2,2,yes,3,8,C
+male,some high school,single,never,yes,3,school_bus,51,53,1,2,yes,4,10,F
+female,high school,single,sometimes,yes,0,school_bus,90,79,2,2,yes,3,0,C
+female,high school,married,regularly,no,1,private,62,61,1,2,yes,3,15,F
+female,master's degree,divorced,sometimes,no,3,school_bus,65,71,1,4,yes,5,4,D
+female,high school,married,regularly,yes,1,school_bus,49,60,2,2,no,4,2,F
+male,some college,single,sometimes,yes,0,school_bus,64,56,1,2,no,5,2,C
+female,,widowed,regularly,yes,1,,42,39,2,2,yes,3,2,F
+male,high school,married,regularly,yes,1,private,87,83,2,2,yes,4,6,A
+male,associate's degree,married,regularly,yes,0,private,83,80,2,2,yes,1,75,C
+female,master's degree,married,regularly,yes,1,private,55,50,2,1,yes,2,22,F
+male,some high school,,,yes,3,private,52,52,1,2,yes,4,15,D
+female,high school,divorced,never,no,,school_bus,92,90,2,1,yes,2,8,C
+female,high school,married,regularly,yes,3,private,98,100,2,1,yes,5,30,A
+female,some college,,regularly,yes,3,private,40,29,1,1,yes,4,19,F
+male,some college,single,sometimes,yes,1,private,56,63,2,4,no,2,1,F
+female,some high school,married,sometimes,yes,3,school_bus,67,65,2,2,yes,4,4,F
+female,some college,single,never,yes,1,private,75,75,1,2,yes,4,4,D
+female,bachelor's degree,divorced,sometimes,yes,0,school_bus,80,78,1,2,yes,3,2,D
+female,bachelor's degree,married,sometimes,,1,private,90,92,1,3,yes,3,5,B
+male,some high school,divorced,regularly,yes,0,school_bus,40,44,1,3,yes,3,6,F
+female,high school,divorced,sometimes,,0,private,61,69,1,3,yes,2,6,F
+male,,divorced,sometimes,yes,1,school_bus,55,49,1,2,yes,4,9,F
+male,some college,single,regularly,no,5,private,76,74,1,2,yes,3,11,C
+male,master's degree,married,sometimes,yes,0,school_bus,90,93,1,3,yes,2,0,A
+male,high school,divorced,never,yes,3,private,50,54,1,2,yes,4,12,D
+male,associate's degree,single,regularly,yes,2,school_bus,64,60,2,4,no,1,6,C
+male,some high school,single,sometimes,yes,4,school_bus,66,67,2,3,yes,4,8,B
+male,some college,divorced,sometimes,yes,0,private,85,85,1,1,yes,4,4,A
+male,bachelor's degree,married,regularly,yes,,school_bus,60,69,2,2,yes,3,0,C
+female,associate's degree,married,never,yes,1,school_bus,71,69,2,2,yes,4,10,D
+female,high school,married,sometimes,yes,3,school_bus,98,100,1,4,yes,3,0,A
+female,high school,married,never,yes,3,school_bus,83,80,1,1,yes,4,5,D
+female,associate's degree,single,regularly,yes,1,school_bus,86,93,1,2,yes,2,14,A
+female,some high school,married,sometimes,yes,1,private,77,74,2,1,yes,1,0,D
+male,associate's degree,divorced,sometimes,yes,2,,43,37,2,3,yes,3,0,F
+male,bachelor's degree,single,sometimes,yes,7,school_bus,70,72,1,4,yes,2,0,C
+female,some high school,single,regularly,no,1,private,77,65,1,2,yes,4,20,F
+male,high school,single,sometimes,no,2,,70,69,1,2,yes,4,8,A
+female,master's degree,married,regularly,yes,1,school_bus,90,86,1,1,no,5,0,C
+male,,single,regularly,no,3,school_bus,66,71,2,1,yes,3,38,C
+female,some college,divorced,sometimes,yes,4,private,66,67,1,2,no,5,0,D
+male,,divorced,sometimes,yes,1,private,58,59,1,2,yes,4,18,C
+male,some college,single,sometimes,yes,2,school_bus,78,73,1,2,no,2,0,B
+female,bachelor's degree,single,sometimes,yes,1,,78,73,3,2,yes,4,20,C
+male,associate's degree,single,regularly,no,2,,36,36,1,2,yes,5,3,F
+female,high school,married,sometimes,yes,1,private,54,45,2,2,yes,2,22,F
+female,some college,divorced,sometimes,yes,7,private,72,79,1,3,yes,1,14,C
+female,bachelor's degree,married,sometimes,yes,2,school_bus,69,72,1,3,yes,1,40,D
+female,associate's degree,married,sometimes,no,4,school_bus,71,70,2,2,yes,3,0,D
+male,some college,divorced,sometimes,no,3,school_bus,78,72,1,3,yes,3,9,B
+female,some college,married,sometimes,yes,3,school_bus,87,84,1,3,yes,3,0,C
+female,bachelor's degree,divorced,regularly,yes,1,school_bus,87,87,1,2,yes,4,2,B
+male,associate's degree,married,sometimes,yes,2,school_bus,63,57,1,2,yes,2,23,C
+male,some college,married,regularly,yes,2,private,74,70,1,2,no,2,12,C
+female,bachelor's degree,married,regularly,no,3,school_bus,82,84,1,3,yes,3,3,D
+male,bachelor's degree,married,sometimes,yes,0,private,48,39,1,3,yes,4,1,F
+male,some high school,divorced,sometimes,,1,school_bus,71,74,2,3,yes,3,0,B
+female,some college,married,never,yes,2,school_bus,74,80,1,3,yes,3,3,D
+female,high school,married,never,yes,2,school_bus,79,78,1,1,yes,3,3,C
+male,some high school,married,sometimes,no,1,private,89,87,4,1,yes,4,8,A
+male,some college,married,sometimes,no,2,,67,66,1,3,yes,4,7,C
+male,associate's degree,married,never,no,2,school_bus,75,74,2,3,yes,3,4,C
+male,some college,single,sometimes,no,,private,59,60,1,4,yes,5,2,D
+male,high school,divorced,never,no,4,school_bus,51,38,1,3,yes,4,7,F
+female,high school,single,sometimes,yes,1,private,87,79,1,2,yes,3,0,B
+male,some high school,married,never,no,2,school_bus,82,76,1,2,yes,3,0,B
+female,some high school,married,sometimes,yes,1,school_bus,74,74,2,4,no,4,0,D
+female,high school,married,never,no,4,private,71,77,1,3,yes,4,16,D
+male,,single,regularly,,0,school_bus,65,53,1,3,no,4,12,C
+female,bachelor's degree,married,sometimes,yes,1,school_bus,74,74,1,2,yes,3,0,C
+male,high school,married,regularly,yes,0,private,66,72,1,4,yes,3,7,D
+male,some college,married,sometimes,yes,2,private,79,76,1,2,yes,3,4,B
+male,,single,regularly,yes,7,school_bus,91,89,1,3,yes,3,4,A
+female,some high school,divorced,never,no,4,private,73,67,1,2,yes,3,0,F
+male,bachelor's degree,married,sometimes,no,1,school_bus,82,84,1,2,yes,3,11,A
+female,bachelor's degree,divorced,sometimes,yes,5,school_bus,99,100,1,2,yes,3,0,B
+female,master's degree,divorced,sometimes,no,2,school_bus,78,81,1,3,yes,3,4,D
+female,some college,married,regularly,yes,3,school_bus,71,67,1,3,yes,4,7,D
+female,high school,married,sometimes,yes,2,school_bus,74,74,1,3,yes,3,9,C
+female,some high school,single,sometimes,yes,2,private,97,98,1,3,yes,4,0,B
+female,high school,single,regularly,no,,private,82,79,1,3,yes,4,0,B
+female,some high school,single,regularly,yes,1,private,87,82,2,1,yes,5,10,D
+male,some college,divorced,regularly,yes,3,,100,100,3,2,yes,4,8,A
+male,,married,sometimes,no,3,private,59,52,2,2,yes,5,2,D
+male,high school,widowed,sometimes,yes,2,private,70,67,1,1,yes,3,7,D
+male,some college,married,sometimes,yes,4,private,54,50,3,1,yes,4,4,F
+male,,married,regularly,yes,1,school_bus,48,49,2,2,yes,5,4,F
+female,,married,regularly,yes,0,school_bus,66,69,1,2,no,3,0,F
+female,associate's degree,single,regularly,yes,2,school_bus,86,91,2,2,yes,3,4,C
+female,some high school,single,sometimes,yes,3,school_bus,72,77,2,2,no,2,2,F
+male,bachelor's degree,married,regularly,yes,1,private,87,86,2,1,yes,3,4,A
+male,some high school,divorced,sometimes,no,3,,61,54,2,3,yes,3,0,F
+male,associate's degree,married,,yes,3,school_bus,89,85,3,2,no,3,0,B
+female,some college,married,sometimes,yes,4,private,91,90,2,2,no,4,2,B
+female,some college,married,sometimes,yes,2,private,96,98,2,2,yes,3,0,B
+female,some high school,divorced,sometimes,yes,1,school_bus,46,46,1,2,yes,3,0,F
+female,some college,married,sometimes,yes,1,school_bus,87,74,2,2,no,2,0,D
+male,high school,married,regularly,yes,3,private,52,46,2,2,no,3,4,F
+male,some high school,single,regularly,yes,6,school_bus,72,68,2,3,yes,2,0,C
+male,associate's degree,single,sometimes,yes,0,school_bus,85,84,3,1,yes,2,0,B
+female,some college,divorced,regularly,yes,0,school_bus,83,83,2,1,yes,2,0,C
+male,some high school,divorced,sometimes,no,2,school_bus,54,42,3,2,yes,2,10,F
+male,associate's degree,single,never,yes,5,private,53,42,2,2,no,2,4,F
+male,bachelor's degree,divorced,sometimes,yes,1,school_bus,76,67,3,1,yes,3,3,C
+male,bachelor's degree,married,regularly,yes,2,school_bus,71,74,1,3,no,4,8,C
+female,some high school,married,sometimes,no,1,private,60,72,1,1,yes,5,14,F
+female,some college,married,regularly,no,2,school_bus,59,51,2,3,yes,4,0,F
+male,high school,married,never,,2,school_bus,52,48,4,3,yes,3,2,F
+male,master's degree,single,sometimes,yes,0,private,41,44,2,3,yes,4,4,F
+female,some college,married,sometimes,yes,3,private,31,36,1,2,yes,4,4,F
+male,some college,,regularly,yes,2,school_bus,75,72,1,2,yes,1,0,C
+male,associate's degree,married,sometimes,yes,2,,49,39,1,2,yes,5,17,F
+female,high school,divorced,sometimes,no,1,private,73,71,1,2,yes,2,4,D
+female,some college,married,,yes,1,,100,98,2,1,yes,4,5,B
+male,bachelor's degree,married,sometimes,no,2,private,61,56,2,2,yes,4,2,D
+male,associate's degree,married,regularly,no,2,school_bus,56,58,2,1,no,3,0,D
+female,bachelor's degree,,sometimes,yes,3,private,82,86,2,1,no,4,14,C
+female,some college,married,sometimes,no,3,,88,86,2,3,no,3,2,C
+male,associate's degree,single,regularly,no,2,school_bus,69,66,3,1,yes,4,7,F
+female,some high school,married,sometimes,yes,2,private,60,60,1,3,yes,4,0,F
+female,some college,single,sometimes,yes,4,school_bus,55,52,1,2,yes,3,0,F
+female,master's degree,married,sometimes,no,3,school_bus,92,100,2,2,no,1,0,B
+female,bachelor's degree,married,sometimes,yes,0,school_bus,52,56,1,2,no,5,11,F
+male,master's degree,married,sometimes,yes,0,school_bus,62,61,2,1,yes,4,3,D
+male,some high school,married,sometimes,yes,1,school_bus,53,50,1,1,no,5,3,D
+female,some high school,divorced,sometimes,yes,5,school_bus,72,65,3,1,yes,4,0,F
